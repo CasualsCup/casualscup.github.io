@@ -1,0 +1,138 @@
+{
+  "_source": "Fight facts from HockeyFights.com fight log (fan votes and ratings as of 2026-09-29); ownership from ESPN league 1867179300 rosters read 2026-09-29. Video links are third-party YouTube uploads found 2026-09-29.",
+  "fightOfTheWeek": {
+    "week": "Preseason",
+    "title": "Harley vs. Boldy",
+    "date": "Friday, September 25, 2026",
+    "game": "Stars vs. Wild, preseason",
+    "when": "3rd period, 18:44",
+    "fighters": [
+      { "name": "Thomas Harley", "nhl": "Dallas Stars", "pos": "D", "owner": "Swahili James" },
+      { "name": "Matt Boldy", "nhl": "Minnesota Wild", "pos": "LW", "owner": "The Mobile Leprechauns" }
+    ],
+    "vote": "HockeyFights voters: Harley 67%, draw 33%, Boldy 0%. Both got the fighting major and a ten-minute misconduct.",
+    "videos": [
+      { "label": "The fight and the misconducts", "url": "https://www.youtube.com/watch?v=bpoTumvOidQ" },
+      { "label": "Full game highlights", "url": "https://www.youtube.com/watch?v=3t4bmgoxoDg" }
+    ],
+    "shoresy": "Two guys from this league squared up in a preseason game nobody paid to watch. Swahili James's defenseman versus The Mobile Leprechauns' first round pick, and the voters gave Boldy zero percent. Zero. Not one guy on the internet said he won. Leprechauns, you drafted a man tenth overall and he couldn't even steal a draw. Harley gets eight out of ten. Boldy gets two minutes for a haircut, plus ten for the misconduct, plus a lifetime ban from my group chat.",
+    "goon": "Stars aren't supposed to go, bud. That's the code. But if you're gonna go, you go like Harley went: straight up, finished it, took his ten and sat down. Boldy, you showed up and that counts for something. Just not for points. Sorry.",
+    "undercard": [
+      {
+        "title": "Benn vs. Foligno",
+        "date": "September 25, 2026, 3rd period, 19:08, same game",
+        "line": "Jamie Benn (Dallas, owned by Something's Bruin) against Marcus Foligno (Minnesota, unowned). Voters: Foligno 63%, Benn 22%, draw 15%. Twenty-four seconds after Harley and Boldy, the veterans decided the kids shouldn't have all the fun.",
+        "url": "https://www.youtube.com/watch?v=ypebeULS2mc",
+        "shoresy": "Something's Bruin's guy lost to a free agent in this league. Marcus Foligno is on the wire right now, boys. Pitter patter."
+      },
+      {
+        "title": "Thorpe vs. Touré",
+        "date": "Saturday, September 26, 2026, 1st period, 6:12",
+        "line": "Tyler Thorpe (Montreal) against Djibril Touré (Ottawa). Highest-rated fight of the preseason on HockeyFights at 6.9. Voters: Thorpe 43%, draw 33%, Touré 24%. Neither man is on a roster in this league.",
+        "url": "https://www.youtube.com/watch?v=Lecu30ssuVw",
+        "shoresy": "Best tilt of the preseason and nobody in this league owns either guy. That's the Casuals Cup. Twenty managers, one job, and you all drafted figure skaters."
+      }
+    ]
+  },
+  "tapeRoom": [
+    {
+      "title": "The Brawl in Hockeytown",
+      "date": "March 26, 1997",
+      "game": "Colorado Avalanche at Detroit Red Wings, Joe Louis Arena",
+      "line": "Darren McCarty went after Claude Lemieux, both goalies, Patrick Roy and Mike Vernon, met at centre ice, and Detroit won it in overtime on a McCarty goal. The rivalry every rivalry since has been measured against.",
+      "url": "https://www.youtube.com/watch?v=E7J8pvG70nE",
+      "goon": "Two goalies fighting. That's when you know a building means it. Respect to everybody in it."
+    },
+    {
+      "title": "Iginla vs. Lecavalier",
+      "date": "May 29, 2004",
+      "game": "Stanley Cup Final, Game 3, Tampa Bay at Calgary",
+      "line": "Two captains, two franchise players, the Cup on the line, and they dropped the gloves anyway. Stars do not fight. These two did.",
+      "url": "https://www.youtube.com/watch?v=qlT6NQ8NNlw",
+      "goon": "That's the one I show kids. Captains standing up for their rooms. No cheap stuff. Beautiful."
+    },
+    {
+      "title": "Probert vs. Domi",
+      "date": "December 2, 1992",
+      "game": "Detroit Red Wings at New York Rangers, Madison Square Garden",
+      "line": "The rematch. Earlier that year Domi had skated off with an imaginary championship belt. This time they went seconds after the opening faceoff, and the Garden stood up for it.",
+      "url": "https://www.youtube.com/watch?v=xys_QLNISi4",
+      "goon": "Two heavyweights who both said yes. That's the whole code right there, bud."
+    },
+    {
+      "title": "Three Fights Off The Opening Faceoff",
+      "date": "March 19, 2012",
+      "game": "New Jersey Devils at New York Rangers",
+      "line": "The puck dropped and three fights started at once: Ryan Carter and Stu Bickel, Cam Janssen and Brandon Prust, Eric Boulton and Mike Rupp. John Tortorella and Peter DeBoer kept yelling at each other from the benches.",
+      "url": "https://www.youtube.com/watch?v=otm6n1zHsew",
+      "goon": "Zero seconds played and six guys in the box. Now that's a warm-up."
+    },
+    {
+      "title": "Reaves vs. Rempe",
+      "date": "October 23, 2025",
+      "game": "San Jose Sharks at New York Rangers",
+      "line": "The veteran heavyweight and the six-foot-eight kid, second season in a row. Ryan Reaves is on Goontown Gaitors' roster in this league.",
+      "url": "https://www.youtube.com/watch?v=Bzqp1TUGqPA",
+      "goon": "Old guy teaching the young guy, and the young guy listening. That's how it's supposed to go."
+    },
+    {
+      "title": "Zadorov vs. Joshua",
+      "date": "March 24, 2026",
+      "game": "Toronto Maple Leafs vs. Boston Bruins",
+      "line": "Nikita Zadorov, the man who led the NHL in penalty minutes, and Dakota Joshua. Zadorov is on Something's Bruin's blue line in this league.",
+      "url": "https://www.youtube.com/watch?v=19B_YXAIuYk",
+      "goon": "Big man, big reach, fights fair. Something's Bruin, you drafted a good one. Sorry to Joshua."
+    }
+  ],
+  "tapeRoomNote": "Old fights are uploaded by fans and come and go. If a link dies, the date and the teams will find you another copy.",
+  "chirps": [
+    "Your team's so soft the Zamboni checks it for bruises.",
+    "Nice roster, bud. Did your mom tape your sticks too?",
+    "You've got more guys on IR than guys who've thrown a hit.",
+    "Your goalie's save percentage looks like my phone battery.",
+    "You drafted like you were reading the list upside down in a Tim Hortons.",
+    "Your first line couldn't finish a check at the grocery store.",
+    "Your team has the killer instinct of a participation ribbon.",
+    "You're the reason the league added a mercy rule for the group chat.",
+    "Your defense is a rumour.",
+    "Your power play has less movement than a beer league goalie after the second period.",
+    "I've seen tougher lineups at a figure skating recital.",
+    "Your roster fights like it's worried about its dental plan.",
+    "You set your lineup like you were blindfolded in a snowbank.",
+    "You've got the hands of a guy who's never held a full beer.",
+    "Your team is so polite it apologizes for being in the standings.",
+    "Your enforcer's idea of a scrap is a strongly worded email.",
+    "Tape to tape? Your guys can't go wrist to wallet.",
+    "You're dangling like a guy who learned from a cereal box.",
+    "Your goalie's glove hand has a better social life than him.",
+    "Pitter patter, let's get at 'er. Unless it's your team. Then just sit there."
+  ],
+  "glossary": [
+    ["Drop the mitts", "Take the gloves off. There's about to be a fight."],
+    ["Chirp", "Trash talk. A good one gets scored out of ten."],
+    ["Ferda", "For the boys. Done for the team, not for you."],
+    ["Pitter patter", "Short for pitter patter, let's get at 'er. Hurry up, let's go."],
+    ["Gordie Howe hat trick", "A goal, an assist and a fight in the same game."],
+    ["Tilt", "A fight. A good tilt is two willing guys going straight up."],
+    ["Goon", "An enforcer. The polite one on this site is named after the job."],
+    ["Beauty", "A good guy. A compliment. Rarely used on this site."],
+    ["Celly", "A goal celebration. Keep it short unless it's a playoff overtime winner."],
+    ["Barn", "The rink."],
+    ["Biscuit", "The puck."],
+    ["Top shelf", "Where mama keeps the peanut butter. The upper part of the net."],
+    ["Five-hole", "Between the goalie's pads."],
+    ["Muffin", "A weak, fluttering shot."],
+    ["Sauce", "A saucer pass that floats over a stick and lands flat."],
+    ["Bender", "A player who can't skate. Ankles bent in."],
+    ["Fourth line", "The grinders and fighters at the end of the bench. Where this league does its business."],
+    ["Instigator", "The extra two minutes for starting it. Worth it about half the time."],
+    ["Hits", "Worth points in this league. Your mom would be proud of you for once."],
+    ["PIM", "Penalty minutes. Also worth points here, which explains a lot."]
+  ],
+  "hatTrickWatch": {
+    "title": "Gordie Howe hat trick watch",
+    "note": "A goal, an assist and a fight in one NHL game, by anybody rostered in this league. Checked every week against the box scores.",
+    "entries": [],
+    "empty": "Nobody yet. The season's barely started. Somebody on the Carter Hart Hate Club will get there first and then never shut up about it."
+  }
+}
