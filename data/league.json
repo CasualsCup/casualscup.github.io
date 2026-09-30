@@ -1,7 +1,7 @@
 {
   "league": "The Casuals Cup -violence league",
   "season": "2026-27",
-  "builtAt": "2026-09-30T14:45:34.244Z",
+  "builtAt": "2026-09-30T15:25:50.442Z",
   "matchupPeriodCount": 23,
   "currentMatchupPeriod": 1,
   "teams": [
@@ -1162,7 +1162,7 @@
           "pos": "D",
           "team": "Ott",
           "slot": "D",
-          "status": "ACTIVE",
+          "status": "DAY_TO_DAY",
           "proj": 282.6
         },
         {
@@ -2014,7 +2014,7 @@
       "id": 12,
       "name": "Swahili James",
       "manager": "Matt D.",
-      "logo": null,
+      "logo": "img/logos/12.png",
       "abbrev": "SJ",
       "roster": [
         {
