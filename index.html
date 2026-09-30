@@ -207,6 +207,11 @@ button, input, select, textarea { font: inherit; }
   letter-spacing: .08em;
   cursor: pointer;
 }
+.refresh-btn { margin-left: auto; flex: none; }
+.refresh-btn svg { width: 20px; height: 20px; }
+@media (max-width: 420px) { .refresh-btn .menu-btn-text { display: none; } }
+@media (prefers-reduced-motion: no-preference) { .refresh-btn.spinning svg { animation: refresh-spin .8s linear infinite; } }
+@keyframes refresh-spin { to { transform: rotate(360deg); } }
 .menu-btn:hover, .drawer-close:hover { background: var(--bench-2); }
 .menu-btn[aria-expanded="true"] { background: var(--tape); color: var(--tape-ink); border-color: var(--tape); }
 .menu-btn svg { width: 22px; height: 16px; fill: currentColor; display: block; }
@@ -1369,8 +1374,26 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
     </button>
     <a class="site-nav-brand" href="#masthead" aria-label="Casuals Cup - Violence League">Casuals Cup<span class="brand-long"> - Violence League</span></a>
     <div class="site-nav-scroll" id="site-nav-links"></div>
+    <button type="button" class="menu-btn refresh-btn" id="refresh-btn" aria-label="Refresh the page">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.34-5.66" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"></path><path d="M20 3v5.5h-5.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      <span class="menu-btn-text">Refresh</span>
+    </button>
   </div>
 </nav>
+<script>
+  // Reload with a cache-busting query so a home-screen app (no browser reload
+  // button) always pulls the newest page and data; keeps the section hash.
+  (function () {
+    var b = document.getElementById('refresh-btn');
+    if (!b) return;
+    b.addEventListener('click', function () {
+      b.setAttribute('aria-busy', 'true');
+      b.classList.add('spinning');
+      var u = location.pathname + '?r=' + Date.now() + location.hash;
+      location.replace(u);
+    });
+  })();
+</script>
 
 <div class="drawer-backdrop" id="menu-backdrop"></div>
 <div class="drawer" id="side-menu" role="dialog" aria-modal="true" aria-labelledby="drawer-title" aria-hidden="true" inert>
