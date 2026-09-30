@@ -1,7 +1,7 @@
 {
   "league": "The Casuals Cup -violence league",
   "season": "2026-27",
-  "builtAt": "2026-09-30T15:25:50.442Z",
+  "builtAt": "2026-09-30T15:38:33.310Z",
   "matchupPeriodCount": 23,
   "currentMatchupPeriod": 1,
   "teams": [
@@ -9,6 +9,7 @@
       "id": 1,
       "name": "Anger issues inc",
       "manager": "Tom O.",
+      "conference": "East",
       "logo": "img/logos/1.png",
       "abbrev": "help",
       "roster": [
@@ -230,6 +231,7 @@
       "id": 4,
       "name": "Fridge Cigarettes",
       "manager": "Greg M.",
+      "conference": "West",
       "logo": "img/logos/4.png",
       "abbrev": "FGC",
       "roster": [
@@ -451,6 +453,7 @@
       "id": 5,
       "name": "Tyler's Talented Team",
       "manager": "Tyler K.",
+      "conference": "East",
       "logo": "img/logos/5.png",
       "abbrev": "TTT",
       "roster": [
@@ -672,6 +675,7 @@
       "id": 6,
       "name": "The Mobile Leprechauns",
       "manager": "Joe D.",
+      "conference": "West",
       "logo": "img/logos/6.png",
       "abbrev": "LEP",
       "roster": [
@@ -893,6 +897,7 @@
       "id": 7,
       "name": "carter hart hate club",
       "manager": "Jordan M.",
+      "conference": "East",
       "logo": "img/logos/7.png",
       "abbrev": "CHHC",
       "roster": [
@@ -1114,6 +1119,7 @@
       "id": 8,
       "name": "Ray Lewis Killed a Guy",
       "manager": "Joe M.",
+      "conference": "West",
       "logo": "img/logos/8.png",
       "abbrev": "RIP",
       "roster": [
@@ -1335,6 +1341,7 @@
       "id": 9,
       "name": "Team Tenis",
       "manager": "Michael S.",
+      "conference": "East",
       "logo": "img/logos/9.png",
       "abbrev": "TEN",
       "roster": [
@@ -1556,6 +1563,7 @@
       "id": 10,
       "name": "Toms dream team",
       "manager": "Brenden Q.",
+      "conference": "West",
       "logo": null,
       "abbrev": "BBT",
       "roster": [
@@ -1620,7 +1628,7 @@
           "pos": "G",
           "team": "Buf",
           "slot": "G",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 294.2
         },
         {
@@ -1785,6 +1793,7 @@
       "id": 11,
       "name": "All Pro Toews Suckers",
       "manager": "Nic M.",
+      "conference": "East",
       "logo": "img/logos/11.png",
       "abbrev": "NNT",
       "roster": [
@@ -2014,6 +2023,7 @@
       "id": 12,
       "name": "Swahili James",
       "manager": "Matt D.",
+      "conference": "West",
       "logo": "img/logos/12.png",
       "abbrev": "SJ",
       "roster": [
@@ -2235,6 +2245,7 @@
       "id": 13,
       "name": "Pancakes",
       "manager": "Benjamin H.",
+      "conference": "East",
       "logo": "img/logos/13.png",
       "abbrev": "PAn",
       "roster": [
@@ -2456,6 +2467,7 @@
       "id": 14,
       "name": "Richard Bobby",
       "manager": "Richard J.",
+      "conference": "West",
       "logo": "img/logos/14.png",
       "abbrev": "BTA",
       "roster": [
@@ -2677,6 +2689,7 @@
       "id": 15,
       "name": "Will's Wild Team",
       "manager": "Will M.",
+      "conference": "East",
       "logo": "img/logos/15.png",
       "abbrev": "WWT",
       "roster": [
@@ -2898,6 +2911,7 @@
       "id": 17,
       "name": "Percocet Pucks",
       "manager": "Robert G.",
+      "conference": "East",
       "logo": "img/logos/17.png",
       "abbrev": "PP",
       "roster": [
@@ -3119,6 +3133,7 @@
       "id": 18,
       "name": "Goo Squad",
       "manager": "Brennan M.",
+      "conference": "West",
       "logo": "img/logos/18.png",
       "abbrev": "GOO",
       "roster": [
@@ -3340,6 +3355,7 @@
       "id": 19,
       "name": "Something's Bruin",
       "manager": "Matthew V.",
+      "conference": "East",
       "logo": "img/logos/19.png",
       "abbrev": "SIB",
       "roster": [
@@ -3561,6 +3577,7 @@
       "id": 20,
       "name": "Chicago Bedards",
       "manager": "Michael G.",
+      "conference": "West",
       "logo": "img/logos/20.png",
       "abbrev": "TCB",
       "roster": [
@@ -3782,6 +3799,7 @@
       "id": 21,
       "name": "ICE Enforcers",
       "manager": "Jared S.",
+      "conference": "West",
       "logo": "img/logos/21.png",
       "abbrev": "ICE",
       "roster": [
@@ -4003,6 +4021,7 @@
       "id": 22,
       "name": "Goontown Gaitors",
       "manager": "Robert K.",
+      "conference": "East",
       "logo": "img/logos/22.png",
       "abbrev": "GG",
       "roster": [
@@ -4224,6 +4243,7 @@
       "id": 23,
       "name": "Young Stroker’s Body Snatchers",
       "manager": "Sean F.",
+      "conference": "West",
       "logo": "img/logos/23.png",
       "abbrev": "YSBS",
       "roster": [
