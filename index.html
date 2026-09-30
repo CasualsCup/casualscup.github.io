@@ -488,6 +488,12 @@ main { display: block; }
   gap: 1rem;
 }
 @media (min-width: 620px) { .narrator-grid { grid-template-columns: 1fr 1fr; } }
+.line-face { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; float: left; margin: 0 10px 4px 0; border: 2px solid var(--tape-edge); }
+.line.goon .line-face { border-color: var(--blue); }
+.line.shoresy .line-face { border-color: var(--amber); }
+.line::after { content: ""; display: block; clear: both; }
+.narrator-portrait { display: block; width: 100%; max-height: 320px; object-fit: cover; object-position: center 25%; border-radius: 6px; margin-bottom: 12px; }
+.section-photo { display: block; width: min(100%, 420px); max-height: 360px; object-fit: cover; margin: 6px auto 16px; border-radius: 8px; border: 3px solid var(--tape); }
 .narrator-card {
   display: flex;
   flex-direction: column;
@@ -1656,6 +1662,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
 
   <section id="tape-room" class="section" aria-labelledby="taperoom-heading">
     <h2 id="taperoom-heading" class="whiteboard-heading">The tape room</h2>
+    <img class="section-photo" src="img/cast/goon-2-poster.jpg" alt="Goon poster: the enforcer in an orange and blue jersey with crossed sticks" loading="lazy">
     <p class="section-note">The classic fights library. Old tape, still holds up.</p>
     <div class="taperoom-grid" id="taperoom-grid"></div>
     <p class="tape-note" id="taperoom-note"></p>
@@ -1663,6 +1670,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
 
   <section id="chirp-jar" class="section" aria-labelledby="chirpjar-heading">
     <h2 id="chirpjar-heading" class="whiteboard-heading">The chirp jar</h2>
+    <img class="section-photo" src="img/cast/shoresy-cap.jpg" alt="Shoresy in a backwards cap, smirking through a missing tooth" loading="lazy">
     <div class="chirpjar-wrap">
       <div class="chirp-display" id="chirp-display" aria-live="polite">Pull a chirp.</div>
       <div class="chirp-controls">
@@ -1747,6 +1755,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
 
   <section id="side-bets" class="section" aria-labelledby="sidebets-heading">
     <h2 id="sidebets-heading" class="whiteboard-heading">Side bets</h2>
+    <img class="section-photo" src="img/cast/ref.jpg" alt="A bearded referee leaning on the boards, looking unimpressed" loading="lazy">
     <p class="section-note">Loser buys the next round. Take your own down whenever.</p>
     <div class="lines" id="sb-lines"></div>
     <div class="compose-card">
@@ -1954,6 +1963,13 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
     var speaker = document.createElement('span');
     speaker.className = 'speaker';
     speaker.textContent = (speakerKey === 'goon' ? 'Goon:' : 'Shoresy:');
+    var face = document.createElement('img');
+    face.className = 'line-face';
+    face.src = speakerKey === 'goon' ? 'img/cast/goon-face.jpg' : 'img/cast/shoresy-captain.jpg';
+    face.alt = '';
+    face.loading = 'lazy';
+    face.width = 36; face.height = 36;
+    wrap.appendChild(face);
     wrap.appendChild(speaker);
     wrap.appendChild(document.createTextNode(text));
     return wrap;
@@ -1968,6 +1984,12 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
       if (!n) return;
       var card = document.createElement('article');
       card.className = 'narrator-card ' + key;
+      var portrait = document.createElement('img');
+      portrait.className = 'narrator-portrait';
+      portrait.src = key === 'goon' ? 'img/cast/goon-poster.jpg' : 'img/cast/shoresy-blue.jpg';
+      portrait.alt = key === 'goon' ? 'Goon, gap-toothed and bloodied, grinning' : 'Shoresy, grinning through a missing tooth';
+      portrait.loading = 'lazy';
+      card.appendChild(portrait);
       var h3 = document.createElement('h3');
       h3.textContent = n.name || '';
       card.appendChild(h3);
@@ -3214,6 +3236,13 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
     var speaker = document.createElement('span');
     speaker.className = 'speaker';
     speaker.textContent = (speakerKey === 'goon' ? 'Goon:' : 'Shoresy:');
+    var face = document.createElement('img');
+    face.className = 'line-face';
+    face.src = speakerKey === 'goon' ? 'img/cast/goon-face.jpg' : 'img/cast/shoresy-captain.jpg';
+    face.alt = '';
+    face.loading = 'lazy';
+    face.width = 36; face.height = 36;
+    wrap.appendChild(face);
     wrap.appendChild(speaker);
     wrap.appendChild(document.createTextNode(text));
     return wrap;
