@@ -225,7 +225,23 @@
         "gamesBack": 0,
         "waiverRank": 19
       },
-      "standingsRank": 4
+      "standingsRank": 4,
+      "pointsSplit": {
+        "season": {
+          "league": 34.4,
+          "standard": 7.4,
+          "bonus": 27
+        },
+        "week": {
+          "league": 34.4,
+          "standard": 7.4,
+          "bonus": 27,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 4,
@@ -447,7 +463,23 @@
         "gamesBack": 0,
         "waiverRank": 4
       },
-      "standingsRank": 12
+      "standingsRank": 12,
+      "pointsSplit": {
+        "season": {
+          "league": 23.8,
+          "standard": 8.4,
+          "bonus": 15.4
+        },
+        "week": {
+          "league": 23.8,
+          "standard": 8.4,
+          "bonus": 15.4,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 5,
@@ -669,7 +701,23 @@
         "gamesBack": 0,
         "waiverRank": 16
       },
-      "standingsRank": 10
+      "standingsRank": 10,
+      "pointsSplit": {
+        "season": {
+          "league": 26.2,
+          "standard": 11.2,
+          "bonus": 15
+        },
+        "week": {
+          "league": 26.2,
+          "standard": 11.2,
+          "bonus": 15,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 6,
@@ -891,7 +939,23 @@
         "gamesBack": 0,
         "waiverRank": 10
       },
-      "standingsRank": 14
+      "standingsRank": 14,
+      "pointsSplit": {
+        "season": {
+          "league": 20.25,
+          "standard": 7,
+          "bonus": 13.25
+        },
+        "week": {
+          "league": 20.25,
+          "standard": 7,
+          "bonus": 13.25,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 7,
@@ -1113,7 +1177,23 @@
         "gamesBack": 0,
         "waiverRank": 9
       },
-      "standingsRank": 5
+      "standingsRank": 5,
+      "pointsSplit": {
+        "season": {
+          "league": 32.6,
+          "standard": 12.100000000000001,
+          "bonus": 20.5
+        },
+        "week": {
+          "league": 32.6,
+          "standard": 12.100000000000001,
+          "bonus": 20.5,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 8,
@@ -1335,7 +1415,23 @@
         "gamesBack": 0,
         "waiverRank": 13
       },
-      "standingsRank": 18
+      "standingsRank": 18,
+      "pointsSplit": {
+        "season": {
+          "league": 12.299999999999999,
+          "standard": 2.7,
+          "bonus": 9.599999999999998
+        },
+        "week": {
+          "league": 12.299999999999999,
+          "standard": 2.7,
+          "bonus": 9.599999999999998,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 9,
@@ -1557,7 +1653,23 @@
         "gamesBack": 0,
         "waiverRank": 15
       },
-      "standingsRank": 7
+      "standingsRank": 7,
+      "pointsSplit": {
+        "season": {
+          "league": 27.65,
+          "standard": 17.3,
+          "bonus": 10.349999999999998
+        },
+        "week": {
+          "league": 27.65,
+          "standard": 17.3,
+          "bonus": 10.349999999999998,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 10,
@@ -1787,7 +1899,23 @@
         "gamesBack": 0,
         "waiverRank": 20
       },
-      "standingsRank": 3
+      "standingsRank": 3,
+      "pointsSplit": {
+        "season": {
+          "league": 35.099999999999994,
+          "standard": 15.799999999999999,
+          "bonus": 19.299999999999997
+        },
+        "week": {
+          "league": 35.099999999999994,
+          "standard": 15.799999999999999,
+          "bonus": 19.299999999999997,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 11,
@@ -2017,7 +2145,23 @@
         "gamesBack": 0,
         "waiverRank": 18
       },
-      "standingsRank": 20
+      "standingsRank": 20,
+      "pointsSplit": {
+        "season": {
+          "league": 10.350000000000001,
+          "standard": 5.800000000000001,
+          "bonus": 4.550000000000001
+        },
+        "week": {
+          "league": 10.350000000000001,
+          "standard": 5.800000000000001,
+          "bonus": 4.550000000000001,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 12,
@@ -2239,7 +2383,23 @@
         "gamesBack": 0,
         "waiverRank": 3
       },
-      "standingsRank": 2
+      "standingsRank": 2,
+      "pointsSplit": {
+        "season": {
+          "league": 41.05,
+          "standard": 7.199999999999999,
+          "bonus": 33.849999999999994
+        },
+        "week": {
+          "league": 41.05,
+          "standard": 7.199999999999999,
+          "bonus": 33.849999999999994,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 13,
@@ -2461,7 +2621,23 @@
         "gamesBack": 0,
         "waiverRank": 14
       },
-      "standingsRank": 11
+      "standingsRank": 11,
+      "pointsSplit": {
+        "season": {
+          "league": 25.35,
+          "standard": 9.600000000000001,
+          "bonus": 15.75
+        },
+        "week": {
+          "league": 25.35,
+          "standard": 9.600000000000001,
+          "bonus": 15.75,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 14,
@@ -2683,7 +2859,23 @@
         "gamesBack": 0,
         "waiverRank": 2
       },
-      "standingsRank": 8
+      "standingsRank": 8,
+      "pointsSplit": {
+        "season": {
+          "league": 26.849999999999998,
+          "standard": 6.400000000000001,
+          "bonus": 20.449999999999996
+        },
+        "week": {
+          "league": 26.849999999999998,
+          "standard": 6.400000000000001,
+          "bonus": 20.449999999999996,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 15,
@@ -2905,7 +3097,23 @@
         "gamesBack": 0,
         "waiverRank": 8
       },
-      "standingsRank": 17
+      "standingsRank": 17,
+      "pointsSplit": {
+        "season": {
+          "league": 13.450000000000003,
+          "standard": 5.9,
+          "bonus": 7.5500000000000025
+        },
+        "week": {
+          "league": 13.450000000000003,
+          "standard": 5.9,
+          "bonus": 7.5500000000000025,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 17,
@@ -3127,7 +3335,23 @@
         "gamesBack": 0,
         "waiverRank": 7
       },
-      "standingsRank": 16
+      "standingsRank": 16,
+      "pointsSplit": {
+        "season": {
+          "league": 17.35,
+          "standard": 5.6000000000000005,
+          "bonus": 11.75
+        },
+        "week": {
+          "league": 17.35,
+          "standard": 5.6000000000000005,
+          "bonus": 11.75,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 18,
@@ -3349,7 +3573,23 @@
         "gamesBack": 0,
         "waiverRank": 12
       },
-      "standingsRank": 19
+      "standingsRank": 19,
+      "pointsSplit": {
+        "season": {
+          "league": 12.2,
+          "standard": 2.1000000000000005,
+          "bonus": 10.099999999999998
+        },
+        "week": {
+          "league": 12.2,
+          "standard": 2.1000000000000005,
+          "bonus": 10.099999999999998,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 19,
@@ -3571,7 +3811,23 @@
         "gamesBack": 0,
         "waiverRank": 1
       },
-      "standingsRank": 1
+      "standingsRank": 1,
+      "pointsSplit": {
+        "season": {
+          "league": 44.6,
+          "standard": 12.6,
+          "bonus": 32
+        },
+        "week": {
+          "league": 44.6,
+          "standard": 12.6,
+          "bonus": 32,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 20,
@@ -3793,7 +4049,23 @@
         "gamesBack": 0,
         "waiverRank": 17
       },
-      "standingsRank": 6
+      "standingsRank": 6,
+      "pointsSplit": {
+        "season": {
+          "league": 30.599999999999998,
+          "standard": 8.5,
+          "bonus": 22.099999999999998
+        },
+        "week": {
+          "league": 30.599999999999998,
+          "standard": 8.5,
+          "bonus": 22.099999999999998,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 21,
@@ -4015,7 +4287,23 @@
         "gamesBack": 0,
         "waiverRank": 5
       },
-      "standingsRank": 15
+      "standingsRank": 15,
+      "pointsSplit": {
+        "season": {
+          "league": 19.6,
+          "standard": 8.5,
+          "bonus": 11.100000000000001
+        },
+        "week": {
+          "league": 19.6,
+          "standard": 8.5,
+          "bonus": 11.100000000000001,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 22,
@@ -4237,7 +4525,23 @@
         "gamesBack": 0,
         "waiverRank": 6
       },
-      "standingsRank": 9
+      "standingsRank": 9,
+      "pointsSplit": {
+        "season": {
+          "league": 26.300000000000004,
+          "standard": 3.7,
+          "bonus": 22.600000000000005
+        },
+        "week": {
+          "league": 26.300000000000004,
+          "standard": 3.7,
+          "bonus": 22.600000000000005,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     },
     {
       "id": 23,
@@ -4459,7 +4763,23 @@
         "gamesBack": 0,
         "waiverRank": 11
       },
-      "standingsRank": 13
+      "standingsRank": 13,
+      "pointsSplit": {
+        "season": {
+          "league": 20.95,
+          "standard": 3.1999999999999997,
+          "bonus": 17.75
+        },
+        "week": {
+          "league": 20.95,
+          "standard": 3.1999999999999997,
+          "bonus": 17.75,
+          "period": 1,
+          "days": 2
+        },
+        "asOf": "2026-09-30T15:55:40.780Z",
+        "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
+      }
     }
   ],
   "matchups": [
@@ -4733,5 +5053,54 @@
       "projMethod": "season-pace",
       "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     }
-  ]
+  ],
+  "pointsSplitMeta": {
+    "asOf": "2026-09-30T15:55:40.780Z",
+    "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues",
+    "standardWeights": {
+      "1": 4,
+      "4": -2,
+      "6": 0.2,
+      "7": 3,
+      "9": 1,
+      "13": 2,
+      "14": 1,
+      "29": 0.1,
+      "31": 0.1,
+      "32": 0.5,
+      "38": 0.5,
+      "39": 0.5
+    },
+    "leagueWeights": {
+      "1": 4,
+      "2": -1,
+      "4": -2,
+      "6": 0.4,
+      "7": 5,
+      "9": 1,
+      "13": 4,
+      "14": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "20": 2,
+      "21": 0.5,
+      "22": 3,
+      "23": 0.25,
+      "24": -0.25,
+      "28": 10,
+      "29": 0.2,
+      "31": 1,
+      "32": 0.25,
+      "38": 0.5,
+      "39": 0.5
+    },
+    "scoringPeriods": [
+      1,
+      2
+    ],
+    "currentMatchupPeriod": 1,
+    "teamDaysReconciled": 40,
+    "tolerance": 0.01
+  }
 }
