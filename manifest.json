@@ -1,5 +1,5 @@
 {
-  "name": "The Casuals Cup",
+  "name": "Casuals Cup - Violence League",
   "short_name": "Casuals Cup",
   "start_url": "/",
   "scope": "/",
@@ -7,7 +7,15 @@
   "background_color": "#d9dccf",
   "theme_color": "#18181a",
   "icons": [
-    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }

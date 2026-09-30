@@ -16,7 +16,7 @@ self.addEventListener('push', function (event) {
   } catch (e) {
     data = {};
   }
-  var title = data.title || 'The Casuals Cup';
+  var title = data.title || 'Casuals Cup - Violence League';
   var body = data.body || 'Something happened in the room.';
   var url = data.url || '/';
   var tag = data.tag || 'casuals-cup';
