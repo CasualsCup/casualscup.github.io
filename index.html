@@ -760,6 +760,14 @@ tr.top-row td { background: #fff1c2; }
 .team-logo-md { width: 44px; height: 44px; font-size: .95rem; margin: 0 0 6px; }
 .team-logo-lg { width: 84px; height: 84px; font-size: 1.6rem; margin: 0 auto 8px; display: grid; }
 .hockeycard-manager { margin: 2px 0 6px; font-family: var(--font-body); font-weight: 600; font-size: .85rem; letter-spacing: .06em; text-transform: uppercase; opacity: .85; }
+.table-key { margin: 10px 0 4px; font-size: .9rem; color: var(--tape-dim); }
+.table-key summary { cursor: pointer; font-weight: 600; color: var(--tape); letter-spacing: .04em; }
+.table-key summary:focus-visible { outline: 3px solid var(--amber); outline-offset: 2px; }
+.table-key dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; margin: 10px 0 0; }
+.table-key dt { font-weight: 700; color: var(--tape); }
+.table-key dd { margin: 0; }
+@media (max-width: 480px) { .table-key dl { grid-template-columns: 1fr; } .table-key dd { margin-bottom: 6px; } }
+abbr[title] { text-decoration: underline dotted; cursor: help; }
 .conf-switch { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
 .conf-switch button { font: 600 .85rem var(--font-body); letter-spacing: .06em; text-transform: uppercase; padding: 8px 14px; border-radius: 999px; border: 2px solid var(--edge); background: var(--bench); color: var(--tape); cursor: pointer; }
 .conf-switch button[aria-pressed="true"] { background: var(--tape); color: var(--tape-ink); border-color: var(--tape); }
@@ -1576,12 +1584,14 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
         <tbody id="standings-body"></tbody>
       </table>
     </div>
+    <details class="table-key"><summary>What the columns mean</summary><dl><dt>Rank</dt><dd>Place in the real ESPN standings: wins first, points for breaks ties. With East or West picked, it is the rank inside that conference.</dd><dt>Conf</dt><dd>East or West conference, and the team's place in it.</dd><dt>Record</dt><dd>Wins and losses (ties shown if there are any).</dd><dt>PF</dt><dd>Points for: fantasy points this team has scored all season.</dd><dt>PA</dt><dd>Points against: fantasy points scored against this team all season.</dd><dt>Projected</dt><dd>Season points projected in this league's own scoring, where hits, penalty minutes and fights count, with the league rank in brackets.</dd></dl></details>
     <div class="lines" id="standings-lines"></div>
   </section>
 
   <section id="matchups" class="section" aria-labelledby="matchups-heading">
     <h2 id="matchups-heading" class="whiteboard-heading">This week's matchups</h2>
     <p class="section-note">Ten games on the board. Projected scores are ESPN's plain scoring spread over the season, so they undersell every team that hits. Real scores replace them once games are final.</p>
+    <details class="table-key"><summary>How to read a matchup</summary><dl><dt>Projected</dt><dd>Expected score for the matchup week in this league's scoring, counting only games each player's NHL team actually plays that week. Once games start it adds the points already on the board.</dd><dt>Odds</dt><dd>Our chance each team wins the week, worked out from the projections and how much weekly scores swing. They are ours, not ESPN's, and they get graded every week.</dd><dt>&lt;1% / &gt;99%</dt><dd>A long shot or a lock, not a guarantee.</dd></dl></details>
     <div class="matchup-grid" id="matchup-grid"></div>
   </section>
 
@@ -1604,6 +1614,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
         <tbody id="projections-body"></tbody>
       </table>
     </div>
+    <details class="table-key"><summary>What the columns mean</summary><dl><dt>Our Rank / Our Pts</dt><dd>Projected season finish and points in this league's scoring, where hits, penalty minutes and fights count.</dd><dt>Standard Rank / Standard Pts</dt><dd>The same rosters under plain ESPN scoring, the way a normal league counts.</dd><dt>Rank Shift</dt><dd>How many places the violence scoring moves a team compared with a normal league. Up means the fighting helps.</dd></dl></details>
     <div class="lines" id="projections-lines"></div>
   </section>
 
@@ -1617,7 +1628,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
           <tr>
             <th scope="col">Team</th>
             <th scope="col">Majors</th>
-            <th scope="col">PIM</th>
+            <th scope="col"><abbr title="Penalty minutes">PIM</abbr></th>
             <th scope="col">Hits</th>
             <th scope="col">Enforcer</th>
             <th scope="col">Enforcer&nbsp;Majors</th>
@@ -1626,6 +1637,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
         <tbody id="penalty-body"></tbody>
       </table>
     </div>
+    <details class="table-key"><summary>What the columns mean</summary><dl><dt>Majors</dt><dd>Five-minute major penalties last NHL season, nearly all of them fighting majors.</dd><dt>PIM</dt><dd>Penalty minutes last NHL season, summed across the roster.</dd><dt>Hits</dt><dd>Body checks credited last NHL season, summed across the roster.</dd><dt>Enforcer</dt><dd>The player on the roster with the most majors.</dd></dl></details>
     <div class="lines" id="violence-lines"></div>
   </section>
 
@@ -1787,6 +1799,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
         <tbody id="tab-body"></tbody>
       </table>
     </div>
+    <details class="table-key"><summary>What the columns mean</summary><dl><dt>Napkins</dt><dd>Posts on the napkin wall.</dd><dt>Replies</dt><dd>Replies under other napkins.</dd><dt>Won / Lost</dt><dd>Side bets settled in or against this team's favour.</dd><dt>Ducked</dt><dd>Bets that were voided because someone backed out.</dd><dt>Live</dt><dd>Bets still open or accepted and waiting on a result.</dd></dl></details>
   </section>
 
   <section id="guest-stool" class="section" aria-labelledby="gueststool-heading">
@@ -2294,8 +2307,8 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
       { key: 'team', label: 'Team', align: 'left' },
       { key: 'conf', label: 'Conf', align: 'left' },
       { key: 'record', label: 'Record', align: 'right' },
-      { key: 'pf', label: 'PF', align: 'right' },
-      { key: 'pa', label: 'PA', align: 'right' },
+      { key: 'pf', label: 'PF', align: 'right', title: 'Points for' },
+      { key: 'pa', label: 'PA', align: 'right', title: 'Points against' },
       { key: 'proj', label: 'Projected', align: 'right' }
     ];
     var state = { sort: 'rank', conf: 'All' };
@@ -2362,6 +2375,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
         btn.type = 'button';
         btn.className = 'sortbtn' + (state.sort === col.key ? ' active' : '');
         btn.textContent = col.label;
+        if (col.title) { btn.title = col.title; btn.setAttribute('aria-label', col.title + ', sort'); }
         if (state.sort === col.key) {
           var arrow = document.createElement('span');
           arrow.className = 'arrow';
