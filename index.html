@@ -340,6 +340,8 @@ html.menu-open .drawer-backdrop { opacity: 1; visibility: visible; transition-de
 }
 
 /* ---------- Masthead ---------- */
+.site-nav-brand { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+@media (max-width: 520px) { .brand-long { display: none; } }
 .masthead-hero { display: block; width: min(100%, 560px); height: auto; margin: 0 auto 18px; border-radius: 10px; box-shadow: 0 10px 40px rgba(0,0,0,.55); }
 .masthead {
   padding: 2rem var(--col) 1.8rem;
@@ -1365,7 +1367,7 @@ textarea.text-input { resize: vertical; min-height: 4.5rem; }
       <svg viewBox="0 0 24 18" aria-hidden="true" focusable="false"><rect x="0" y="0" width="24" height="3.4" rx="1"></rect><rect x="0" y="7.3" width="24" height="3.4" rx="1"></rect><rect x="0" y="14.6" width="24" height="3.4" rx="1"></rect></svg>
       <span class="menu-btn-text">Menu</span>
     </button>
-    <a class="site-nav-brand" href="#masthead">Casuals Cup - Violence League</a>
+    <a class="site-nav-brand" href="#masthead" aria-label="Casuals Cup - Violence League">Casuals Cup<span class="brand-long"> - Violence League</span></a>
     <div class="site-nav-scroll" id="site-nav-links"></div>
   </div>
 </nav>
