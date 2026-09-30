@@ -2,3 +2,5 @@ casualscup-bible.md
 validate-site.mjs
 *.test.mjs
 node_modules/
+img/logos/pending/
+data/logos.json

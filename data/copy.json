@@ -2,7 +2,7 @@
   "masthead": {
     "title": "THE CASUALS CUP",
     "subtitle": "Dressing Room B",
-    "tagline": "Twenty teams. Hits count. Penalty minutes count. Assists are for guys who hold hands on the bus.",
+    "tagline": "Twenty teams. Hits count. Penalty minutes count. Assists are for guys who hold hands on the bus and cry at the Zamboni.",
     "note": "Season opens September 29. Everything here is ESPN projections and last season's NHL numbers until the pucks drop. Pitter patter."
   },
   "narrators": {
@@ -16,185 +16,185 @@
       "name": "Shoresy",
       "role": "Captain, age 41, same gloves since 2009",
       "bio": "Has chirped every man in this league and most of their moms. Scores his own chirps out of ten. Hands out penalties nobody asked for.",
-      "hello": "Sit down, take your lid off, and nobody touch my fucking stick tape."
+      "hello": "Sit down, take your lid off, and nobody touch my fucking stick tape, you pylons. Or my Twisted Tea. Or my linemate's mom."
     }
   },
   "sections": {
     "projections": {
       "title": "Where the room has everybody",
       "note": "Projected lineup points for the season. Left column is our league's scoring, where a hit is worth a point and a fight is worth more. Right column is the same rosters under plain ESPN scoring, the way your uncle's league does it.",
-      "goon": "The top four here are the bottom-feeders over there. That's not a bug, bud. That's the league. Sorry to the normal guys.",
-      "shoresy": "Tyler built the best normal fantasy team in the building and he's 14th. Brought a figure skater to a bar fight and she's still doing her little twirl. Nine out of ten."
+      "goon": "The top four here are the bottom-feeders over there, bud. That's not a bug, that's the league. Sorry to anybody who drafted from a magazine.",
+      "shoresy": "Tyler drafted McDavid and finished fourteenth in a league that pays for hits. That's like bringing a violin to a bar fight and asking the bouncer for a tuning fork. Nine out of ten, and the one's for the fork."
     },
     "violence": {
       "title": "The penalty sheet",
       "note": "Every roster's skaters, last NHL season: major penalties (nearly all fighting majors), penalty minutes and hits. Each room's enforcer is the guy with the most majors.",
-      "goon": "Fifty-seven majors on one roster. I'd like to meet those boys. Carefully. From behind a Zamboni.",
-      "shoresy": "Goontown Gaitors, seven majors, and Reaves has five of them. The rest of that room fights like it's worried about its manicure. Two minutes for false advertising."
+      "goon": "Fifty-seven majors on one roster. I'd like to meet those boys. Carefully. From behind a Zamboni. With a lawyer.",
+      "shoresy": "Half this league thinks penalty minutes are something that happens to other people. Look at your number. If it starts with a three, your whole team apologizes to the linesman before the linesman apologizes to you."
     },
     "opener": {
       "title": "Opening night",
       "note": "Tuesday, September 29. Only a handful of NHL teams play, so most lineups are half empty tonight. That's normal. Ferda.",
-      "goon": "First night of the year. Tape your sticks, finish your checks, go to work. Sorry, that was a lot.",
-      "shoresy": "If you set your lineup already you're either a sicko or a goalie. If you didn't, your mom already did it for you, she's better at this than you. Seven out of ten."
+      "goon": "First night of the year. Tape your sticks, finish your checks, go to work. Sorry, that was a lot. I'm nervous too.",
+      "shoresy": "If you set your lineup already you're either a sicko or a goalie. If you didn't, your mom already did it for you, and she benched your best guy because he looked tired. Seven out of ten."
     },
     "standings": {
-      "goon": "Nobody's played a shift yet, bud, so everybody's tied for first. Enjoy it. It's the nicest this board is ever gonna be to some of you. Sorry in advance.",
-      "shoresy": "Twenty teams, zero wins, and I already know who's finishing last. Find your name in the projected column. If you had to scroll, you're cooked. Pitter patter."
+      "goon": "Everybody's tied for first, bud. Enjoy it. For eleven of you this is the high-water mark, and I'll be sorry about it every week from here.",
+      "shoresy": "Twenty teams, zero wins, and I already know who's finishing last. Find your name in the projected column. If your thumb got tired scrolling to it, that's not a phone problem. That's a you problem."
     },
     "napkinWall": {
-      "goon": "Write whatever you want on the wall, bud. Keep it about hockey and keep it about the guy's team, not the guy. That's the code.",
-      "shoresy": "Pin a napkin, name a team, and they get a ping on their phone the second you do. Chirp accordingly. Anything that makes me look bad gets a ten out of ten and then taken down."
+      "goon": "Write whatever you want on the wall, bud. Keep it about the guy's team and his fantasy decisions. Plenty of material there.",
+      "shoresy": "Pin a napkin, name a team, and they get a ping the second you do. That's right, you can ruin a man's dinner from your couch. Best feature on the site. Ten out of ten."
     },
     "sideBets": {
-      "goon": "Loser buys. No welching. If you lose a bet in this room you pay it before you sit down.",
-      "shoresy": "Put your money where your mouth is, which for most of you is a Twisted Tea. House settles anything the box score can prove. Two minutes for every bet you duck."
+      "goon": "Loser buys. Pays before he sits down. If you welch in this room, I'll be very disappointed in you, and I'll tell you so, standing very close.",
+      "shoresy": "Put your money where your mouth is, which for half of you is a Twisted Tea and a Tim's gift card from 2019. The house settles anything the box score can prove. Duck a bet and your name goes on the glass."
     },
     "poll": {
-      "goon": "One vote each. You can change it until it closes. Don't vote for yourself, that's sad.",
-      "shoresy": "Vote for whoever's getting their teeth knocked in. If you pick your own team, that's the most honest thing you've done all year."
+      "goon": "One vote each. Change it until it closes. Voting for yourself is allowed. It's also sad, bud.",
+      "shoresy": "Vote for whoever's getting their teeth knocked in. If you pick your own team, that's the most honest scouting report you've filed all year."
     },
     "tab": {
-      "goon": "Who posts, who bets, who pays up. Keeping track so nobody has to argue about it later.",
-      "shoresy": "The tab. Napkins, replies, bets won and bets ducked. Duck enough of them and I put your team name on the glass."
+      "goon": "Who posts, who bets, who pays. Keeping track so nobody has to argue about it in the parking lot. Unless you want to. I'm free.",
+      "shoresy": "The tab. Napkins, replies, bets won and bets ducked. Top of this list is the loudest guy in the room. Bottom is the guy who reads everything and never posts, and bud, we all know who you are."
     },
     "guestStool": {
-      "goon": "Not in the league? That's okay, bud. Pull up a stool. We'll tell you when something good happens.",
-      "shoresy": "Leave your email and get the week in your inbox. No passcode, no team, no dignity required."
+      "goon": "Not in the league? That's okay, bud. Pull up a stool. You're safer out there anyways.",
+      "shoresy": "Leave your email and get the week in your inbox. No passcode, no team, no dignity required, which puts you level with about six managers in here already."
     }
   },
   "teams": {
     "Anger issues inc": {
-      "shoresy": "Passed on every scorer in the draft on purpose. Twenty other guys can dangle. This team just runs you through the glass and goes to the box to finish its beer. Ten out of ten, I hate it.",
-      "goon": "Most hits in the league by a mile. Those boys don't fight much, they just finish every single check. I respect a finisher. Sorry to whoever's in front of them.",
+      "shoresy": "Passed on every scorer in the draft on purpose and took guys who finish checks. Twenty other managers are out here dangling like cake eaters. Tom's boys run you through the glass, go to the box, and finish their beer. Ten out of ten. I hate it. I'd block a slapper for it.",
+      "goon": "Most hits in the league by eight hundred. Those boys don't fight much. They just finish every single check, every shift, forever. I respect a finisher. Sorry to whoever's in front of them. And behind them.",
       "ribbon": "MOST HITS IN THE LEAGUE",
-      "scouting": "3,518 hits last season across the roster, 825 more than anybody else, and first in this league's own projection. Eighteenth in a normal league, which nobody in this room cares about. Jeremy Lauzon leads it with seven majors."
+      "scouting": "3,518 hits across the roster last year, 825 more than anybody else, and first in this league's own projection. Eighteenth in a normal league, which is the most beautiful sentence on this site. Jeremy Lauzon leads the room with seven majors."
     },
     "Something's Bruin": {
-      "shoresy": "Took every hitter on the board one pick early like you were reading off somebody's shoulder, then waited until pick 220 for a goalie. Second in the room, and you know exactly who's sitting in first. Two minutes for cheating off a neighbour.",
-      "goon": "Zadorov led the whole NHL in penalty minutes. Good man. Probably apologizes too. I would.",
+      "shoresy": "Took every hitter on the board one pick early like you were reading the draft off the guy next to you, then waited until pick 220 for a goalie. Matthew, you didn't draft a team, you cheated off one, you plagiarizing plug. And your Jamie Benn just lost a fight to a free agent. Two minutes for copying.",
+      "goon": "Zadorov had 152 penalty minutes on his own. Good man. Probably apologizes after, too. I would. I do.",
       "ribbon": "SECOND BOTH WAYS",
-      "scouting": "The only team in the top two of both projections. Zadorov had 152 penalty minutes on his own, and the roster threw 33 majors and 2,521 hits. Jamie Benn sits on the bench, fresh off losing a fight to a free agent."
+      "scouting": "The only team in the top two of both projections. Zadorov had 152 penalty minutes, and the roster threw 33 majors and 2,521 hits. Jamie Benn sits on the bench, fresh off losing a fight to a man nobody in this league drafted."
     },
     "ICE Enforcers": {
-      "shoresy": "Renamed yourselves Enforcers and started the season with two guys suspended. Enforcing what, bud, the league office's calendar? Your team name has more fight in it than your first two weeks will. Eight out of ten.",
-      "goon": "Tom Wilson on the roster. That's a real one, bud. Nobody's taking liberties on that bench. Sorry, everybody else.",
+      "shoresy": "Jared renamed the team Enforcers and started the year with two guys suspended. Enforcing what, you pylon? The league office's calendar? Your team name has more fight in it than your whole fucking October. Eight out of ten, two games for the rename.",
+      "goon": "Tom Wilson on the roster. That's a real one. Nobody takes liberties on that bench. Sorry, everybody else. Mostly sorry to the other bench.",
       "ribbon": "TWO SUSPENDED BEFORE OPENING NIGHT",
-      "scouting": "First in a normal league, third here. Tom Wilson does the enforcing, 117 penalty minutes. Charlie McAvoy and Ridly Greig start the year suspended."
+      "scouting": "First in a normal league, third here. Tom Wilson does the enforcing, 117 penalty minutes. Charlie McAvoy and Ridly Greig start the year suspended. Max Domi is listed out."
     },
     "Richard Bobby": {
-      "shoresy": "Cale Makar in round one, then you spent the rest of the night stealing hitters out of other people's queues like a raccoon in a dumpster. Fourth here, seventeenth anywhere normal. Pick a lane, Ricky.",
-      "goon": "Olivier had eleven majors last year. That's my kind of fella. Tell him I said hi. From a distance.",
+      "shoresy": "Richard named his team after himself, took Makar in round one, then spent the night stealing hitters out of other guys' queues like a raccoon in a Boston Pizza dumpster. Fourth here, nineteenth anywhere normal. Pick a lane, Ricky, you big beautiful muffin merchant.",
+      "goon": "Olivier had eleven majors last year. That's my kind of fella. Tell him I said hi. From a distance. A big one.",
       "ribbon": "ELEVEN FROM OLIVIER",
-      "scouting": "Mathieu Olivier had eleven majors on his own, and the roster threw 2,693 hits. Fourth here, nineteenth in a normal league. Built for exactly one league, and this is it."
+      "scouting": "Mathieu Olivier had eleven majors on his own, and the roster threw 2,693 hits. Fourth here, nineteenth in a normal league. Built for exactly one league on earth, and Richard found it."
     },
     "Toms dream team": {
-      "shoresy": "Ovechkin in round two and Doughty in round sixteen. The dream is set in 2014, drinks Coors Light and still thinks the Kings are good. Six out of ten.",
-      "goon": "Fifth both ways. Consistent. Five majors on the whole roster though, bud. We gotta get some hair on your chest.",
+      "shoresy": "Brenden named his team Toms dream team. Brenden. You're not Tom. Nobody's dreaming. Ovechkin in round two, Doughty in round sixteen, a lineup set in 2014 that still thinks the Kings are good and Coors Light is a personality. Six out of ten, you nostalgic sieve.",
+      "goon": "Fifth both ways. Consistent. Five majors on the whole roster though, bud. We gotta get some hair on this team's chest. Sorry, Brenden.",
       "ribbon": "PASTRNAK, STAMKOS, OVI",
-      "scouting": "Fifth in this league and sixth in a normal one, the most honest team in the room. Five majors for the whole roster. Frederik Andersen is on injured reserve."
+      "scouting": "Fifth in this league and sixth in a normal one, the most honest team in the room. Five majors for the whole roster. Frederik Andersen is on injured reserve and Simon Edvinsson is listed out."
     },
     "The Mobile Leprechauns": {
-      "shoresy": "Boldy tenth overall, first goalie at pick 311, Malkin in round ten. You didn't draft a team, you went through a garage sale in three different decades and bought whatever smelled okay.",
-      "goon": "Nobody on this roster fought more than once. Real gentle crew. Nice fellas. Gonna get eaten alive. Sorry in advance.",
+      "shoresy": "Joe took Boldy tenth overall and Boldy went out and lost a fight vote zero percent to fuck all. First goalie at pick 311, Malkin in round ten. Joe, you didn't draft a team, you went through a garage sale in three decades and bought everything that smelled okay. Bender.",
+      "goon": "Nobody on this roster fought more than once. Real gentle crew. Nice fellas. Their best player just found out what a fight feels like. Sorry, Joe. Sorry, Matt.",
       "ribbon": "FIRST ROUNDER LOST A FIGHT",
-      "scouting": "Boldy, Guentzel and Scheifele up front, sixth in this league's projection. Six majors on the whole roster, and the best player on it just went zero percent in a fight vote."
+      "scouting": "Boldy, Guentzel and Scheifele up front, sixth in this league's projection. Six majors on the whole roster, and its best player just lost the fight of the week with zero percent of the vote."
     },
     "Team Tenis": {
-      "shoresy": "Kucherov third overall in a league that pays for hits. Brought a violin to a bar fight. And you renamed the team and spelled it wrong, which is the most violent thing you've done all year. Nine out of ten.",
-      "goon": "Second best normal team in the league. In this league, bud, normal gets you a bag of pucks, a pat on the head and a ride home.",
+      "shoresy": "Michael took Kucherov third overall in a league that pays for hits, then renamed the team and spelled it wrong. It's two words, bud. One of them is team. That's the most violent thing this pigeon will do all year. Nine out of ten.",
+      "goon": "Fourth best normal team in the league. In this league, bud, normal gets you a bag of pucks, a pat on the head and a ride home from a nice man. Sorry, Michael.",
       "ribbon": "SPELLED IT WRONG",
       "scouting": "Kucherov, Kempe and Jarvis, fourth best in a normal league and seventh in this one. Nick Foligno is the enforcer with four majors. Jarvis is on injured reserve."
     },
     "Goo Squad": {
-      "shoresy": "First goalie at pick 235, then drafted two guys who don't even have NHL teams right now. You drafted a free agent camp, bud. Goo is what you are, and I've seen what's on the dressing room floor.",
-      "goon": "Five majors all year from the whole roster. Goo is the right word. Sorry, it just is.",
+      "shoresy": "Brennan's first goalie came at pick 235, then he drafted two guys who don't have NHL teams. You drafted a free agent camp, you absolute pylon. Goo is the right name. I've seen what's on the dressing room floor and it had more direction than this.",
+      "goon": "Five majors from the whole roster all year. Goo's the right word, bud. Sorry. It just is.",
       "ribbon": "THIRD IN A NORMAL LEAGUE",
       "scouting": "Robertson, Geekie and Seider, third best in a normal league and eighth here. Five majors all year. Yanni Gourde and Matt Savoie are on injured reserve."
     },
     "Chicago Bedards": {
-      "shoresy": "Took MacKinnon first overall and then named the team after a guy on the injured list. That's like naming your boat after your ex. Commitment to the bit though. Two minutes for embellishment.",
-      "goon": "Josh Anderson leads the room with four majors. Good start, bud. You need about three more of him.",
+      "shoresy": "Michael G. took MacKinnon first overall, added Rantanen and Barkov, and then named the whole team after a guy on somebody else's roster. That's naming your boat after your ex while she's waterskiing behind another guy's boat. Two minutes for embellishment, you cake eater.",
+      "goon": "Josh Anderson leads the room with four majors. Good start, bud. You need about three more of him. And a better name.",
       "ribbon": "MACKINNON, RANTANEN, BARKOV",
       "scouting": "Three of the best players alive and ninth in this league's projection. Josh Anderson leads the room with four majors. Connor Bedard is on injured reserve."
     },
     "Fridge Cigarettes": {
-      "shoresy": "Matthews at 17, then a guy with no NHL team at 231. The fridge is on fire, the cigarettes are wet, and your roster smells like both. Eight out of ten.",
-      "goon": "Kolesar does the fighting and Granlund had zero penalty minutes all year. One guy fights, one guy holds the coats and cries a little.",
+      "shoresy": "Greg took Matthews at 17 and a guy with no NHL team at 231. The fridge is on fire, the cigarettes are wet, and the whole roster smells like both. Kaprizov does the scoring, Kolesar does the rest, and Greg does fuck all. Eight out of ten, for the smell.",
+      "goon": "Kolesar does the fighting and the rest of them hold his coat. One guy working, twelve guys watching. I've been that guy. Sorry, Keegan.",
       "ribbon": "ONE FOR GOALS, ONE FOR FISTS",
       "scouting": "Kaprizov does the scoring and Kolesar does the rest, five majors. Seventh in a normal league, tenth in this one. Damon Severson is on injured reserve."
     },
     "Swahili James": {
-      "shoresy": "Seven defensemen, three guys on the injured list, and Letang in round 14. That blue line is held together with sock tape and a prayer, and the prayer's on waivers.",
-      "goon": "Four majors, whole roster, whole year. Real peaceful room. I'd bring snacks. Sorry, that's not a compliment.",
+      "shoresy": "Matt went seven defensemen deep and took Letang in round fourteen. That blue line was held together with sock tape and a prayer. Then Harley went out and beat up a first round pick, and now Matt walks around the room like he planned it. You didn't, you lucky plug. Seven out of ten.",
+      "goon": "Harley went straight up, finished it, took his ten and sat down. That's how you do it. Proud of the boy. Sorry to Boldy.",
       "ribbon": "OWNS THE FIGHT OF THE WEEK",
       "scouting": "Thomas Harley just won the fight of the week for this roster. Reinhart, Tavares and Cooley up front. Three on injured reserve, eleventh in both projections."
     },
     "Ray Lewis Killed a Guy": {
-      "shoresy": "You named your team that and then finished sixth in majors. The name is writing cheques the roster's too soft to cash. Two minutes for impersonating a tough guy.",
-      "goon": "Corey Perry leads the room in majors. Still starting things after all these years. Tell the rest of them to follow the old man.",
+      "shoresy": "Joe M. picked the toughest team name in the league and then finished sixth in majors. The name's writing cheques this roster's too soft to cash, you tough-talking bender. Two minutes for impersonating a tough guy, ten for the misconduct of choosing it.",
+      "goon": "Corey Perry leads the room in majors. Still starting things after all these years, bud. Tell the young guys to follow the old man. He knows where the bodies are. The metaphorical ones.",
       "ribbon": "COREY PERRY STILL STARTING THINGS",
       "scouting": "Brady Tkachuk up front, Perry leading the room in majors, and Brock Faber and Brad Marchand on injured reserve. Twelfth here, fifteenth anywhere normal."
     },
     "All Pro Toews Suckers": {
-      "shoresy": "Four goalies, three guys on the injured list, and a new team name that's mostly a dare. Half that roster is sitting in the hot tub with a Twisted Tea. Seven out of ten.",
-      "goon": "Nobody on this roster fought more than twice. Toews would've fought for you, bud. Just saying. Sorry, Toews.",
+      "shoresy": "Nic took four goalies and three guys who were already on injured reserve before a puck dropped. Half the roster's in the hot tub with a Twisted Tea and the other half is a goalie. The name's a dare nobody took, you walking pylon. Seven out of ten.",
+      "goon": "Nobody on this roster fought more than twice. Dahlin leads the room with two majors, bud. Toews would've fought for you. Sorry, Toews. Sorry, Nic.",
       "ribbon": "THREE ON THE SHELF",
-      "scouting": "Forsberg, Necas and Dahlin, and three guys on injured reserve before a puck drops. Dahlin leads the room with two majors, which tells you everything."
+      "scouting": "Forsberg, Necas and Dahlin, and three guys on injured reserve before a puck drops. Rasmus Dahlin leads the room with two majors, which tells you everything."
     },
     "Tyler's Talented Team": {
-      "shoresy": "Best roster in any normal league on earth. Fourteenth in this one. You brought a science fair project to a parking lot fight. Talented, sure. Tough, no. Pitter patter, Tyler.",
-      "goon": "Under eight hundred hits for the whole roster, dead last. Bud, I hit eight hundred things on the way to the rink. Two of them were people. Sorry about them.",
+      "shoresy": "Tyler has McDavid and the fewest hits in the league. Fourteenth. You brought a science fair project to a parking lot fight, you soft-handed cake eater, and the volcano's not even baking soda, it's a picture of a volcano. Pitter patter, Tyler. Pitter patter.",
+      "goon": "781 hits for the whole roster, dead last. I hit seven hundred things on the way to the rink. Two of them were people. Sorry about them. Sorry about this, Tyler.",
       "ribbon": "BEST HANDS, SOFTEST HITS",
       "scouting": "McDavid, Nylander and Keller, and 781 hits for the whole roster, the fewest in the league. Ninth in a normal league, fourteenth here. Talent is not a scoring category."
     },
     "Young Stroker’s Body Snatchers": {
-      "shoresy": "Your first goalie is suspended for not showing up to camp. Relatable, sure, but you picked him on purpose, with a roster spot, in a draft. Two minutes for poor attendance.",
-      "goon": "Sam Carrick had nine majors by himself. One man carrying a whole room on his back. God bless him. Somebody buy that man a beer.",
+      "shoresy": "Sean's first goalie is suspended. You drafted a man who isn't allowed to play, with a roster spot, in a draft, on purpose, you absolute sieve of a general manager. Two minutes for poor attendance, and the goalie gets a ten for the same thing.",
+      "goon": "Sam Carrick had nine majors by himself. One man carrying a whole room on his back. God bless him. Somebody buy that man a beer. Sean, it's you. You buy it.",
       "ribbon": "CARRICK CARRIES IT",
       "scouting": "Sam Carrick had nine majors on his own. Matthew Tkachuk and Sam Bennett up front. Connor Hellebuyck is suspended and Elvis Merzlikins is on injured reserve, so good luck in net."
     },
     "Goontown Gaitors": {
-      "shoresy": "Four goalies, two on the injured list, and Ryan Reaves doing every bit of the fighting. One goon in Goontown and he's carrying the whole zip code. Ten out of ten, put it on the sign.",
-      "goon": "Reaves has five of the seven majors on that roster. Bud, that's not a Goontown, that's a Reavestown. Sorry, Reaves, you deserve better.",
+      "shoresy": "Robert K. named his team Goontown and his one goon has no NHL team. Both goalies are on injured reserve. That's not Goontown, you fucking pigeon, that's a ghost town with a mascot. Ten out of ten, put it on the sign, then take the sign down.",
+      "goon": "Reaves has five of the seven majors on that roster, bud. That's not a Goontown, that's a Reavestown. And Reaves is looking for work. Sorry, Ryan. Sorry, Robert.",
       "ribbon": "ONE GOON, NO NHL TEAM",
       "scouting": "Ryan Reaves has five of the room's seven majors, and ESPN lists him with no NHL team. Svechnikov and Hyman up front. Both goalies, Gustavsson and Demko, are on injured reserve."
     },
     "Will's Wild Team": {
-      "shoresy": "Draisaitl at 12 and Kyle Quincey in round twenty. Somebody hit auto, went for a rip and forgot where he parked. Two minutes for delay of game.",
-      "goon": "Wildest guy on the team is Weegar. Nice player. Not wild, bud. Mildly spicy. Sorry, Weegar.",
+      "shoresy": "Will took Draisaitl at 12 and Kyle Quincey in round twenty. Somebody hit auto, went for a rip, forgot where he parked, and came back to three majors for the whole roster, fewest in the league. Wild is a strong word for a bender like this. Two minutes for delay of game.",
+      "goon": "Wildest guy on the team is Weegar. Nice player. Not wild, bud. Mildly spicy. Sorry, Weegar. Sorry, Will.",
       "ribbon": "DRAISAITL AND DECAF",
       "scouting": "Draisaitl, Weegar and Kyle Connor, and three majors for the whole roster, the fewest in the league. Twelfth in a normal league, seventeenth here. Troy Terry is on injured reserve."
     },
-    "Robert's Remarkable Team": {
-      "shoresy": "Ryan Suter in round twenty in a hitting league. Remarkable's one word for it. Your draft had the energy of a guy who shows up to men's league in a Bauer jacket with the tags on. Eight out of ten.",
-      "goon": "Four majors. Remarkably polite. I'd bring this roster home for Sunday dinner. That's the problem, bud.",
-      "ribbon": "REMARKABLY POLITE",
-      "scouting": "Zibanejad, Hischier and Eichel, and 416 penalty minutes, second fewest in the league. Eighteenth here. Jonathan Huberdeau is on injured reserve."
-    },
     "Pancakes": {
-      "shoresy": "Went two defensemen deep on draft night with five D slots to fill, then cleaned it up off the wire before anybody noticed. Macklin Celebrini at 4 though, and Raddysh at 117 was the steal of the night. Hate to say it, bud. Six out of ten, and that is a high score from me.",
-      "goon": "Celebrini is going to be a problem for a long time, bud. Good pick. Nice fella, too, I bet. No sorry needed on this one.",
+      "shoresy": "Benjamin went two defensemen deep on draft night with five D slots to fill, then fixed it off the wire before anybody noticed. Celebrini at four, Raddysh at 117, the steal of the night. I hate saying nice things. Six out of ten, and from me that's a parade.",
+      "goon": "Celebrini's gonna be a problem for a long time, bud. Good pick. Good man. No sorry needed on this one. Proud of you, Benjamin.",
       "ribbon": "CELEBRINI AND THE BREAKFAST CLUB",
       "scouting": "Macklin Celebrini, Travis Konecny and Cutter Gauthier, eighth in a normal league with room to climb. Darren Raddysh was the steal of the draft. Goon likes this team and isn't sorry about it."
     },
     "carter hart hate club": {
-      "shoresy": "Most majors in the league and dead last in both projections. All fists, zero points. You didn't draft a fantasy team, you drafted a parking lot after a Senators game. Ten out of ten, no notes, God help you.",
-      "goon": "That's a room I'd want at my back in a parking lot. Maybe not on a power play. Or anywhere with a scoreboard. Sorry, boys.",
+      "shoresy": "Most majors in the league and dead last in both projections. All fists, zero points. Jordan didn't draft a fantasy team, he drafted a parking lot at 1 a.m. after a Senators game. Ten out of ten. No notes. Somebody call their moms, and tell them to bring bail money.",
+      "goon": "That's a room I'd want at my back in a parking lot. Not on a power play. Not anywhere with a scoreboard. Sorry, boys. Sorry, Jordan.",
       "ribbon": "MOST MAJORS, FEWEST POINTS",
       "scouting": "57 majors last season, the most in the league, and Ross Johnston had eleven of them. Dead last in both projections. All fists, no scoreboard."
+    },
+    "Percocet Pucks": {
+      "shoresy": "Robert G. went from Remarkable Team to Percocet Pucks in one week, which is the most honest rebrand in sports. Took Ryan Suter in round twenty in a hitting league, and now he needs something for the pain. Me too, bud. Watching your roster. Eight out of ten, and a refill.",
+      "goon": "New name, same four majors and 416 penalty minutes, second fewest in the league. Remarkably polite, still. You can rename the team, bud. The roster knows who it is. Sorry, Robert.",
+      "ribbon": "NEW NAME, SAME PAIN",
+      "scouting": "Formerly Robert's Remarkable Team. Zibanejad, Hischier and Eichel, and 416 penalty minutes, second fewest in the league. Jonathan Huberdeau is on injured reserve. Our odds give them under one percent this week against the league's top hitting team."
     }
   },
   "matchupLines": {
-    "15-19": "Something's Bruin brought 33 majors and Zadorov. Will's Wild brought Draisaitl and three majors for the whole roster. That's a man bringing a wine list to a parking lot. Six out of ten for Will, and that's for showing up.",
-    "17-1": "Anger issues inc threw 825 more hits than anybody else in this league last year. Robert's Remarkable Team has four majors and Mika Zibanejad. Robert, bring a mouthguard and a note from your mom.",
-    "7-11": "Fifty seven majors against a team with three guys on injured reserve before a puck drops. The hate club is gonna hit everybody on the ice and still lose on points, and they'll be happy about it. Seven out of ten, for the violence.",
-    "9-22": "Goontown's only real fighter is Ryan Reaves, and ESPN has him on no NHL team at all. Team Tenis has Kucherov and a spelling problem. Somebody has to win this. I just don't want to watch. Five out of ten.",
-    "13-5": "Celebrini against McDavid, and Pancakes is the team that actually wants to be here. Tyler has the most talent in the room and the fewest hits in it. My money's on the boys who show up. Eight out of ten, Pancakes.",
-    "12-10": "Swahili James owns Thomas Harley, fresh off beating up somebody else's first round pick. Toms dream team owns Ovechkin and a goalie on injured reserve. Seven out of ten, and it goes to the defenseman with the fists.",
-    "18-23": "Sam Carrick had nine majors by himself last year. Goo Squad's whole roster had five. Stroker's starting goalie is suspended, so Carrick might have to stop pucks too. He'd fight the puck. Seven out of ten.",
-    "20-6": "The Leprechauns' first round pick just lost a fight vote zero to nothing. The Bedards have MacKinnon, Rantanen and Barkov and still named the team after somebody else. Six out of ten, and it's for the Bedards' skaters, not their manager.",
-    "14-4": "Richard Bobby has Mathieu Olivier, eleven majors from one man. Fridge Cigarettes has Kaprizov for the goals and Kolesar for everything else. Ricky, get a fight in early and let the math sort itself out. Eight out of ten.",
-    "8-21": "ICE Enforcers start the season with two guys suspended, the most on-brand thing anybody in this league has ever done. Ray Lewis Killed a Guy has Corey Perry, still starting things at his age. Nine out of ten for the whole situation."
+    "15-19": "Will brought Draisaitl and three majors for the whole roster to a matchup with Zadorov's 152 penalty minutes. Will, you're not a lineup, you're a fucking hostage situation with better skating. Four out of ten, and Matthew gets the other six.",
+    "17-1": "Tom's team threw 825 more hits than anybody in this league last year. Robert G. brought Zibanejad and four majors. Robert, wear a cup, write your mom a letter, and tape your cell number inside your helmet so they know who to call.",
+    "7-11": "Fifty-seven majors against Nic's roster with three guys on injured reserve before a puck drops. Jordan's boys will hit everything that moves and still lose on points, and they'll go home happy. Seven out of ten for the violence, zero for the math.",
+    "9-22": "Goontown's only real fighter has no NHL team. Michael S. has Kucherov and a team name he can't spell. Robert K., your goon is on the couch and both your goalies are on the shelf. Two pigeons in a parking lot. Five out of ten.",
+    "13-5": "Celebrini against McDavid, and Benjamin's the one who actually showed up to play. Tyler has the most talent in the room and the fewest hits, which is the fantasy version of a guy who brings a boat to a moving day. Eight out of ten, Pancakes.",
+    "12-10": "Matt D. owns the man who just won the fight of the week. Brenden named his team Toms dream team, and Brenden, bud, you're not Tom, and this isn't the dream. Ovechkin and a goalie on injured reserve. Seven out of ten, Swahili.",
+    "18-23": "Sam Carrick had nine majors by himself. Brennan's whole roster had five. Sean's starting goalie is suspended, so Carrick might have to play net, and honestly he'd fight the puck and win. Seven out of ten.",
+    "20-6": "Joe D.'s first round pick lost a fight vote zero to nothing. Zero. Not one person on the internet thought he won. Michael G. has MacKinnon, Rantanen and Barkov and named the team after a guy on somebody else's roster. Both of you, two minutes for embarrassing the sport. Six out of ten.",
+    "14-4": "Richard named his team after himself and then drafted like he was scared of himself. Olivier had eleven majors on his own. Greg has Kaprizov for goals and Kolesar for everything else. Ricky, drop the fucking gloves in the first shift and let the math sort itself out. Eight out of ten.",
+    "8-21": "Jared's team is called ICE Enforcers and it starts the season with two guys suspended. That's not a team name, that's a confession. Joe M. has Corey Perry, who is still starting things older than half this league. Nine out of ten for the whole situation."
   }
 }

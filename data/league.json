@@ -1,13 +1,15 @@
 {
   "league": "The Casuals Cup -violence league",
   "season": "2026-27",
-  "builtAt": "2026-09-29T18:44:53.960Z",
+  "builtAt": "2026-09-30T14:45:34.244Z",
   "matchupPeriodCount": 23,
   "currentMatchupPeriod": 1,
   "teams": [
     {
       "id": 1,
       "name": "Anger issues inc",
+      "manager": "Tom O.",
+      "logo": "img/logos/1.png",
       "abbrev": "help",
       "roster": [
         {
@@ -155,14 +157,6 @@
           "proj": 0
         },
         {
-          "name": "Jean-Gabriel Pageau",
-          "pos": "C",
-          "team": "NYI",
-          "slot": "BE",
-          "status": "ACTIVE",
-          "proj": 290.4
-        },
-        {
           "name": "Nick Seeler",
           "pos": "D",
           "team": "Phi",
@@ -193,6 +187,14 @@
           "slot": "G",
           "status": "ACTIVE",
           "proj": 0
+        },
+        {
+          "name": "Matt Rempe",
+          "pos": "RW",
+          "team": "NYR",
+          "slot": "BE",
+          "status": "ACTIVE",
+          "proj": 0
         }
       ],
       "violence": {
@@ -209,24 +211,26 @@
       },
       "projStandard": {
         "rank": 18,
-        "pts": 5340.3
+        "pts": 5049.9
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 34.4,
+        "pointsAgainst": 17.35,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 12
+        "waiverRank": 19
       },
-      "standingsRank": 1
+      "standingsRank": 4
     },
     {
       "id": 4,
       "name": "Fridge Cigarettes",
+      "manager": "Greg M.",
+      "logo": "img/logos/4.png",
       "abbrev": "FGC",
       "roster": [
         {
@@ -329,7 +333,7 @@
           "name": "Anthony Mantha",
           "pos": "RW",
           "team": "NJ",
-          "slot": "UTIL",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 337.9
         },
@@ -369,7 +373,7 @@
           "name": "Damon Severson",
           "pos": "D",
           "team": "CBJ",
-          "slot": "D",
+          "slot": "UTIL",
           "status": "INJURY_RESERVE",
           "proj": 219.5
         },
@@ -434,18 +438,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 23.8,
+        "pointsAgainst": 26.85,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 4
       },
-      "standingsRank": 10
+      "standingsRank": 12
     },
     {
       "id": 5,
       "name": "Tyler's Talented Team",
+      "manager": "Tyler K.",
+      "logo": "img/logos/5.png",
       "abbrev": "TTT",
       "roster": [
         {
@@ -564,7 +570,7 @@
           "name": "Joel Farabee",
           "pos": "LW",
           "team": "Cgy",
-          "slot": "UTIL",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 287.6
         },
@@ -588,7 +594,7 @@
           "name": "Rasmus Sandin",
           "pos": "D",
           "team": "Wsh",
-          "slot": "D",
+          "slot": "IR",
           "status": "INJURY_RESERVE",
           "proj": 186.4
         },
@@ -653,18 +659,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 26.2,
+        "pointsAgainst": 25.35,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 19
+        "waiverRank": 16
       },
-      "standingsRank": 14
+      "standingsRank": 10
     },
     {
       "id": 6,
       "name": "The Mobile Leprechauns",
+      "manager": "Joe D.",
+      "logo": "img/logos/6.png",
       "abbrev": "LEP",
       "roster": [
         {
@@ -695,7 +703,7 @@
           "name": "Timo Meier",
           "pos": "LW",
           "team": "NJ",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 412.7
         },
@@ -793,7 +801,7 @@
           "team": "Wpg",
           "slot": "G",
           "status": "ACTIVE",
-          "proj": 186.8
+          "proj": 231.4
         },
         {
           "name": "Alex Nedeljkovic",
@@ -809,7 +817,7 @@
           "team": "Tor",
           "slot": "UTIL",
           "status": "ACTIVE",
-          "proj": 236
+          "proj": 220
         },
         {
           "name": "Daniil Tarasov",
@@ -831,7 +839,7 @@
           "name": "Linus Karlsson",
           "pos": "RW",
           "team": "Van",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 252.4
         },
@@ -865,25 +873,27 @@
         "pts": 6057
       },
       "projStandard": {
-        "rank": 5,
-        "pts": 6710.3
+        "rank": 3,
+        "pts": 6738.9
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 20.25,
+        "pointsAgainst": 30.6,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 11
+        "waiverRank": 10
       },
-      "standingsRank": 6
+      "standingsRank": 14
     },
     {
       "id": 7,
       "name": "carter hart hate club",
+      "manager": "Jordan M.",
+      "logo": "img/logos/7.png",
       "abbrev": "CHHC",
       "roster": [
         {
@@ -1091,18 +1101,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 32.6,
+        "pointsAgainst": 10.35,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 10
+        "waiverRank": 9
       },
-      "standingsRank": 20
+      "standingsRank": 5
     },
     {
       "id": 8,
       "name": "Ray Lewis Killed a Guy",
+      "manager": "Joe M.",
+      "logo": "img/logos/8.png",
       "abbrev": "RIP",
       "roster": [
         {
@@ -1159,7 +1171,7 @@
           "team": "Min",
           "slot": "BE",
           "status": "INJURY_RESERVE",
-          "proj": 293.3
+          "proj": 209.8
         },
         {
           "name": "Roope Hintz",
@@ -1304,24 +1316,26 @@
       },
       "projStandard": {
         "rank": 15,
-        "pts": 6135.1
+        "pts": 6051.6
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 12.3,
+        "pointsAgainst": 19.6,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 16
+        "waiverRank": 13
       },
-      "standingsRank": 12
+      "standingsRank": 18
     },
     {
       "id": 9,
       "name": "Team Tenis",
+      "manager": "Michael S.",
+      "logo": "img/logos/9.png",
       "abbrev": "TEN",
       "roster": [
         {
@@ -1529,18 +1543,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 27.65,
+        "pointsAgainst": 26.3,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 18
+        "waiverRank": 15
       },
       "standingsRank": 7
     },
     {
       "id": 10,
       "name": "Toms dream team",
+      "manager": "Brenden Q.",
+      "logo": null,
       "abbrev": "BBT",
       "roster": [
         {
@@ -1603,7 +1619,7 @@
           "name": "Ukko-Pekka Luukkonen",
           "pos": "G",
           "team": "Buf",
-          "slot": "BE",
+          "slot": "G",
           "status": "DAY_TO_DAY",
           "proj": 294.2
         },
@@ -1683,7 +1699,7 @@
           "name": "Ryan Shea",
           "pos": "D",
           "team": "Edm",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 170.7
         },
@@ -1699,7 +1715,7 @@
           "name": "Frederik Andersen",
           "pos": "G",
           "team": "Edm",
-          "slot": "G",
+          "slot": "IR",
           "status": "INJURY_RESERVE",
           "proj": 109.8
         },
@@ -1715,7 +1731,7 @@
           "name": "Jamie Drysdale",
           "pos": "D",
           "team": "Phi",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1725,6 +1741,14 @@
           "team": "Det",
           "slot": "BE",
           "status": "OUT",
+          "proj": 0
+        },
+        {
+          "name": "Nicolas Deslauriers",
+          "pos": "RW",
+          "team": "Car",
+          "slot": "BE",
+          "status": "ACTIVE",
           "proj": 0
         }
       ],
@@ -1748,18 +1772,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 35.1,
+        "pointsAgainst": 41.05,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 14
+        "waiverRank": 20
       },
-      "standingsRank": 5
+      "standingsRank": 3
     },
     {
       "id": 11,
       "name": "All Pro Toews Suckers",
+      "manager": "Nic M.",
+      "logo": "img/logos/11.png",
       "abbrev": "NNT",
       "roster": [
         {
@@ -1894,7 +1920,7 @@
           "name": "Artem Zub",
           "pos": "D",
           "team": "Ott",
-          "slot": "D",
+          "slot": "IR",
           "status": "INJURY_RESERVE",
           "proj": 245.6
         },
@@ -1945,6 +1971,14 @@
           "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
+        },
+        {
+          "name": "Alex Newhook",
+          "pos": "C",
+          "team": "Mon",
+          "slot": "BE",
+          "status": "ACTIVE",
+          "proj": 0
         }
       ],
       "violence": {
@@ -1967,18 +2001,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 10.35,
+        "pointsAgainst": 32.6,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 7
+        "waiverRank": 18
       },
-      "standingsRank": 13
+      "standingsRank": 20
     },
     {
       "id": 12,
       "name": "Swahili James",
+      "manager": "Matt D.",
+      "logo": null,
       "abbrev": "SJ",
       "roster": [
         {
@@ -2186,18 +2222,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 41.05,
+        "pointsAgainst": 35.1,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 3
       },
-      "standingsRank": 11
+      "standingsRank": 2
     },
     {
       "id": 13,
       "name": "Pancakes",
+      "manager": "Benjamin H.",
+      "logo": "img/logos/13.png",
       "abbrev": "PAn",
       "roster": [
         {
@@ -2212,7 +2250,7 @@
           "name": "Artemi Panarin",
           "pos": "LW",
           "team": "LA",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 401
         },
@@ -2228,9 +2266,9 @@
           "name": "Kirill Marchenko",
           "pos": "LW",
           "team": "Tor",
-          "slot": "LW",
+          "slot": "RW",
           "status": "ACTIVE",
-          "proj": 388.4
+          "proj": 421.2
         },
         {
           "name": "John Carlson",
@@ -2260,7 +2298,7 @@
           "name": "Carter Hart",
           "pos": "G",
           "team": "VGK",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 295.6
         },
@@ -2268,7 +2306,7 @@
           "name": "Dan Vladar",
           "pos": "G",
           "team": "Phi",
-          "slot": "BE",
+          "slot": "G",
           "status": "ACTIVE",
           "proj": 285.6
         },
@@ -2292,7 +2330,7 @@
           "name": "Elias Lindholm",
           "pos": "C",
           "team": "Bos",
-          "slot": "C",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 310.9
         },
@@ -2300,7 +2338,7 @@
           "name": "JJ Peterka",
           "pos": "RW",
           "team": "Bos",
-          "slot": "RW",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 290.3
         },
@@ -2308,7 +2346,7 @@
           "name": "Claude Giroux",
           "pos": "C",
           "team": "Ott",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 288.1
         },
@@ -2316,7 +2354,7 @@
           "name": "Mikael Backlund",
           "pos": "C",
           "team": "Cgy",
-          "slot": "UTIL",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 232.2
         },
@@ -2324,7 +2362,7 @@
           "name": "Teuvo Teravainen",
           "pos": "LW",
           "team": "Chi",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 227.8
         },
@@ -2332,7 +2370,7 @@
           "name": "Christian Dvorak",
           "pos": "C",
           "team": "Phi",
-          "slot": "BE",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 247.4
         },
@@ -2348,7 +2386,7 @@
           "name": "Egor Chinakhov",
           "pos": "RW",
           "team": "Pit",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 225.8
         },
@@ -2356,7 +2394,7 @@
           "name": "Justin Brazeau",
           "pos": "RW",
           "team": "Pit",
-          "slot": "BE",
+          "slot": "F",
           "status": "INJURY_RESERVE",
           "proj": 254.7
         },
@@ -2399,24 +2437,26 @@
       },
       "projStandard": {
         "rank": 8,
-        "pts": 6464.7
+        "pts": 6497.5
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 25.35,
+        "pointsAgainst": 26.2,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 17
+        "waiverRank": 14
       },
-      "standingsRank": 19
+      "standingsRank": 11
     },
     {
       "id": 14,
       "name": "Richard Bobby",
+      "manager": "Richard J.",
+      "logo": "img/logos/14.png",
       "abbrev": "BTA",
       "roster": [
         {
@@ -2431,7 +2471,7 @@
           "name": "Tage Thompson",
           "pos": "C",
           "team": "Buf",
-          "slot": "C",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 476.5
         },
@@ -2455,7 +2495,7 @@
           "name": "Alex Laferriere",
           "pos": "RW",
           "team": "LA",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 461.9
         },
@@ -2519,7 +2559,7 @@
           "name": "Adam Klapka",
           "pos": "RW",
           "team": "Cgy",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2527,7 +2567,7 @@
           "name": "Danila Yurov",
           "pos": "C",
           "team": "Min",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2551,7 +2591,7 @@
           "name": "Ben Chiarot",
           "pos": "D",
           "team": "Det",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2567,7 +2607,7 @@
           "name": "Parker Wotherspoon",
           "pos": "D",
           "team": "VGK",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2575,7 +2615,7 @@
           "name": "Gabe Perreault",
           "pos": "RW",
           "team": "NYR",
-          "slot": "RW",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2624,18 +2664,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 26.85,
+        "pointsAgainst": 23.8,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 2
       },
-      "standingsRank": 4
+      "standingsRank": 8
     },
     {
       "id": 15,
       "name": "Will's Wild Team",
+      "manager": "Will M.",
+      "logo": "img/logos/15.png",
       "abbrev": "WWT",
       "roster": [
         {
@@ -2763,7 +2805,7 @@
           "pos": "RW",
           "team": "Mon",
           "slot": "UTIL",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 279.3
         },
         {
@@ -2843,19 +2885,21 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 13.45,
+        "pointsAgainst": 44.6,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 9
+        "waiverRank": 8
       },
       "standingsRank": 17
     },
     {
       "id": 17,
-      "name": "Robert's Remarkable Team",
-      "abbrev": "RRT",
+      "name": "Percocet Pucks",
+      "manager": "Robert G.",
+      "logo": "img/logos/17.png",
+      "abbrev": "PP",
       "roster": [
         {
           "name": "Jack Eichel",
@@ -2917,7 +2961,7 @@
           "name": "Matt Duchene",
           "pos": "C",
           "team": "Dal",
-          "slot": "LW",
+          "slot": "BE",
           "status": "DAY_TO_DAY",
           "proj": 348
         },
@@ -2981,7 +3025,7 @@
           "name": "Jonathan Huberdeau",
           "pos": "LW",
           "team": "Cgy",
-          "slot": "UTIL",
+          "slot": "BE",
           "status": "INJURY_RESERVE",
           "proj": 296.9
         },
@@ -2997,9 +3041,9 @@
           "name": "Kent Johnson",
           "pos": "LW",
           "team": "CBJ",
-          "slot": "BE",
+          "slot": "LW",
           "status": "ACTIVE",
-          "proj": 215.8
+          "proj": 214.8
         },
         {
           "name": "Andrew Copp",
@@ -3021,7 +3065,7 @@
           "name": "Adam Henrique",
           "pos": "C",
           "team": "FA",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 184
         },
@@ -3055,25 +3099,27 @@
         "pts": 5559
       },
       "projStandard": {
-        "rank": 13,
-        "pts": 6170.9
+        "rank": 14,
+        "pts": 6169.9
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 17.35,
+        "pointsAgainst": 34.4,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 8
+        "waiverRank": 7
       },
-      "standingsRank": 18
+      "standingsRank": 16
     },
     {
       "id": 18,
       "name": "Goo Squad",
+      "manager": "Brennan M.",
+      "logo": "img/logos/18.png",
       "abbrev": "GOO",
       "roster": [
         {
@@ -3242,7 +3288,7 @@
           "team": "TB",
           "slot": "BE",
           "status": "INJURY_RESERVE",
-          "proj": 304.5
+          "proj": 203.4
         },
         {
           "name": "Danny Taylor",
@@ -3274,25 +3320,27 @@
         "pts": 6020
       },
       "projStandard": {
-        "rank": 3,
-        "pts": 6784.7
+        "rank": 5,
+        "pts": 6683.6
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 12.2,
+        "pointsAgainst": 20.95,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 15
+        "waiverRank": 12
       },
-      "standingsRank": 8
+      "standingsRank": 19
     },
     {
       "id": 19,
       "name": "Something's Bruin",
+      "manager": "Matthew V.",
+      "logo": "img/logos/19.png",
       "abbrev": "SIB",
       "roster": [
         {
@@ -3331,7 +3379,7 @@
           "name": "Josh Manson",
           "pos": "D",
           "team": "Col",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 381.7
         },
@@ -3371,7 +3419,7 @@
           "name": "Eeli Tolvanen",
           "pos": "LW",
           "team": "NYR",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 419.1
         },
@@ -3395,7 +3443,7 @@
           "name": "Ivan Barbashev",
           "pos": "LW",
           "team": "VGK",
-          "slot": "LW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 378.3
         },
@@ -3403,7 +3451,7 @@
           "name": "Parker Kelly",
           "pos": "LW",
           "team": "Col",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 374.4
         },
@@ -3411,7 +3459,7 @@
           "name": "Martin Fehervary",
           "pos": "D",
           "team": "Wsh",
-          "slot": "UTIL",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 286.9
         },
@@ -3427,7 +3475,7 @@
           "name": "Jamie Benn",
           "pos": "LW",
           "team": "Dal",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 331.8
         },
@@ -3451,7 +3499,7 @@
           "name": "Connor Dewar",
           "pos": "LW",
           "team": "Pit",
-          "slot": "BE",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 288.3
         },
@@ -3459,7 +3507,7 @@
           "name": "Zeev Buium",
           "pos": "D",
           "team": "Van",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -3467,7 +3515,7 @@
           "name": "Anton Frondell",
           "pos": "C",
           "team": "Chi",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -3475,7 +3523,7 @@
           "name": "Alexandre Carrier",
           "pos": "D",
           "team": "Mon",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         }
@@ -3500,18 +3548,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 44.6,
+        "pointsAgainst": 13.45,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 1
       },
-      "standingsRank": 2
+      "standingsRank": 1
     },
     {
       "id": 20,
       "name": "Chicago Bedards",
+      "manager": "Michael G.",
+      "logo": "img/logos/20.png",
       "abbrev": "TCB",
       "roster": [
         {
@@ -3719,18 +3769,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 30.6,
+        "pointsAgainst": 20.25,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 20
+        "waiverRank": 17
       },
-      "standingsRank": 9
+      "standingsRank": 6
     },
     {
       "id": 21,
       "name": "ICE Enforcers",
+      "manager": "Jared S.",
+      "logo": "img/logos/21.png",
       "abbrev": "ICE",
       "roster": [
         {
@@ -3938,18 +3990,20 @@
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 19.6,
+        "pointsAgainst": 12.3,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 5
       },
-      "standingsRank": 3
+      "standingsRank": 15
     },
     {
       "id": 22,
       "name": "Goontown Gaitors",
+      "manager": "Robert K.",
+      "logo": "img/logos/22.png",
       "abbrev": "GG",
       "roster": [
         {
@@ -4150,25 +4204,27 @@
         "pts": 5626
       },
       "projStandard": {
-        "rank": 14,
+        "rank": 13,
         "pts": 6170.2
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 26.3,
+        "pointsAgainst": 27.65,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
         "waiverRank": 6
       },
-      "standingsRank": 16
+      "standingsRank": 9
     },
     {
       "id": 23,
       "name": "Young Stroker’s Body Snatchers",
+      "manager": "Sean F.",
+      "logo": "img/logos/23.png",
       "abbrev": "YSBS",
       "roster": [
         {
@@ -4217,7 +4273,7 @@
           "team": "Wpg",
           "slot": "G",
           "status": "SUSPENSION",
-          "proj": 353.4
+          "proj": 371.6
         },
         {
           "name": "Mikhail Sergachev",
@@ -4370,20 +4426,20 @@
       },
       "projStandard": {
         "rank": 16,
-        "pts": 5918.4
+        "pts": 5936.6
       },
       "record": {
         "wins": 0,
         "losses": 0,
         "ties": 0,
-        "pointsFor": 0,
-        "pointsAgainst": 0,
+        "pointsFor": 20.95,
+        "pointsAgainst": 12.2,
         "streakType": "NONE",
         "streakLength": 0,
         "gamesBack": 0,
-        "waiverRank": 13
+        "waiverRank": 11
       },
-      "standingsRank": 15
+      "standingsRank": 13
     }
   ],
   "matchups": [
@@ -4393,39 +4449,53 @@
       "home": {
         "teamId": 15,
         "teamName": "Will's Wild Team",
+        "manager": "Will M.",
         "abbrev": "WWT",
         "projected": 242.9,
-        "actual": 0
+        "actual": 13.45,
+        "leagueProjected": 169.6602954092926,
+        "winProb": 0.0008290646820515168
       },
       "away": {
         "teamId": 19,
         "teamName": "Something's Bruin",
+        "manager": "Matthew V.",
         "abbrev": "SIB",
-        "projected": 247.7,
-        "actual": 0
+        "projected": 291.3,
+        "actual": 44.6,
+        "leagueProjected": 270.0054724758634,
+        "winProb": 0.9991709353179485
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
       "week": 1,
       "home": {
         "teamId": 17,
-        "teamName": "Robert's Remarkable Team",
-        "abbrev": "RRT",
-        "projected": 241.7,
-        "actual": 0
+        "teamName": "Percocet Pucks",
+        "manager": "Robert G.",
+        "abbrev": "PP",
+        "projected": 231,
+        "actual": 17.35,
+        "leagueProjected": 178.50879400728778,
+        "winProb": 0.003859327891007236
       },
       "away": {
         "teamId": 1,
         "teamName": "Anger issues inc",
+        "manager": "Tom O.",
         "abbrev": "help",
         "projected": 203.4,
-        "actual": 0
+        "actual": 34.4,
+        "leagueProjected": 259.8408402040927,
+        "winProb": 0.9961406721089927
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4433,19 +4503,26 @@
       "home": {
         "teamId": 7,
         "teamName": "carter hart hate club",
+        "manager": "Jordan M.",
         "abbrev": "CHHC",
         "projected": 154.4,
-        "actual": 0
+        "actual": 32.6,
+        "leagueProjected": 190.48042894258336,
+        "winProb": 0.8842801984189855
       },
       "away": {
         "teamId": 11,
         "teamName": "All Pro Toews Suckers",
+        "manager": "Nic M.",
         "abbrev": "NNT",
-        "projected": 254.2,
-        "actual": 0
+        "projected": 243.5,
+        "actual": 10.35,
+        "leagueProjected": 156.3197014447655,
+        "winProb": 0.11571980158101447
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4453,19 +4530,26 @@
       "home": {
         "teamId": 9,
         "teamName": "Team Tenis",
+        "manager": "Michael S.",
         "abbrev": "TEN",
         "projected": 254.3,
-        "actual": 0
+        "actual": 27.65,
+        "leagueProjected": 207.79304098223207,
+        "winProb": 0.8172786651651441
       },
       "away": {
         "teamId": 22,
         "teamName": "Goontown Gaitors",
+        "manager": "Robert K.",
         "abbrev": "GG",
         "projected": 239.5,
-        "actual": 0
+        "actual": 26.3,
+        "leagueProjected": 179.75895718386897,
+        "winProb": 0.18272133483485586
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4473,19 +4557,26 @@
       "home": {
         "teamId": 13,
         "teamName": "Pancakes",
+        "manager": "Benjamin H.",
         "abbrev": "PAn",
-        "projected": 224.7,
-        "actual": 0
+        "projected": 224.8,
+        "actual": 25.35,
+        "leagueProjected": 189.84269642094787,
+        "winProb": 0.35055438694687696
       },
       "away": {
         "teamId": 5,
         "teamName": "Tyler's Talented Team",
+        "manager": "Tyler K.",
         "abbrev": "TTT",
-        "projected": 247.8,
-        "actual": 0
+        "projected": 227.2,
+        "actual": 26.2,
+        "leagueProjected": 202.30609830555744,
+        "winProb": 0.649445613053123
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4493,19 +4584,26 @@
       "home": {
         "teamId": 12,
         "teamName": "Swahili James",
+        "manager": "Matt D.",
         "abbrev": "SJ",
         "projected": 255.5,
-        "actual": 0
+        "actual": 41.05,
+        "leagueProjected": 189.62916291837917,
+        "winProb": 0.28176533445070595
       },
       "away": {
         "teamId": 10,
         "teamName": "Toms dream team",
+        "manager": "Brenden Q.",
         "abbrev": "BBT",
-        "projected": 260.9,
-        "actual": 0
+        "projected": 261.5,
+        "actual": 35.1,
+        "leagueProjected": 207.28610680666353,
+        "winProb": 0.718234665549294
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4513,19 +4611,26 @@
       "home": {
         "teamId": 18,
         "teamName": "Goo Squad",
+        "manager": "Brennan M.",
         "abbrev": "GOO",
         "projected": 258.6,
-        "actual": 0
+        "actual": 12.2,
+        "leagueProjected": 158.5007133978543,
+        "winProb": 0.3312678220905075
       },
       "away": {
         "teamId": 23,
         "teamName": "Young Stroker’s Body Snatchers",
+        "manager": "Sean F.",
         "abbrev": "YSBS",
-        "projected": 235.3,
-        "actual": 0
+        "projected": 236.1,
+        "actual": 20.95,
+        "leagueProjected": 171.42970304922983,
+        "winProb": 0.6687321779094926
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4533,19 +4638,26 @@
       "home": {
         "teamId": 20,
         "teamName": "Chicago Bedards",
+        "manager": "Michael G.",
         "abbrev": "TCB",
         "projected": 207.3,
-        "actual": 0
+        "actual": 30.6,
+        "leagueProjected": 214.37402486414496,
+        "winProb": 0.6821908997812764
       },
       "away": {
         "teamId": 6,
         "teamName": "The Mobile Leprechauns",
+        "manager": "Joe D.",
         "abbrev": "LEP",
-        "projected": 260.8,
-        "actual": 0
+        "projected": 255,
+        "actual": 20.25,
+        "leagueProjected": 199.003466777261,
+        "winProb": 0.31780910021872355
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4553,19 +4665,26 @@
       "home": {
         "teamId": 14,
         "teamName": "Richard Bobby",
+        "manager": "Richard J.",
         "abbrev": "BTA",
         "projected": 210.4,
-        "actual": 0
+        "actual": 26.85,
+        "leagueProjected": 229.68772520498047,
+        "winProb": 0.9392900569184328
       },
       "away": {
         "teamId": 4,
         "teamName": "Fridge Cigarettes",
+        "manager": "Greg M.",
         "abbrev": "FGC",
-        "projected": 257.7,
-        "actual": 0
+        "projected": 243,
+        "actual": 23.8,
+        "leagueProjected": 182.1526181826875,
+        "winProb": 0.060709943081567186
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     },
     {
       "matchupPeriodId": 1,
@@ -4573,19 +4692,26 @@
       "home": {
         "teamId": 8,
         "teamName": "Ray Lewis Killed a Guy",
+        "manager": "Joe M.",
         "abbrev": "RIP",
         "projected": 201.9,
-        "actual": 0
+        "actual": 12.3,
+        "leagueProjected": 203.26245380758624,
+        "winProb": 0.61659058949158
       },
       "away": {
         "teamId": 21,
         "teamName": "ICE Enforcers",
+        "manager": "Jared S.",
         "abbrev": "ICE",
         "projected": 277.9,
-        "actual": 0
+        "actual": 19.6,
+        "leagueProjected": 193.96697187963233,
+        "winProb": 0.38340941050842003
       },
       "winner": "UNDECIDED",
-      "projMethod": "season-pace"
+      "projMethod": "season-pace",
+      "oddsModel": "casuals-odds v2 (weekly period from probed map, live banked points, normal approx, Poisson events, daily best lineup)"
     }
   ]
 }
