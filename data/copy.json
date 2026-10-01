@@ -88,12 +88,6 @@
       "ribbon": "ELEVEN FROM OLIVIER",
       "scouting": "Mathieu Olivier had eleven majors on his own, and the roster threw 2,693 hits. Fourth here, nineteenth in a normal league. Built for exactly one league on earth, and Richard found it."
     },
-    "Toms dream team": {
-      "shoresy": "Brenden named his team Toms dream team. Brenden. You're not Tom. Nobody's dreaming. Ovechkin in round two, Doughty in round sixteen, a lineup set in 2014 that still thinks the Kings are good and Coors Light is a personality. Six out of ten, you nostalgic sieve.",
-      "goon": "Fifth both ways. Consistent. Five majors on the whole roster though, bud. We gotta get some hair on this team's chest. Sorry, Brenden.",
-      "ribbon": "PASTRNAK, STAMKOS, OVI",
-      "scouting": "Fifth in this league and sixth in a normal one, the most honest team in the room. Five majors for the whole roster. Frederik Andersen is on injured reserve and Simon Edvinsson is listed out."
-    },
     "The Mobile Leprechauns": {
       "shoresy": "Joe took Boldy tenth overall and Boldy went out and lost a fight vote zero percent to fuck all. First goalie at pick 311, Malkin in round ten. Joe, you didn't draft a team, you went through a garage sale in three decades and bought everything that smelled okay. Bender.",
       "goon": "Nobody on this roster fought more than once. Real gentle crew. Nice fellas. Their best player just found out what a fight feels like. Sorry, Joe. Sorry, Matt.",
@@ -183,6 +177,12 @@
       "goon": "New name, same four majors and 416 penalty minutes, second fewest in the league. Remarkably polite, still. You can rename the team, bud. The roster knows who it is. Sorry, Robert.",
       "ribbon": "NEW NAME, SAME PAIN",
       "scouting": "Formerly Robert's Remarkable Team. Zibanejad, Hischier and Eichel, and 416 penalty minutes, second fewest in the league. Jonathan Huberdeau is on injured reserve. Our odds give them under one percent this week against the league's top hitting team."
+    },
+    "mentally bedarded": {
+      "shoresy": "Brenden finally dropped the Toms dream team bit and made his logo Connor Bedard falling on his ass. Problem, bud: Bedard plays for Michael G. Your mascot is another guy's player hitting the ice, which is still the most accurate scouting report on this page. Ovechkin, Kane, Stamkos and Doughty, a lineup that peaked in 2014, and 43.05 points so far this week. Six out of ten, you nostalgic sieve.",
+      "goon": "Fifth both ways. Consistent. Five majors on the whole roster though, bud. We gotta get some hair on this team's chest. Sorry, Brenden.",
+      "ribbon": "PASTRNAK, STAMKOS, OVI",
+      "scouting": "Fifth in this league and sixth in a normal one, the most honest team in the room. Five majors for the whole roster. Frederik Andersen is on injured reserve and Simon Edvinsson is listed out."
     }
   },
   "matchupLines": {
@@ -191,7 +191,7 @@
     "7-11": "Fifty-seven majors against Nic's roster with three guys on injured reserve before a puck drops. Jordan's boys will hit everything that moves and still lose on points, and they'll go home happy. Seven out of ten for the violence, zero for the math.",
     "9-22": "Goontown's only real fighter has no NHL team. Michael S. has Kucherov and a team name he can't spell. Robert K., your goon is on the couch and both your goalies are on the shelf. Two pigeons in a parking lot. Five out of ten.",
     "13-5": "Celebrini against McDavid, and Benjamin's the one who actually showed up to play. Tyler has the most talent in the room and the fewest hits, which is the fantasy version of a guy who brings a boat to a moving day. Eight out of ten, Pancakes.",
-    "12-10": "Matt D. owns the man who just won the fight of the week. Brenden named his team Toms dream team, and Brenden, bud, you're not Tom, and this isn't the dream. Ovechkin and a goalie on injured reserve. Seven out of ten, Swahili.",
+    "12-10": "Matt D. owns the man who just won the fight of the week. Across the ice, Brenden renamed his team after a player he doesn't even own, and his logo is that guy going down like a lawn chair. Ovechkin and Kane against a guy with a better sense of timing. Seven out of ten, Swahili.",
     "18-23": "Sam Carrick had nine majors by himself. Brennan's whole roster had five. Sean's starting goalie is suspended, so Carrick might have to play net, and honestly he'd fight the puck and win. Seven out of ten.",
     "20-6": "Joe D.'s first round pick lost a fight vote zero to nothing. Zero. Not one person on the internet thought he won. Michael G. has MacKinnon, Rantanen and Barkov and named the team after a guy on somebody else's roster. Both of you, two minutes for embarrassing the sport. Six out of ten.",
     "14-4": "Richard named his team after himself and then drafted like he was scared of himself. Olivier had eleven majors on his own. Greg has Kaprizov for goals and Kolesar for everything else. Ricky, drop the fucking gloves in the first shift and let the math sort itself out. Eight out of ten.",
