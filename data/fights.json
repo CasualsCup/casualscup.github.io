@@ -1,66 +1,51 @@
 {
   "_source": "Fight facts from HockeyFights.com fight log (fan votes and ratings as of 2026-09-29); ownership from ESPN league 1867179300 rosters read 2026-09-29. Video links are third-party YouTube uploads found 2026-09-29.",
   "fightOfTheWeek": {
-    "week": "Preseason",
-    "title": "Harley vs. Boldy",
-    "date": "Friday, September 25, 2026",
-    "game": "Stars vs. Wild, preseason",
-    "when": "3rd period, 18:44",
+    "week": "Week 2",
+    "title": "Bauer vs. Kolesar",
+    "date": "Sunday, October 4, 2026",
+    "game": "Jets vs. Red Wings",
+    "when": "1st period, 12:10",
     "fighters": [
       {
-        "name": "Thomas Harley",
-        "nhl": "Dallas Stars",
+        "name": "Tyrel Bauer",
+        "nhl": "Winnipeg Jets",
         "pos": "D",
-        "owner": "Swahili James"
+        "owner": "unowned"
       },
       {
-        "name": "Matt Boldy",
-        "nhl": "Minnesota Wild",
-        "pos": "LW",
-        "owner": "The Mobile Leprechauns"
+        "name": "Keegan Kolesar",
+        "nhl": "Detroit Red Wings",
+        "pos": "RW",
+        "owner": "Fridge Cigarettes"
       }
     ],
-    "vote": "HockeyFights voters: Harley 67%, draw 33%, Boldy 0%. Both got the fighting major and a ten-minute misconduct.",
+    "vote": "HockeyFights voters: Bauer 96%. Rated 7.57, the highest-rated fight of the NHL regular season so far. Bauer's second win of the week over a guy from this league.",
     "videos": [
       {
-        "label": "The fight and the misconducts",
-        "url": "https://www.youtube.com/watch?v=bpoTumvOidQ"
-      },
-      {
-        "label": "Full game highlights",
-        "url": "https://www.youtube.com/watch?v=3t4bmgoxoDg"
+        "label": "The fight",
+        "url": "https://www.youtube.com/watch?v=Zs1SCwFwkjs"
       }
     ],
-    "shoresy": "Two guys from this league squared up in a preseason game nobody paid to watch, and Joe's tenth overall pick got zero percent of the vote. Zero. Harley's own mother voted draw. Matt's defenseman gets eight out of ten. Boldy gets two minutes for a haircut, ten for the misconduct, and a lifetime ban from the group chat.",
-    "goon": "Stars aren't supposed to go, bud. That's the code. But if you're gonna go, go like Harley went: straight up, finished it, took his ten, sat down. Boldy, you showed up, and that counts for something. Not points. Sorry.",
+    "shoresy": "Greg drafted Kolesar to be the fists on Fridge Cigarettes, and Sunday a Jets kid nobody in this league owns took 96 percent of the vote off him. Same night, Cuylle, Greg's other heavy, lost to McBain with 89 percent going the other way. Two fights, two losses, one roster, and Greg still has not won a matchup. Nine out of ten for Bauer. Greg, two minutes for sending your boys out in the wrong weight class, and ten for the misconduct of running the only fight club in this league that loses.",
+    "goon": "Tough night for Kolesar, bud. He answered the bell, he took it, he skated to the box like a professional, and that still counts for five minutes in this league. Bauer, you did that twice this week to fellas from this room. I'd like a word. A polite one. Fridge Cigarettes, I'm sorry about the week. I'll be checking on you.",
     "undercard": [
       {
-        "title": "Benn vs. Foligno",
-        "date": "September 25, 2026, 3rd period, 19:08, same game",
-        "line": "Jamie Benn (Dallas, owned by Something's Bruin) against Marcus Foligno (Minnesota, unowned). Voters: Foligno 63%, Benn 22%, draw 15%. Twenty-four seconds after Harley and Boldy, the veterans decided the kids shouldn't have all the fun.",
-        "url": "https://www.youtube.com/watch?v=ypebeULS2mc",
-        "shoresy": "Matthew's guy lost to a man nobody in this league drafted. Marcus Foligno is sitting on the wire right now, boys. Pitter patter, go get him before Matthew does something stupid again."
+        "title": "Bauer vs. Kastelic",
+        "date": "Friday, October 2, 2026, 1st period, 7:08",
+        "line": "Tyrel Bauer (Winnipeg, unowned) against Mark Kastelic (Boston, owned by carter hart hate club). Voters: Bauer 79%. Rated 6.69, second best of the season. Two nights before he did it to Kolesar, Bauer warmed up on Jordan's guy.",
+        "url": "https://www.youtube.com/watch?v=Q0DTXYD6x64",
+        "shoresy": "Jordan runs the roster with 57 majors on it, and the first time one of his boys drops the mitts this season he loses to a kid none of you even drafted. Fifty-seven majors, boys. That is a lot of practice at losing. Seven out of ten, and two minutes to Jordan for scouting fighters off their haircuts."
       },
       {
-        "title": "Thorpe vs. Touré",
-        "date": "Saturday, September 26, 2026, 1st period, 6:12",
-        "line": "Tyler Thorpe (Montreal) against Djibril Touré (Ottawa). Highest-rated fight of the preseason on HockeyFights at 6.9. Voters: Thorpe 43%, draw 33%, Touré 24%. Neither man is on a roster in this league.",
-        "url": "https://www.youtube.com/watch?v=Lecu30ssuVw",
-        "shoresy": "Best tilt of the preseason and nobody in this league owns either guy. Twenty managers, one job, and you all drafted figure skaters. Your moms are embarrassed. Mine is."
-      },
-      {
-        "title": "The season's first fight: Deslauriers vs. Imama",
-        "date": "Tuesday, September 29, 2026, opening night",
-        "line": "Nicolas Deslauriers (Carolina, owned by mentally bedarded) against Bokondji Imama (Florida, unowned). The first fight of the 2026-27 regular season, less than a day into it.",
-        "url": "https://x.com/PuckReportNHL/status/2105054113256063185",
-        "shoresy": "Brenden finally owns something that fights. One night into the season and the first tilt belongs to his roster, which is the most useful thing that team has done since it was called Toms dream team. Somebody tell Brenden that's what the violence bonus is for. Pitter patter."
+        "title": "Tkachuk vs. Trouba",
+        "date": "Thursday, October 1, 2026, 1st period, 7:40",
+        "line": "Brady Tkachuk (Florida, owned by Ray Lewis Killed a Guy) against Jacob Trouba (San Jose, owned by Young Stroker's Body Snatchers). Voters: Tkachuk 46%, the rest split. Rated 2.96. Two rostered guys on opening night, and the voters mostly shrugged.",
+        "url": "https://www.youtube.com/watch?v=qfguTpB9Gt8",
+        "shoresy": "Joe M.'s best player and Sean's blueliner went seven minutes into opening night and the internet rated it a 2.96. A two point nine six. That is a hug with the gloves off. Joe M. lost his matchup by 79.25 anyway and Sean won his by 57.6, so one of you got the fight and the other got the points. Four out of ten, two minutes each for a soft tilly."
       }
     ],
-    "image": {
-      "src": "img/nhl-preseason-sportsculture.jpg",
-      "alt": "A post comparing preseasons: the NFL rests starters, the NBA manages loads, MLB goes on the injured list for a paper cut, and the NHL says let's kill each other, over photos of a Kraken player flipping over a Flame and Jamie Benn on top of Marcus Foligno",
-      "caption": "Every sport's preseason, as summed up by @SportsCulture. Right side: Benn on Foligno, the undercard below."
-    }
+    "image": null
   },
   "tapeRoom": [
     {
@@ -110,6 +95,14 @@
       "line": "Nikita Zadorov, the man who led the NHL in penalty minutes, and Dakota Joshua. Zadorov is on Something's Bruin's blue line in this league.",
       "url": "https://www.youtube.com/watch?v=19B_YXAIuYk",
       "goon": "Big man, big reach, fights fair. Something's Bruin, you drafted a good one. Sorry to Joshua."
+    },
+    {
+      "title": "Laraque vs. Ivanans",
+      "date": "November 30, 2006",
+      "game": "Los Angeles Kings vs. Phoenix Coyotes",
+      "line": "Georges Laraque, wearing a microphone, asks Raitis Ivanans if he wants to go, then wishes him good luck before the first punch. The politest heavyweight fight ever caught on tape, and the whole code in one sentence.",
+      "url": "https://www.youtube.com/watch?v=1jsd1osj59w",
+      "goon": "This is the one, bud. Ask the man. Wish him luck. Then do your job. If you fellas set your lineups half as honest as that, I would have nothing to apologize for all year."
     }
   ],
   "tapeRoomNote": "Old fights are uploaded by fans and come and go. If a link dies, the date and the teams will find you another copy.",
