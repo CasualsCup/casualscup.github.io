@@ -1,48 +1,48 @@
 {
-  "_source": "Fight facts from HockeyFights.com fight log (fan votes and ratings as of 2026-09-29); ownership from ESPN league 1867179300 rosters read 2026-09-29. Video links are third-party YouTube uploads found 2026-09-29.",
+  "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "Week 2",
-    "title": "Bauer vs. Kolesar",
-    "date": "Sunday, October 4, 2026",
-    "game": "Jets vs. Red Wings",
-    "when": "1st period, 12:10",
+    "week": "Week 3",
+    "title": "MacKinnon vs. Hintz",
+    "date": "Tuesday, October 13, 2026",
+    "game": "Avalanche vs. Stars",
+    "when": "2nd period, 6:46",
     "fighters": [
       {
-        "name": "Tyrel Bauer",
-        "nhl": "Winnipeg Jets",
-        "pos": "D",
-        "owner": "unowned"
+        "name": "Nathan MacKinnon",
+        "nhl": "Colorado Avalanche",
+        "pos": "C",
+        "owner": "Chicago Bedards"
       },
       {
-        "name": "Keegan Kolesar",
-        "nhl": "Detroit Red Wings",
-        "pos": "RW",
-        "owner": "Fridge Cigarettes"
+        "name": "Roope Hintz",
+        "nhl": "Dallas Stars",
+        "pos": "C",
+        "owner": "Ray Lewis Killed a Guy"
       }
     ],
-    "vote": "HockeyFights voters: Bauer 96%. Rated 7.57, the highest-rated fight of the NHL regular season so far. Bauer's second win of the week over a guy from this league.",
+    "vote": "HockeyFights voters: Hintz 76%, MacKinnon 18%, draw 6%. Rated 6.97 from 72 votes, the best-rated fight of the week with two rostered guys in it. Two first-line centres, both owned in this league.",
     "videos": [
       {
         "label": "The fight",
-        "url": "https://www.youtube.com/watch?v=Zs1SCwFwkjs"
+        "url": "https://www.youtube.com/watch?v=U5yNRw9H1TI"
       }
     ],
-    "shoresy": "Greg drafted Kolesar to be the fists on Fridge Cigarettes, and Sunday a Jets kid nobody in this league owns took 96 percent of the vote off him. Same night, Cuylle, Greg's other heavy, lost to McBain with 89 percent going the other way. Two fights, two losses, one roster, and Greg still has not won a matchup. Nine out of ten for Bauer. Greg, two minutes for sending your boys out in the wrong weight class, and ten for the misconduct of running the only fight club in this league that loses.",
-    "goon": "Tough night for Kolesar, bud. He answered the bell, he took it, he skated to the box like a professional, and that still counts for five minutes in this league. Bauer, you did that twice this week to fellas from this room. I'd like a word. A polite one. Fridge Cigarettes, I'm sorry about the week. I'll be checking on you.",
+    "shoresy": "Michael G. drafted MacKinnon to score a hundred points, not to get his bucket rearranged by Joe M.'s Finnish centre. Hintz took 76 percent of the vote off the best player in this league. Joe M. is oh and four with eight guys tagged and his centre still went out and won the only thing that roster has won all year. Michael, your franchise player got outvoted four to one by a guy from an oh and four room. Nine out of ten for Hintz. Two minutes to Michael G. for letting the golden goose freelance, and a ten minute misconduct for the 658.3 points against, most in the league.",
+    "goon": "Bud. Superstars aren't supposed to go. That's what fellas like me are for. MacKinnon went anyway and I respect it, I really do, but the voters didn't. Hintz, nice work, and sorry to Joe M. that it's the first good news in a month. Michael G., I'm sorry. Keep him away from the heavyweights, please. That's the whole job.",
     "undercard": [
       {
-        "title": "Bauer vs. Kastelic",
-        "date": "Friday, October 2, 2026, 1st period, 7:08",
-        "line": "Tyrel Bauer (Winnipeg, unowned) against Mark Kastelic (Boston, owned by carter hart hate club). Voters: Bauer 79%. Rated 6.69, second best of the season. Two nights before he did it to Kolesar, Bauer warmed up on Jordan's guy.",
-        "url": "https://www.youtube.com/watch?v=Q0DTXYD6x64",
-        "shoresy": "Jordan runs the roster with 57 majors on it, and the first time one of his boys drops the mitts this season he loses to a kid none of you even drafted. Fifty-seven majors, boys. That is a lot of practice at losing. Seven out of ten, and two minutes to Jordan for scouting fighters off their haircuts."
+        "title": "Zadorov vs. Nurse",
+        "date": "Tuesday, October 13, 2026, 3rd period, 6:40",
+        "line": "Nikita Zadorov (Boston) against Darnell Nurse (San Jose). Both of them are owned by Something's Bruin. Voters: Zadorov 93%, Nurse 4%, draw 4%. Rated 5.36. Matthew V.'s defence corps settled an argument the old way.",
+        "url": "https://www.youtube.com/watch?v=ykm6pxDC2_g",
+        "shoresy": "Matthew is four and oh and his own two D-men are fighting each other. That's not a fantasy team, that's a family Thanksgiving. Zadorov won 93 to 4, so both majors from one fight belong to Matthew. Gooning for the boys, both ends of the bench. Eight out of ten, and two minutes to Matthew for fixing the game against himself and getting paid for it."
       },
       {
-        "title": "Tkachuk vs. Trouba",
-        "date": "Thursday, October 1, 2026, 1st period, 7:40",
-        "line": "Brady Tkachuk (Florida, owned by Ray Lewis Killed a Guy) against Jacob Trouba (San Jose, owned by Young Stroker's Body Snatchers). Voters: Tkachuk 46%, the rest split. Rated 2.96. Two rostered guys on opening night, and the voters mostly shrugged.",
-        "url": "https://www.youtube.com/watch?v=qfguTpB9Gt8",
-        "shoresy": "Joe M.'s best player and Sean's blueliner went seven minutes into opening night and the internet rated it a 2.96. A two point nine six. That is a hug with the gloves off. Joe M. lost his matchup by 79.25 anyway and Sean won his by 57.6, so one of you got the fight and the other got the points. Four out of ten, two minutes each for a soft tilly."
+        "title": "Olivier vs. Johnston",
+        "date": "Saturday, October 10, 2026, 2nd period, 0:21",
+        "line": "Mathieu Olivier (Columbus, owned by Richard Bobby) against Ross Johnston (St. Louis, owned by carter hart hate club). Voters: Olivier 31%, Johnston 30%, draw 39%. Rated 5.46 from 93 votes, the most votes of the week. Two unbeaten rooms, two heavyweights, and nobody won.",
+        "url": "https://www.youtube.com/watch?v=Wm0n58395v4",
+        "shoresy": "Richard's heavy against Jordan's heavy, two four and oh rooms, the biggest crowd on the site all week, and the internet called it a draw. Twenty-one seconds into the second period and they settled nothing, like two dads arguing over a parking spot at Costco. Seven out of ten, five minutes each, and Jordan, your boy got a tie with the guy from the first-place team, which is the closest carter hart hate club has come to a projection."
       }
     ],
     "image": null
