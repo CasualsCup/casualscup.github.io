@@ -1,48 +1,48 @@
 {
   "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "Week 3",
-    "title": "MacKinnon vs. Hintz",
-    "date": "Tuesday, October 13, 2026",
-    "game": "Avalanche vs. Stars",
-    "when": "2nd period, 6:46",
+    "week": "Week 4",
+    "title": "Frederic vs. McBain: Lunch Served in Utah",
+    "date": "Saturday, October 17, 2026",
+    "game": "Edmonton Oilers vs. Utah Mammoth",
+    "when": "1st Period, 16:18",
     "fighters": [
       {
-        "name": "Nathan MacKinnon",
-        "nhl": "Colorado Avalanche",
-        "pos": "C",
+        "name": "Trent Frederic",
+        "nhl": "Edmonton Oilers",
+        "pos": "LW",
         "owner": "Chicago Bedards"
       },
       {
-        "name": "Roope Hintz",
-        "nhl": "Dallas Stars",
+        "name": "Jack McBain",
+        "nhl": "Utah Mammoth",
         "pos": "C",
-        "owner": "Ray Lewis Killed a Guy"
+        "owner": "Something's Bruin"
       }
     ],
-    "vote": "HockeyFights voters: Hintz 76%, MacKinnon 18%, draw 6%. Rated 6.97 from 72 votes, the best-rated fight of the week with two rostered guys in it. Two first-line centres, both owned in this league.",
+    "vote": "Frederic 73%, McBain 16%, Draw 11% - rated 7.6 on 81 votes",
     "videos": [
       {
-        "label": "The fight",
-        "url": "https://www.youtube.com/watch?v=U5yNRw9H1TI"
+        "label": "Watch: Frederic vs. McBain",
+        "url": "https://www.youtube.com/watch?v=3mzp1h0HQVE"
       }
     ],
-    "shoresy": "Michael G. drafted MacKinnon to score a hundred points, not to get his bucket rearranged by Joe M.'s Finnish centre. Hintz took 76 percent of the vote off the best player in this league. Joe M. is oh and four with eight guys tagged and his centre still went out and won the only thing that roster has won all year. Michael, your franchise player got outvoted four to one by a guy from an oh and four room. Nine out of ten for Hintz. Two minutes to Michael G. for letting the golden goose freelance, and a ten minute misconduct for the 658.3 points against, most in the league.",
-    "goon": "Bud. Superstars aren't supposed to go. That's what fellas like me are for. MacKinnon went anyway and I respect it, I really do, but the voters didn't. Hintz, nice work, and sorry to Joe M. that it's the first good news in a month. Michael G., I'm sorry. Keep him away from the heavyweights, please. That's the whole job.",
+    "shoresy": "Frederic caught him a minute into warmups, fed him four rights, took the card 73 to 16, and the 11% who called it a draw were watching the zamboni. Best part? Both tough guys are on fantasy rosters, so the Bedards banked a beating and Something's Bruin paid for one. Chirp rating: eight out of ten. Two minutes to Something's Bruin for sending a centreman to do laundry he could not fold.",
+    "goon": "Heck of a scrap for the first period, fellas. Trent threw them hard and honest, and Jack stood in and took it, which takes more guts than throwing. That is one tilt each for the Bedards and the Bruin boys, one knuckle apiece. Sorry about the laundry line. Shoresy gets excited.",
     "undercard": [
       {
-        "title": "Zadorov vs. Nurse",
-        "date": "Tuesday, October 13, 2026, 3rd period, 6:40",
-        "line": "Nikita Zadorov (Boston) against Darnell Nurse (San Jose). Both of them are owned by Something's Bruin. Voters: Zadorov 93%, Nurse 4%, draw 4%. Rated 5.36. Matthew V.'s defence corps settled an argument the old way.",
+        "title": "Nikita Zadorov vs. Darnell Nurse",
+        "date": "Tuesday, October 13, 2026",
+        "line": "Zadorov took it 93% to 3% in Boston - and both heavyweights cash for Something's Bruin, so one roster threw a major at itself and still got paid.",
         "url": "https://www.youtube.com/watch?v=ykm6pxDC2_g",
-        "shoresy": "Matthew is four and oh and his own two D-men are fighting each other. That's not a fantasy team, that's a family Thanksgiving. Zadorov won 93 to 4, so both majors from one fight belong to Matthew. Gooning for the boys, both ends of the bench. Eight out of ten, and two minutes to Matthew for fixing the game against himself and getting paid for it."
+        "shoresy": "One roster, two fighters, zero self-preservation. Something's Bruin watched his own defencemen drop the mitts on each other and logged it as depth scoring. Ten out of ten, you cannot coach that."
       },
       {
-        "title": "Olivier vs. Johnston",
-        "date": "Saturday, October 10, 2026, 2nd period, 0:21",
-        "line": "Mathieu Olivier (Columbus, owned by Richard Bobby) against Ross Johnston (St. Louis, owned by carter hart hate club). Voters: Olivier 31%, Johnston 30%, draw 39%. Rated 5.46 from 93 votes, the most votes of the week. Two unbeaten rooms, two heavyweights, and nobody won.",
-        "url": "https://www.youtube.com/watch?v=Wm0n58395v4",
-        "shoresy": "Richard's heavy against Jordan's heavy, two four and oh rooms, the biggest crowd on the site all week, and the internet called it a draw. Twenty-one seconds into the second period and they settled nothing, like two dads arguing over a parking spot at Costco. Seven out of ten, five minutes each, and Jordan, your boy got a tie with the guy from the first-place team, which is the closest carter hart hate club has come to a projection."
+        "title": "Declan Carlile vs. Jeremy Lauzon",
+        "date": "Saturday, October 17, 2026",
+        "line": "Carlile answered the bell in Vegas and the card could not pick a winner - Lauzon 43%, Draw 43%, Carlile 13%. Both are rostered: Carlile for Team Tenis, Lauzon for Anger issues inc.",
+        "url": "https://www.youtube.com/watch?v=tBAFaVyMF20",
+        "shoresy": "A 43-43 split decision is just a hug with extra steps, boys. Four out of ten. Two minutes each for wasting my tape."
       }
     ],
     "image": null
