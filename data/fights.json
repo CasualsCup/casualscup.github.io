@@ -1,48 +1,48 @@
 {
   "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "Week 4",
-    "title": "Frederic vs. McBain: Lunch Served in Utah",
-    "date": "Saturday, October 17, 2026",
-    "game": "Edmonton Oilers vs. Utah Mammoth",
-    "when": "1st Period, 16:18",
+    "week": "5",
+    "title": "Ostapchuk vs. Jeannot: Jordan Wins Both Sides",
+    "date": "Saturday, October 24, 2026",
+    "game": "San Jose Sharks vs. Boston Bruins",
+    "when": "3rd Period, 2:38",
     "fighters": [
       {
-        "name": "Trent Frederic",
-        "nhl": "Edmonton Oilers",
-        "pos": "LW",
-        "owner": "Chicago Bedards"
+        "name": "Zack Ostapchuk",
+        "nhl": "San Jose Sharks",
+        "pos": "C",
+        "owner": "carter hart hate club"
       },
       {
-        "name": "Jack McBain",
-        "nhl": "Utah Mammoth",
-        "pos": "C",
-        "owner": "Something's Bruin"
+        "name": "Tanner Jeannot",
+        "nhl": "Boston Bruins",
+        "pos": "LW",
+        "owner": "carter hart hate club"
       }
     ],
-    "vote": "Frederic 73%, McBain 16%, Draw 11% - rated 7.6 on 81 votes",
+    "vote": "Jeannot 94%, Ostapchuk 6%, Draw 0%",
     "videos": [
       {
-        "label": "Watch: Frederic vs. McBain",
-        "url": "https://www.youtube.com/watch?v=3mzp1h0HQVE"
+        "label": "Watch the tape",
+        "url": "https://www.youtube.com/watch?v=7F3VtRLcWsc"
       }
     ],
-    "shoresy": "Frederic caught him a minute into warmups, fed him four rights, took the card 73 to 16, and the 11% who called it a draw were watching the zamboni. Best part? Both tough guys are on fantasy rosters, so the Bedards banked a beating and Something's Bruin paid for one. Chirp rating: eight out of ten. Two minutes to Something's Bruin for sending a centreman to do laundry he could not fold.",
-    "goon": "Heck of a scrap for the first period, fellas. Trent threw them hard and honest, and Jack stood in and took it, which takes more guts than throwing. That is one tilt each for the Bedards and the Bruin boys, one knuckle apiece. Sorry about the laundry line. Shoresy gets excited.",
+    "shoresy": "Both these pylons play for Jordan M. and the crowd still picked a winner, 94 percent to Jeannot. Ostapchuk got folded like a lawn chair in the third. Jordan wins either way and still lost his dignity, 8 out of 10.",
+    "goon": "Sorry bud, Jordan owns both guys so the fight is basically a family dinner. Jeannot won in a landslide, and Ostapchuk is going to feel it tomorrow, I am sorry. Nice and clean from both, a good one for the carter hart hate club.",
     "undercard": [
       {
-        "title": "Nikita Zadorov vs. Darnell Nurse",
-        "date": "Tuesday, October 13, 2026",
-        "line": "Zadorov took it 93% to 3% in Boston - and both heavyweights cash for Something's Bruin, so one roster threw a major at itself and still got paid.",
-        "url": "https://www.youtube.com/watch?v=ykm6pxDC2_g",
-        "shoresy": "One roster, two fighters, zero self-preservation. Something's Bruin watched his own defencemen drop the mitts on each other and logged it as depth scoring. Ten out of ten, you cannot coach that."
+        "title": "Bennett vs. Greig: Two Owners, One Grudge",
+        "date": "Wednesday, October 21, 2026",
+        "line": "Sam Bennett (Sean F.) ran into Ridly Greig (Jared S.) in the third and the vote went 69 percent Greig. Sean got chirped by his own bench, 6 out of 10.",
+        "url": "https://www.youtube.com/watch?v=8xvuwKvuBxQ",
+        "shoresy": "Sean F. brought a Bennett to a Greig fight and the crowd said 69 percent Greig. Bender move, 6 out of 10."
       },
       {
-        "title": "Declan Carlile vs. Jeremy Lauzon",
-        "date": "Saturday, October 17, 2026",
-        "line": "Carlile answered the bell in Vegas and the card could not pick a winner - Lauzon 43%, Draw 43%, Carlile 13%. Both are rostered: Carlile for Team Tenis, Lauzon for Anger issues inc.",
-        "url": "https://www.youtube.com/watch?v=tBAFaVyMF20",
-        "shoresy": "A 43-43 split decision is just a hug with extra steps, boys. Four out of ten. Two minutes each for wasting my tape."
+        "title": "Kastelic vs. Kesselring: Jordan Again",
+        "date": "Saturday, October 24, 2026",
+        "line": "Mark Kastelic took 92 percent of the vote over an unowned Michael Kesselring. Jordan M. now has three guys fighting in one night and he is gooning on all of them.",
+        "url": "https://www.youtube.com/watch?v=U-BwWl52FsE",
+        "shoresy": "Jordan M. is out here gooning on his own roster, Kastelic 92 percent over an unowned plug. 7 out of 10."
       }
     ],
     "image": null
