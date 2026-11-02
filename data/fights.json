@@ -31,18 +31,18 @@
     "goon": "Sorry bud, Jordan owns both guys so the fight is basically a family dinner. Jeannot won in a landslide, and Ostapchuk is going to feel it tomorrow, I am sorry. Nice and clean from both, a good one for the carter hart hate club.",
     "undercard": [
       {
-        "title": "Bennett vs. Greig: Two Owners, One Grudge",
-        "date": "Wednesday, October 21, 2026",
-        "line": "Sam Bennett (Sean F.) ran into Ridly Greig (Jared S.) in the third and the vote went 69 percent Greig. Sean got chirped by his own bench, 6 out of 10.",
-        "url": "https://www.youtube.com/watch?v=8xvuwKvuBxQ",
-        "shoresy": "Sean F. brought a Bennett to a Greig fight and the crowd said 69 percent Greig. Bender move, 6 out of 10."
+        "title": "Bauer vs. Imama: Winnipeg Wins a Beauty",
+        "date": "Friday, October 30, 2026",
+        "line": "Tyrel Bauer vs. Bokondji Imama, Jets vs. Panthers, 1st period 2:04. Bauer took 51 percent of the vote and a rating of 7.99 from 77 votes. Brenden Q. collects.",
+        "url": "https://www.youtube.com/watch?v=E3uKvUldSMA",
+        "shoresy": "Two minutes into the game and these two were already trading bombs. Imama is on nobody roster, which tracks, nobody wanted that smoke. Brenden gets a bonus out of Bauer, the plug."
       },
       {
-        "title": "Kastelic vs. Kesselring: Jordan Again",
-        "date": "Saturday, October 24, 2026",
-        "line": "Mark Kastelic took 92 percent of the vote over an unowned Michael Kesselring. Jordan M. now has three guys fighting in one night and he is gooning on all of them.",
-        "url": "https://www.youtube.com/watch?v=U-BwWl52FsE",
-        "shoresy": "Jordan M. is out here gooning on his own roster, Kastelic 92 percent over an unowned plug. 7 out of 10."
+        "title": "Klapka vs. Douglas: Calgary Collects",
+        "date": "Friday, October 30, 2026",
+        "line": "Adam Klapka vs. Curtis Douglas, Flames vs. Kraken, 1st period 1:46. Klapka took 84 percent of the vote. Richard J. has a winger who fights, which is rude.",
+        "url": "https://www.youtube.com/watch?v=uzCwVnbY1js",
+        "shoresy": "Under two minutes in and Douglas was already getting a lesson. Richard J. collects fighters like pylons collect bad angles. Four point eight eight out of ten, cake eater."
       }
     ],
     "image": null
@@ -226,5 +226,33 @@
     "note": "A goal, an assist and a fight in one NHL game, by anybody rostered in this league. Checked every week against the box scores.",
     "entries": [],
     "empty": "Nobody yet. The season's barely started. Somebody on the Carter Hart Hate Club will get there first and then never shut up about it."
-  }
+  },
+  "week": "Week 5",
+  "title": "Jeannot vs. Deslauriers: Boston Sends Carolina Home Sore",
+  "date": "Tuesday, October 27, 2026",
+  "game": "Boston Bruins vs. Carolina Hurricanes",
+  "when": "1st Period, 13:55",
+  "fighters": [
+    {
+      "name": "Tanner Jeannot",
+      "nhl": "Boston Bruins",
+      "pos": "LW",
+      "owner": "carter hart hate club"
+    },
+    {
+      "name": "Nicolas Deslauriers",
+      "nhl": "Carolina Hurricanes",
+      "pos": "RW",
+      "owner": "mentally bedarded"
+    }
+  ],
+  "vote": "Jeannot 51%, Deslauriers 28%, Draw 21% (rated 8.34 from 207 votes)",
+  "videos": [
+    {
+      "label": "Watch the fight",
+      "url": "https://www.youtube.com/watch?v=0PYHuZQaEhQ"
+    }
+  ],
+  "shoresy": "Eight point three four out of ten, boys. Jeannot took the vote and Deslauriers took the walk of shame to the box, and now two managers are fighting over who owns the bragging rights. Jordan and Brenden, one of you gets to be insufferable in the group chat all week. Grab a pylon and watch it twice.",
+  "goon": "Oh, that was a good one, bud. Sorry to Brenden, Deslauriers went down swinging and that counts for something. Jordan, you should be proud of Jeannot. Everybody drink some water."
 }
