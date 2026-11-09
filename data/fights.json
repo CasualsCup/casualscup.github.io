@@ -1,48 +1,48 @@
 {
   "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "5",
-    "title": "Ostapchuk vs. Jeannot: Jordan Wins Both Sides",
-    "date": "Saturday, October 24, 2026",
-    "game": "San Jose Sharks vs. Boston Bruins",
-    "when": "3rd Period, 2:38",
+    "week": "7",
+    "title": "Bauer vs. Xhekaj: Jordan Cashes, Brenden Bleeds",
+    "date": "Tuesday, November 3, 2026",
+    "game": "Winnipeg Jets vs. Montreal Canadiens",
+    "when": "3rd Period, 10:40",
     "fighters": [
       {
-        "name": "Zack Ostapchuk",
-        "nhl": "San Jose Sharks",
-        "pos": "C",
-        "owner": "carter hart hate club"
+        "name": "Tyrel Bauer",
+        "nhl": "Winnipeg Jets",
+        "pos": "D",
+        "owner": "mentally bedarded"
       },
       {
-        "name": "Tanner Jeannot",
-        "nhl": "Boston Bruins",
-        "pos": "LW",
+        "name": "Arber Xhekaj",
+        "nhl": "Montreal Canadiens",
+        "pos": "D",
         "owner": "carter hart hate club"
       }
     ],
-    "vote": "Jeannot 94%, Ostapchuk 6%, Draw 0%",
+    "vote": "Xhekaj 62%, Bauer 18%, Draw 19%",
     "videos": [
       {
         "label": "Watch the tape",
-        "url": "https://www.youtube.com/watch?v=7F3VtRLcWsc"
+        "url": "https://www.youtube.com/watch?v=e2Az38WB4Jo"
       }
     ],
-    "shoresy": "Both these pylons play for Jordan M. and the crowd still picked a winner, 94 percent to Jeannot. Ostapchuk got folded like a lawn chair in the third. Jordan wins either way and still lost his dignity, 8 out of 10.",
-    "goon": "Sorry bud, Jordan owns both guys so the fight is basically a family dinner. Jeannot won in a landslide, and Ostapchuk is going to feel it tomorrow, I am sorry. Nice and clean from both, a good one for the carter hart hate club.",
+    "shoresy": "Two rostered pylons, two goon-league owners, one beating. Xhekaj took 62 percent of the vote and Bauer took 18, which is about the share of the dinner bill Brenden Q. covers. Jordan M. keeps stacking heavyweights like he is gooning to the penalty sheet every night, and two days later Xhekaj went again and won that one too. Brenden, your D-man got tuned up in his own barn, bud. Nine out of ten, two minutes for rostering a speed bag.",
+    "goon": "Sorry, Brenden. Bauer stood in there, that is worth something. Xhekaj won it clean, 62 percent from 146 votes, and that is two fights in three days for the carter hart hate club. I am counting on my knuckles and Jordan is running out of fingers. Good fight, fellas, ice them both.",
     "undercard": [
       {
-        "title": "Bauer vs. Imama: Winnipeg Wins a Beauty",
-        "date": "Friday, October 30, 2026",
-        "line": "Tyrel Bauer vs. Bokondji Imama, Jets vs. Panthers, 1st period 2:04. Bauer took 51 percent of the vote and a rating of 7.99 from 77 votes. Brenden Q. collects.",
-        "url": "https://www.youtube.com/watch?v=E3uKvUldSMA",
-        "shoresy": "Two minutes into the game and these two were already trading bombs. Imama is on nobody roster, which tracks, nobody wanted that smoke. Brenden gets a bonus out of Bauer, the plug."
+        "title": "Seider vs. Landeskog: Goo Squad Finally Wins Something",
+        "date": "Saturday, November 7, 2026",
+        "line": "Moritz Seider vs. Gabriel Landeskog, Red Wings vs. Avalanche, 3rd period 9:34. Seider took 62 percent of the vote, rating 5.34 from 58 votes. Brennan M. beats Michael G. at something.",
+        "url": "https://www.youtube.com/watch?v=52BZWnTgECk",
+        "shoresy": "Goo Squad is 0 and 12 and the only W they have all year came from a defenceman throwing hands on a Saturday. Brennan, frame it, bud. Michael G. owns Landeskog and still lost the scrap. Seven out of ten, five for fighting your own fantasy schedule."
       },
       {
-        "title": "Klapka vs. Douglas: Calgary Collects",
-        "date": "Friday, October 30, 2026",
-        "line": "Adam Klapka vs. Curtis Douglas, Flames vs. Kraken, 1st period 1:46. Klapka took 84 percent of the vote. Richard J. has a winger who fights, which is rude.",
-        "url": "https://www.youtube.com/watch?v=uzCwVnbY1js",
-        "shoresy": "Under two minutes in and Douglas was already getting a lesson. Richard J. collects fighters like pylons collect bad angles. Four point eight eight out of ten, cake eater."
+        "title": "Hathaway vs. Kastelic: Jordan Again, Tom Folded",
+        "date": "Sunday, November 8, 2026",
+        "line": "Garnet Hathaway vs. Mark Kastelic, Panthers vs. Bruins, 1st period 6:32. Kastelic took 91 percent of the vote, rating 5.28 from 47 votes. Jordan M. collects again off Tom O.",
+        "url": "https://www.youtube.com/watch?v=7oTuUEEo_Mk",
+        "shoresy": "Ninety-one percent. Hathaway got 4. Tom O. is 11 and 1 and his fourth liner got folded like a beach chair at a cottage party. Jordan M. had guys in four scraps this week and won three. Eight out of ten, misconduct on Tom for rostering a heavy bag."
       }
     ],
     "image": null
