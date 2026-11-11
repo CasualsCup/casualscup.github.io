@@ -1,5 +1,26 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "id": "b27dfaf8-2c1f-4ef4-a7b2-00e1ac59afcd",
+      "time": "Tuesday, November 10",
+      "headline": "Tom O. pries Brady Tkachuk out of the basement",
+      "sides": [
+        {
+          "team": "Anger issues inc",
+          "grade": "A",
+          "text": "Adds Brady Tkachuk, the biggest projection in the deal at 633.8, a forward who hits, scraps and plays every night in a league that pays for all three. Gives up a goalie who was sitting on the bench behind Vasilevskiy and Sorokin, plus a defenceman. Already 11-1 with ten straight wins. The rich just bought a power forward."
+        },
+        {
+          "team": "Ray Lewis Killed a Guy",
+          "grade": "B",
+          "text": "Alex Lyon is on IR and Binnington was holding the crease alone, so Murashov fixes a real hole in net and Guhle adds a body on the blue line. Paid the biggest name in the deal to do it and cut Eklund to make room. At 1-11 you fix the hole you can see."
+        }
+      ],
+      "note": "Graded on fit and value: did it fill a hole, does it add a guy who plays every night, did it keep the floor. Hits and PIM count here.",
+      "goon": "Sorry Joe, I know nine straight losses is a lot, bud. You needed a goalie and you went and got one, and that is a grown-up hockey decision. You also handed the first-place team a guy who hits people for a living. Sorry. That one is going to come back around.",
+      "shoresy": "Joe, bud, you traded the one guy on your roster who would actually drop the gloves for you, to the guy who has won ten straight. Your mom traded down too, she married your dad. Six out of ten, I respect the panic."
+    }
+  ],
   "rubric": "Every trade gets graded the day it goes through, one letter per side, on fit and value: did it fill a hole, did it add a guy who plays every night, and did it keep the team from falling apart. In this league a hit counts, so a grinder can be worth more than a sniper and the grades know it.",
   "empty": "No trades yet. Twenty managers and not one of you has picked up the phone. Goon says that's patience. Shoresy says you're scared of each other. First deal gets graded here the next morning."
 }
