@@ -1,48 +1,48 @@
 {
   "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "7",
-    "title": "Bauer vs. Xhekaj: Jordan Cashes, Brenden Bleeds",
-    "date": "Tuesday, November 3, 2026",
-    "game": "Winnipeg Jets vs. Montreal Canadiens",
-    "when": "3rd Period, 10:40",
+    "week": "8",
+    "title": "DeBrincat vs. Bennett: Sean Wins the Scrap, Loses the Week",
+    "date": "Thursday, November 12, 2026",
+    "game": "Detroit Red Wings vs. Florida Panthers",
+    "when": "2nd Period, 5:25",
     "fighters": [
       {
-        "name": "Tyrel Bauer",
-        "nhl": "Winnipeg Jets",
-        "pos": "D",
-        "owner": "mentally bedarded"
+        "name": "Alex DeBrincat",
+        "nhl": "Detroit Red Wings",
+        "pos": "LW",
+        "owner": "Something's Bruin"
       },
       {
-        "name": "Arber Xhekaj",
-        "nhl": "Montreal Canadiens",
-        "pos": "D",
-        "owner": "carter hart hate club"
+        "name": "Sam Bennett",
+        "nhl": "Florida Panthers",
+        "pos": "C",
+        "owner": "Young Stroker’s Body Snatchers"
       }
     ],
-    "vote": "Xhekaj 62%, Bauer 18%, Draw 19%",
+    "vote": "Bennett 63%, DeBrincat 27%, Draw 10%",
     "videos": [
       {
         "label": "Watch the tape",
-        "url": "https://www.youtube.com/watch?v=e2Az38WB4Jo"
+        "url": "https://www.youtube.com/watch?v=wf3tmWCpoSk"
       }
     ],
-    "shoresy": "Two rostered pylons, two goon-league owners, one beating. Xhekaj took 62 percent of the vote and Bauer took 18, which is about the share of the dinner bill Brenden Q. covers. Jordan M. keeps stacking heavyweights like he is gooning to the penalty sheet every night, and two days later Xhekaj went again and won that one too. Brenden, your D-man got tuned up in his own barn, bud. Nine out of ten, two minutes for rostering a speed bag.",
-    "goon": "Sorry, Brenden. Bauer stood in there, that is worth something. Xhekaj won it clean, 62 percent from 146 votes, and that is two fights in three days for the carter hart hate club. I am counting on my knuckles and Jordan is running out of fingers. Good fight, fellas, ice them both.",
+    "shoresy": "Two skill guys dropped the mitts, which in this league is the accountant squaring up with the bouncer. Bennett took 63 percent of the vote, DeBrincat got 27, so Matthew V. owns a sniper who loses fights and Sean F. owns a centre who wins them. Sean, your guy won the tilly and your team still got boat-raced by the Leprechauns by more than 90. Gooning to the fight clips while your lineup bleeds out, bud. Eight out of ten, two minutes for winning the wrong fight.",
+    "goon": "Sorry, Matthew. DeBrincat is a scorer, he did not have to do that, and he did it anyway. That is brave and I respect brave. Bennett won it clean, 63 percent from 41 votes. One knuckle for Sean. And Something's Bruin still won the week, so maybe everybody goes home happy. Good fight, fellas, ice them both.",
     "undercard": [
       {
-        "title": "Seider vs. Landeskog: Goo Squad Finally Wins Something",
-        "date": "Saturday, November 7, 2026",
-        "line": "Moritz Seider vs. Gabriel Landeskog, Red Wings vs. Avalanche, 3rd period 9:34. Seider took 62 percent of the vote, rating 5.34 from 58 votes. Brennan M. beats Michael G. at something.",
-        "url": "https://www.youtube.com/watch?v=52BZWnTgECk",
-        "shoresy": "Goo Squad is 0 and 12 and the only W they have all year came from a defenceman throwing hands on a Saturday. Brennan, frame it, bud. Michael G. owns Landeskog and still lost the scrap. Seven out of ten, five for fighting your own fantasy schedule."
+        "title": "Olivier vs. Sabourin: Best Rated Tilly of the Week",
+        "date": "Thursday, November 12, 2026",
+        "line": "Mathieu Olivier vs. Scott Sabourin, Blue Jackets vs. Lightning, 1st period 12:22. Olivier took 52 percent, Sabourin 15, Draw 33, rating 7.45 from 114 votes. Richard J. collects, Sabourin is on the wire.",
+        "url": "https://www.youtube.com/watch?v=PAWlmjUfua8",
+        "shoresy": "Top rated scrap of the week, 7.45 from 114 votes, and Richard J. had it all to himself because nobody in this league rosters Sabourin. Olivier won it and Richard Bobby won the week by 35 and change. Nine out of ten, the waiver wire just got tuned up in public."
       },
       {
-        "title": "Hathaway vs. Kastelic: Jordan Again, Tom Folded",
-        "date": "Sunday, November 8, 2026",
-        "line": "Garnet Hathaway vs. Mark Kastelic, Panthers vs. Bruins, 1st period 6:32. Kastelic took 91 percent of the vote, rating 5.28 from 47 votes. Jordan M. collects again off Tom O.",
-        "url": "https://www.youtube.com/watch?v=7oTuUEEo_Mk",
-        "shoresy": "Ninety-one percent. Hathaway got 4. Tom O. is 11 and 1 and his fourth liner got folded like a beach chair at a cottage party. Jordan M. had guys in four scraps this week and won three. Eight out of ten, misconduct on Tom for rostering a heavy bag."
+        "title": "Foligno vs. Jeannot: Tom Gets One Back Off Jordan",
+        "date": "Saturday, November 14, 2026",
+        "line": "Marcus Foligno vs. Tanner Jeannot, Wild vs. Bruins, 2nd period 8:48. Foligno 41 percent, Jeannot 38, Draw 21, rating 4.88 from 73 votes. Tom O. edges Jordan M. by three points of a fan vote.",
+        "url": "https://www.youtube.com/watch?v=zGiJ6edttcs",
+        "shoresy": "Three points of a fan vote. Tom O. will frame it anyway. Jordan M. still had guys in four scraps this week, Johnston went twice and took 96 and 100 percent, and Edstrom took 100 too. Jordan is not managing a fantasy team, he is running a fight club out of his mom’s basement. Seven out of ten, five each, both of you go sit down."
       }
     ],
     "image": null
