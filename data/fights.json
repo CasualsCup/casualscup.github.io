@@ -1,48 +1,48 @@
 {
   "_source": "Fight facts from the HockeyFights.com 2026-27 regular season fight log (fan votes and ratings as read 2026-10-14); ownership from ESPN league 1867179300 rosters read 2026-10-14. Video links are the YouTube clips embedded on each HockeyFights fight page.",
   "fightOfTheWeek": {
-    "week": "8",
-    "title": "DeBrincat vs. Bennett: Sean Wins the Scrap, Loses the Week",
-    "date": "Thursday, November 12, 2026",
-    "game": "Detroit Red Wings vs. Florida Panthers",
-    "when": "2nd Period, 5:25",
+    "week": "9",
+    "title": "Landeskog vs. McBain: Ninety-Five Percent of a Beating",
+    "date": "Wednesday, November 18, 2026",
+    "game": "Colorado Avalanche vs. Utah Mammoth",
+    "when": "2nd Period, 5:26",
     "fighters": [
       {
-        "name": "Alex DeBrincat",
-        "nhl": "Detroit Red Wings",
+        "name": "Gabriel Landeskog",
+        "nhl": "Colorado Avalanche",
         "pos": "LW",
-        "owner": "Something's Bruin"
+        "owner": "Chicago Bedards"
       },
       {
-        "name": "Sam Bennett",
-        "nhl": "Florida Panthers",
+        "name": "Jack McBain",
+        "nhl": "Utah Mammoth",
         "pos": "C",
-        "owner": "Young Stroker’s Body Snatchers"
+        "owner": "Something's Bruin"
       }
     ],
-    "vote": "Bennett 63%, DeBrincat 27%, Draw 10%",
+    "vote": "McBain 95%, Landeskog 5%, Draw 0%",
     "videos": [
       {
         "label": "Watch the tape",
-        "url": "https://www.youtube.com/watch?v=wf3tmWCpoSk"
+        "url": "https://www.youtube.com/watch?v=b00238xfGTc"
       }
     ],
-    "shoresy": "Two skill guys dropped the mitts, which in this league is the accountant squaring up with the bouncer. Bennett took 63 percent of the vote, DeBrincat got 27, so Matthew V. owns a sniper who loses fights and Sean F. owns a centre who wins them. Sean, your guy won the tilly and your team still got boat-raced by the Leprechauns by more than 90. Gooning to the fight clips while your lineup bleeds out, bud. Eight out of ten, two minutes for winning the wrong fight.",
-    "goon": "Sorry, Matthew. DeBrincat is a scorer, he did not have to do that, and he did it anyway. That is brave and I respect brave. Bennett won it clean, 63 percent from 41 votes. One knuckle for Sean. And Something's Bruin still won the week, so maybe everybody goes home happy. Good fight, fellas, ice them both.",
+    "shoresy": "Owner versus owner, Bedards versus Bruin, and Michael G. got his captain folded like a lawn chair. Ninety-five percent for McBain, five for Landeskog, zero for draw, which means even Michael's mom voted McBain. Rating 6.75 from 60 votes, best tilly of the week. Matthew V. has McBain sitting top of his roster by projection and now he gooned his way into the fight lead too. Michael, your guy dropped the mitts with a centre who hits for a living and you watched it like a pay-per-view you paid for. Nine out of ten, two minutes for bringing a playmaker to a punch-up.",
+    "goon": "Sorry, Michael. Landeskog is a captain and captains answer the bell, I respect that so much. McBain just answered it louder. Ninety-five percent from 60 votes, that is one knuckle, two knuckles, all the knuckles. Matthew V., your fella did the job clean. Ice for both of them and a juice box for the Bedards, on me.",
     "undercard": [
       {
-        "title": "Olivier vs. Sabourin: Best Rated Tilly of the Week",
-        "date": "Thursday, November 12, 2026",
-        "line": "Mathieu Olivier vs. Scott Sabourin, Blue Jackets vs. Lightning, 1st period 12:22. Olivier took 52 percent, Sabourin 15, Draw 33, rating 7.45 from 114 votes. Richard J. collects, Sabourin is on the wire.",
-        "url": "https://www.youtube.com/watch?v=PAWlmjUfua8",
-        "shoresy": "Top rated scrap of the week, 7.45 from 114 votes, and Richard J. had it all to himself because nobody in this league rosters Sabourin. Olivier won it and Richard Bobby won the week by 35 and change. Nine out of ten, the waiver wire just got tuned up in public."
+        "title": "Carrick vs. Wilson: One Second In",
+        "date": "Thursday, November 19, 2026",
+        "line": "Sam Carrick vs. Tom Wilson, Sabres vs. Capitals, 1st period 0:01. Wilson took 96 percent, Carrick 4, rating 5.19 from 27 votes. Jared S. collects off Sean F.",
+        "url": "https://www.youtube.com/watch?v=5notlBCwlyo",
+        "shoresy": "One second into the game. Sean F. sent Carrick off the opening draw to go get his face rearranged by the top projected guy on the ICE Enforcers roster. Four percent. Jared S. owns the policeman, Sean owns the paperwork. Eight out of ten, five for fighting and five for terrible life choices."
       },
       {
-        "title": "Foligno vs. Jeannot: Tom Gets One Back Off Jordan",
-        "date": "Saturday, November 14, 2026",
-        "line": "Marcus Foligno vs. Tanner Jeannot, Wild vs. Bruins, 2nd period 8:48. Foligno 41 percent, Jeannot 38, Draw 21, rating 4.88 from 73 votes. Tom O. edges Jordan M. by three points of a fan vote.",
-        "url": "https://www.youtube.com/watch?v=zGiJ6edttcs",
-        "shoresy": "Three points of a fan vote. Tom O. will frame it anyway. Jordan M. still had guys in four scraps this week, Johnston went twice and took 96 and 100 percent, and Edstrom took 100 too. Jordan is not managing a fantasy team, he is running a fight club out of his mom’s basement. Seven out of ten, five each, both of you go sit down."
+        "title": "Schenn vs. Chiarot: Tom Cashes Again",
+        "date": "Saturday, November 21, 2026",
+        "line": "Brayden Schenn vs. Ben Chiarot, Islanders vs. Red Wings, 2nd period 19:47. Schenn took 89 percent, Chiarot 11, rating 4.84 from 19 votes. Tom O. over Richard J., and Tom also had Foligno go with Luke Schenn the same night.",
+        "url": "https://www.youtube.com/watch?v=0yJmNiIuoMA",
+        "shoresy": "Tom O. had two guys scrap on one Saturday, Schenn and Foligno, which is either a fantasy strategy or a cry for help. Richard J. watched Chiarot take 11 percent with thirteen seconds left in the period. Seven out of ten, two minutes for Richard bringing a blueliner to a centre fight."
       }
     ],
     "image": null
