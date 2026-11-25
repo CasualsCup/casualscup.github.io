@@ -1,7 +1,7 @@
 {
   "league": "The Casuals Cup -violence league",
   "season": "2026-27",
-  "builtAt": "2026-11-23T16:31:19.508Z",
+  "builtAt": "2026-11-25T16:10:13.433Z",
   "matchupPeriodCount": 23,
   "currentMatchupPeriod": 9,
   "teams": [
@@ -113,7 +113,7 @@
           "name": "Garnet Hathaway",
           "pos": "RW",
           "team": "Fla",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -121,7 +121,7 @@
           "name": "Colton Dach",
           "pos": "C",
           "team": "Edm",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -162,14 +162,14 @@
           "pos": "D",
           "team": "Mon",
           "slot": "BE",
-          "status": "OUT",
+          "status": "INJURY_RESERVE",
           "proj": 313.3
         },
         {
           "name": "Dakota Joshua",
           "pos": "LW",
           "team": "Tor",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -185,15 +185,7 @@
           "name": "Tyson Foerster",
           "pos": "RW",
           "team": "Phi",
-          "slot": "BE",
-          "status": "ACTIVE",
-          "proj": 0
-        },
-        {
-          "name": "Kirby Dach",
-          "pos": "C",
-          "team": "Det",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -202,6 +194,14 @@
           "pos": "RW",
           "team": "Sea",
           "slot": "F",
+          "status": "ACTIVE",
+          "proj": 0
+        },
+        {
+          "name": "Nick Cousins",
+          "pos": "LW",
+          "team": "Ott",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         }
@@ -226,8 +226,8 @@
         "wins": 15,
         "losses": 1,
         "ties": 0,
-        "pointsFor": 2476.3500000000004,
-        "pointsAgainst": 1714.8,
+        "pointsFor": 2558.05,
+        "pointsAgainst": 1746.1499999999999,
         "streakType": "WIN",
         "streakLength": 14,
         "gamesBack": 0,
@@ -236,18 +236,18 @@
       "standingsRank": 1,
       "pointsSplit": {
         "season": {
-          "league": 2476.3500000000004,
-          "standard": 680.9,
-          "bonus": 1795.4500000000003
+          "league": 2558.0500000000006,
+          "standard": 699.2,
+          "bonus": 1858.8500000000006
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 81.30000000000001,
+          "standard": 18.1,
+          "bonus": 63.20000000000001,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -263,7 +263,7 @@
           "name": "Auston Matthews",
           "pos": "C",
           "team": "Tor",
-          "slot": "C",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 441.3
         },
@@ -279,7 +279,7 @@
           "name": "Brock Nelson",
           "pos": "C",
           "team": "Col",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 377.2
         },
@@ -287,7 +287,7 @@
           "name": "Will Cuylle",
           "pos": "LW",
           "team": "NYR",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 571.5
         },
@@ -303,7 +303,7 @@
           "name": "Adam Fantilli",
           "pos": "C",
           "team": "CBJ",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 432.1
         },
@@ -312,7 +312,7 @@
           "pos": "RW",
           "team": "Wsh",
           "slot": "F",
-          "status": "DAY_TO_DAY",
+          "status": "OUT",
           "proj": 298.8
         },
         {
@@ -383,7 +383,7 @@
           "name": "Conor Garland",
           "pos": "RW",
           "team": "CBJ",
-          "slot": "BE",
+          "slot": "F",
           "status": "INJURY_RESERVE",
           "proj": 254.8
         },
@@ -407,7 +407,7 @@
           "name": "Ilya Mikheyev",
           "pos": "LW",
           "team": "TB",
-          "slot": "LW",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 206.7
         },
@@ -439,7 +439,7 @@
           "name": "Victor Olofsson",
           "pos": "RW",
           "team": "VGK",
-          "slot": "RW",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         }
@@ -464,8 +464,8 @@
         "wins": 2,
         "losses": 14,
         "ties": 0,
-        "pointsFor": 1626.5,
-        "pointsAgainst": 1963.5499999999997,
+        "pointsFor": 1660.25,
+        "pointsAgainst": 1978.3499999999997,
         "streakType": "LOSS",
         "streakLength": 11,
         "gamesBack": 13,
@@ -474,18 +474,18 @@
       "standingsRank": 15,
       "pointsSplit": {
         "season": {
-          "league": 1626.5,
-          "standard": 578.6000000000001,
-          "bonus": 1047.8999999999999
+          "league": 1660.25,
+          "standard": 594.4000000000002,
+          "bonus": 1065.85
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 33.75,
+          "standard": 15.799999999999999,
+          "bonus": 17.950000000000003,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -518,7 +518,7 @@
           "pos": "LW",
           "team": "UTA",
           "slot": "LW",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 394.5
         },
         {
@@ -622,7 +622,7 @@
           "pos": "D",
           "team": "NYI",
           "slot": "D",
-          "status": "DAY_TO_DAY",
+          "status": "OUT",
           "proj": 204.8
         },
         {
@@ -710,8 +710,8 @@
         "wins": 2,
         "losses": 14,
         "ties": 0,
-        "pointsFor": 1500.6999999999998,
-        "pointsAgainst": 2068.15,
+        "pointsFor": 1552.7999999999997,
+        "pointsAgainst": 2090.4500000000003,
         "streakType": "LOSS",
         "streakLength": 4,
         "gamesBack": 13,
@@ -720,18 +720,18 @@
       "standingsRank": 16,
       "pointsSplit": {
         "season": {
-          "league": 1500.7,
-          "standard": 635.4,
-          "bonus": 865.3000000000001
+          "league": 1552.8,
+          "standard": 660.6999999999999,
+          "bonus": 892.1
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 52.1,
+          "standard": 25.3,
+          "bonus": 26.8,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -779,7 +779,7 @@
           "name": "Bo Horvat",
           "pos": "C",
           "team": "NYI",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 379.4
         },
@@ -787,7 +787,7 @@
           "name": "Tomas Hertl",
           "pos": "C",
           "team": "VGK",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 418.8
         },
@@ -852,7 +852,7 @@
           "pos": "D",
           "team": "Buf",
           "slot": "D",
-          "status": "ACTIVE",
+          "status": "DAY_TO_DAY",
           "proj": 317.9
         },
         {
@@ -860,14 +860,14 @@
           "pos": "C",
           "team": "StL",
           "slot": "BE",
-          "status": "DAY_TO_DAY",
+          "status": "INJURY_RESERVE",
           "proj": 276.2
         },
         {
           "name": "Stuart Skinner",
           "pos": "G",
           "team": "Wpg",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 345.4
         },
@@ -892,14 +892,14 @@
           "pos": "RW",
           "team": "UTA",
           "slot": "UTIL",
-          "status": "ACTIVE",
+          "status": "OUT",
           "proj": 295.9
         },
         {
           "name": "Michael DiPietro",
           "pos": "G",
           "team": "Bos",
-          "slot": "BE",
+          "slot": "G",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -916,7 +916,7 @@
           "pos": "RW",
           "team": "StL",
           "slot": "BE",
-          "status": "ACTIVE",
+          "status": "DAY_TO_DAY",
           "proj": 294.1
         },
         {
@@ -948,8 +948,8 @@
         "wins": 12,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 2075.8,
-        "pointsAgainst": 1853.95,
+        "pointsFor": 2129.4,
+        "pointsAgainst": 1869.65,
         "streakType": "WIN",
         "streakLength": 3,
         "gamesBack": 3,
@@ -958,18 +958,18 @@
       "standingsRank": 7,
       "pointsSplit": {
         "season": {
-          "league": 2075.7999999999997,
-          "standard": 789.0000000000002,
-          "bonus": 1286.7999999999995
+          "league": 2129.3999999999996,
+          "standard": 811.4000000000002,
+          "bonus": 1317.9999999999995
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 53.85,
+          "standard": 22.900000000000002,
+          "bonus": 30.95,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -985,7 +985,7 @@
           "name": "Nick Suzuki",
           "pos": "C",
           "team": "Mon",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 399.6
         },
@@ -1009,7 +1009,7 @@
           "name": "Mark Kastelic",
           "pos": "C",
           "team": "Bos",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1017,7 +1017,7 @@
           "name": "Ross Johnston",
           "pos": "LW",
           "team": "StL",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1033,7 +1033,7 @@
           "name": "Tanner Jeannot",
           "pos": "LW",
           "team": "Bos",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1065,7 +1065,7 @@
           "name": "Mark Jankowski",
           "pos": "C",
           "team": "Car",
-          "slot": "C",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1081,7 +1081,7 @@
           "name": "Adam Edstrom",
           "pos": "LW",
           "team": "Nsh",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1097,7 +1097,7 @@
           "name": "Leevi Merilainen",
           "pos": "G",
           "team": "Van",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1113,7 +1113,7 @@
           "name": "Jake Middleton",
           "pos": "D",
           "team": "Cgy",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1129,7 +1129,7 @@
           "name": "Braden Schneider",
           "pos": "D",
           "team": "NYR",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1145,7 +1145,7 @@
           "name": "Tye Kartye",
           "pos": "LW",
           "team": "NYR",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1161,7 +1161,7 @@
           "name": "Ross Colton",
           "pos": "LW",
           "team": "Nsh",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         }
@@ -1186,8 +1186,8 @@
         "wins": 12,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 2066.6,
-        "pointsAgainst": 1846.5,
+        "pointsFor": 2089.75,
+        "pointsAgainst": 1873.1,
         "streakType": "LOSS",
         "streakLength": 1,
         "gamesBack": 3,
@@ -1196,18 +1196,18 @@
       "standingsRank": 8,
       "pointsSplit": {
         "season": {
-          "league": 2066.600000000001,
-          "standard": 542.1999999999998,
-          "bonus": 1524.400000000001
+          "league": 2089.7500000000005,
+          "standard": 549.4999999999998,
+          "bonus": 1540.2500000000007
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 23.15,
+          "standard": 7.300000000000001,
+          "bonus": 15.849999999999998,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -1280,7 +1280,7 @@
           "pos": "LW",
           "team": "Fla",
           "slot": "BE",
-          "status": "INJURY_RESERVE",
+          "status": "ACTIVE",
           "proj": 323.9
         },
         {
@@ -1424,8 +1424,8 @@
         "wins": 2,
         "losses": 14,
         "ties": 0,
-        "pointsFor": 1418.8500000000001,
-        "pointsAgainst": 1785.05,
+        "pointsFor": 1434.5500000000002,
+        "pointsAgainst": 1838.8999999999999,
         "streakType": "LOSS",
         "streakLength": 8,
         "gamesBack": 13,
@@ -1434,18 +1434,18 @@
       "standingsRank": 17,
       "pointsSplit": {
         "season": {
-          "league": 1418.8500000000001,
-          "standard": 477.10000000000014,
-          "bonus": 941.75
+          "league": 1434.5500000000002,
+          "standard": 482.0000000000001,
+          "bonus": 952.5500000000001
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 15.7,
+          "standard": 4.9,
+          "bonus": 10.799999999999999,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -1461,7 +1461,7 @@
           "name": "Nikita Kucherov",
           "pos": "RW",
           "team": "TB",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 565
         },
@@ -1485,7 +1485,7 @@
           "name": "Seth Jarvis",
           "pos": "RW",
           "team": "Car",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 425.6
         },
@@ -1493,7 +1493,7 @@
           "name": "Pavel Dorofeyev",
           "pos": "RW",
           "team": "NYR",
-          "slot": "LW",
+          "slot": "F",
           "status": "INJURY_RESERVE",
           "proj": 363.3
         },
@@ -1509,7 +1509,7 @@
           "name": "Jeremy Swayman",
           "pos": "G",
           "team": "Bos",
-          "slot": "BE",
+          "slot": "G",
           "status": "ACTIVE",
           "proj": 372
         },
@@ -1517,7 +1517,7 @@
           "name": "Rickard Rakell",
           "pos": "RW",
           "team": "Pit",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 354.5
         },
@@ -1566,7 +1566,7 @@
           "pos": "C",
           "team": "Cgy",
           "slot": "F",
-          "status": "ACTIVE",
+          "status": "DAY_TO_DAY",
           "proj": 282.9
         },
         {
@@ -1629,7 +1629,7 @@
           "name": "Dylan Garand",
           "pos": "G",
           "team": "NYR",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 201
         },
@@ -1638,7 +1638,7 @@
           "pos": "C",
           "team": "Fla",
           "slot": "IR",
-          "status": "INJURY_RESERVE",
+          "status": "ACTIVE",
           "proj": 317.9
         },
         {
@@ -1670,8 +1670,8 @@
         "wins": 12,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 1862.8999999999999,
-        "pointsAgainst": 1604.05,
+        "pointsFor": 1894.2499999999998,
+        "pointsAgainst": 1685.75,
         "streakType": "WIN",
         "streakLength": 3,
         "gamesBack": 3,
@@ -1680,18 +1680,18 @@
       "standingsRank": 9,
       "pointsSplit": {
         "season": {
-          "league": 1862.9000000000005,
-          "standard": 741.4000000000001,
-          "bonus": 1121.5000000000005
+          "league": 1894.2500000000005,
+          "standard": 755.8000000000001,
+          "bonus": 1138.4500000000003
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 31.349999999999998,
+          "standard": 14.399999999999999,
+          "bonus": 16.95,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -1707,7 +1707,7 @@
           "name": "David Pastrnak",
           "pos": "RW",
           "team": "Bos",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 549.5
         },
@@ -1731,7 +1731,7 @@
           "name": "Drake Batherson",
           "pos": "RW",
           "team": "Ott",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 462.2
         },
@@ -1747,7 +1747,7 @@
           "name": "Jacob Markstrom",
           "pos": "G",
           "team": "Fla",
-          "slot": "BE",
+          "slot": "G",
           "status": "ACTIVE",
           "proj": 252
         },
@@ -1755,7 +1755,7 @@
           "name": "Mario Ferraro",
           "pos": "D",
           "team": "Wpg",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 292.3
         },
@@ -1763,7 +1763,7 @@
           "name": "Jake Neighbours",
           "pos": "LW",
           "team": "StL",
-          "slot": "LW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 361.5
         },
@@ -1771,7 +1771,7 @@
           "name": "Nicolas Deslauriers",
           "pos": "RW",
           "team": "Car",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1787,15 +1787,15 @@
           "name": "Marc Gatcomb",
           "pos": "LW",
           "team": "VGK",
-          "slot": "UTIL",
-          "status": "ACTIVE",
+          "slot": "BE",
+          "status": "DAY_TO_DAY",
           "proj": 0
         },
         {
           "name": "Jaden Schwartz",
           "pos": "LW",
           "team": "Col",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1803,7 +1803,7 @@
           "name": "Mathieu Joseph",
           "pos": "LW",
           "team": "Edm",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1811,7 +1811,7 @@
           "name": "Adam Pelech",
           "pos": "D",
           "team": "NYI",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1827,7 +1827,7 @@
           "name": "Anthony Stolarz",
           "pos": "G",
           "team": "Tor",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1859,7 +1859,7 @@
           "name": "Noah Warren",
           "pos": "D",
           "team": "Ana",
-          "slot": "D",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -1867,7 +1867,7 @@
           "name": "Dylan DeMelo",
           "pos": "D",
           "team": "Wpg",
-          "slot": "D",
+          "slot": "BE",
           "status": "INJURY_RESERVE",
           "proj": 0
         },
@@ -1916,8 +1916,8 @@
         "wins": 12,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 2154,
-        "pointsAgainst": 1813.45,
+        "pointsFor": 2206.5,
+        "pointsAgainst": 1860,
         "streakType": "WIN",
         "streakLength": 7,
         "gamesBack": 3,
@@ -1926,18 +1926,18 @@
       "standingsRank": 5,
       "pointsSplit": {
         "season": {
-          "league": 2154,
-          "standard": 711.4,
-          "bonus": 1442.6
+          "league": 2206.5,
+          "standard": 728.8000000000001,
+          "bonus": 1477.6999999999998
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 52.5,
+          "standard": 17.4,
+          "bonus": 35.1,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -1961,7 +1961,7 @@
           "name": "Martin Necas",
           "pos": "RW",
           "team": "Col",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 489.9
         },
@@ -1977,8 +1977,8 @@
           "name": "Dylan Guenther",
           "pos": "RW",
           "team": "UTA",
-          "slot": "BE",
-          "status": "INJURY_RESERVE",
+          "slot": "F",
+          "status": "ACTIVE",
           "proj": 419.7
         },
         {
@@ -2001,7 +2001,7 @@
           "name": "Artturi Lehkonen",
           "pos": "LW",
           "team": "Col",
-          "slot": "BE",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 273.6
         },
@@ -2009,7 +2009,7 @@
           "name": "Arturs Silovs",
           "pos": "G",
           "team": "Pit",
-          "slot": "G",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 172.6
         },
@@ -2017,7 +2017,7 @@
           "name": "Brayden McNabb",
           "pos": "D",
           "team": "VGK",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2049,7 +2049,7 @@
           "name": "Brett Howden",
           "pos": "C",
           "team": "VGK",
-          "slot": "LW",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2065,7 +2065,7 @@
           "name": "Nick Seeler",
           "pos": "D",
           "team": "Phi",
-          "slot": "UTIL",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2073,7 +2073,7 @@
           "name": "Kasperi Kapanen",
           "pos": "RW",
           "team": "Edm",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2081,7 +2081,7 @@
           "name": "Aaron Ekblad",
           "pos": "D",
           "team": "Fla",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 255.6
         },
@@ -2097,7 +2097,7 @@
           "name": "Cam Talbot",
           "pos": "G",
           "team": "CBJ",
-          "slot": "BE",
+          "slot": "G",
           "status": "ACTIVE",
           "proj": 143.2
         },
@@ -2105,7 +2105,7 @@
           "name": "Drew Doughty",
           "pos": "D",
           "team": "LA",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 224.7
         },
@@ -2113,7 +2113,7 @@
           "name": "Anthony Cirelli",
           "pos": "C",
           "team": "TB",
-          "slot": "F",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 327.1
         },
@@ -2154,8 +2154,8 @@
         "wins": 8,
         "losses": 8,
         "ties": 0,
-        "pointsFor": 1768.8000000000002,
-        "pointsAgainst": 1801.25,
+        "pointsFor": 1812.9500000000003,
+        "pointsAgainst": 1829.9499999999998,
         "streakType": "WIN",
         "streakLength": 1,
         "gamesBack": 7,
@@ -2164,18 +2164,18 @@
       "standingsRank": 10,
       "pointsSplit": {
         "season": {
-          "league": 1768.8000000000002,
-          "standard": 635.5999999999998,
-          "bonus": 1133.2000000000003
+          "league": 1812.95,
+          "standard": 647.1999999999998,
+          "bonus": 1165.7500000000002
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 43.9,
+          "standard": 11.100000000000001,
+          "bonus": 32.8,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -2392,8 +2392,8 @@
         "wins": 5,
         "losses": 11,
         "ties": 0,
-        "pointsFor": 1597.9499999999998,
-        "pointsAgainst": 1725.9,
+        "pointsFor": 1630.0499999999997,
+        "pointsAgainst": 1752.2,
         "streakType": "LOSS",
         "streakLength": 1,
         "gamesBack": 10,
@@ -2402,18 +2402,18 @@
       "standingsRank": 14,
       "pointsSplit": {
         "season": {
-          "league": 1597.9499999999996,
-          "standard": 631.7999999999998,
-          "bonus": 966.1499999999997
+          "league": 1630.0499999999995,
+          "standard": 646.2999999999998,
+          "bonus": 983.7499999999997
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 32.1,
+          "standard": 14.500000000000004,
+          "bonus": 17.599999999999998,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -2429,7 +2429,7 @@
           "name": "Macklin Celebrini",
           "pos": "C",
           "team": "SJ",
-          "slot": "C",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 501.5
         },
@@ -2438,7 +2438,7 @@
           "pos": "LW",
           "team": "LA",
           "slot": "IR",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 401
         },
         {
@@ -2453,7 +2453,7 @@
           "name": "Kirill Marchenko",
           "pos": "LW",
           "team": "Tor",
-          "slot": "F",
+          "slot": "BE",
           "status": "INJURY_RESERVE",
           "proj": 421.2
         },
@@ -2477,7 +2477,7 @@
           "name": "Travis Konecny",
           "pos": "RW",
           "team": "Phi",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 449
         },
@@ -2509,7 +2509,7 @@
           "name": "Jonathan Marchessault",
           "pos": "RW",
           "team": "Nsh",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 370.5
         },
@@ -2517,7 +2517,7 @@
           "name": "Elias Lindholm",
           "pos": "C",
           "team": "Bos",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 310.9
         },
@@ -2525,7 +2525,7 @@
           "name": "JJ Peterka",
           "pos": "RW",
           "team": "Bos",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 290.3
         },
@@ -2541,7 +2541,7 @@
           "name": "Mikael Backlund",
           "pos": "C",
           "team": "Cgy",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 232.2
         },
@@ -2549,7 +2549,7 @@
           "name": "Teuvo Teravainen",
           "pos": "LW",
           "team": "Chi",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 227.8
         },
@@ -2557,7 +2557,7 @@
           "name": "Christian Dvorak",
           "pos": "C",
           "team": "Phi",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 247.4
         },
@@ -2565,7 +2565,7 @@
           "name": "Emmitt Finnie",
           "pos": "LW",
           "team": "Det",
-          "slot": "BE",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 282.9
         },
@@ -2573,7 +2573,7 @@
           "name": "Egor Chinakhov",
           "pos": "RW",
           "team": "Pit",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 225.8
         },
@@ -2581,7 +2581,7 @@
           "name": "Justin Brazeau",
           "pos": "RW",
           "team": "Pit",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 254.7
         },
@@ -2613,7 +2613,7 @@
           "name": "Nick Robertson",
           "pos": "LW",
           "team": "Pit",
-          "slot": "LW",
+          "slot": "BE",
           "status": "INJURY_RESERVE",
           "proj": 0
         }
@@ -2638,8 +2638,8 @@
         "wins": 8,
         "losses": 8,
         "ties": 0,
-        "pointsFor": 1729.4999999999998,
-        "pointsAgainst": 1872.1,
+        "pointsFor": 1757.5499999999997,
+        "pointsAgainst": 1916,
         "streakType": "WIN",
         "streakLength": 1,
         "gamesBack": 7,
@@ -2648,18 +2648,18 @@
       "standingsRank": 11,
       "pointsSplit": {
         "season": {
-          "league": 1729.5,
-          "standard": 550.8000000000001,
-          "bonus": 1178.6999999999998
+          "league": 1757.5500000000002,
+          "standard": 561.6000000000001,
+          "bonus": 1195.95
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 28.049999999999997,
+          "standard": 10.8,
+          "bonus": 17.249999999999996,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -2675,7 +2675,7 @@
           "name": "Cale Makar",
           "pos": "D",
           "team": "Col",
-          "slot": "D",
+          "slot": "BE",
           "status": "INJURY_RESERVE",
           "proj": 390.5
         },
@@ -2699,15 +2699,15 @@
           "name": "Kiefer Sherwood",
           "pos": "LW",
           "team": "SJ",
-          "slot": "F",
-          "status": "OUT",
+          "slot": "IR",
+          "status": "INJURY_RESERVE",
           "proj": 575.6
         },
         {
           "name": "Alex Laferriere",
           "pos": "RW",
           "team": "LA",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 461.9
         },
@@ -2716,14 +2716,14 @@
           "pos": "RW",
           "team": "CBJ",
           "slot": "F",
-          "status": "ACTIVE",
+          "status": "INJURY_RESERVE",
           "proj": 458.5
         },
         {
           "name": "Vasily Podkolzin",
           "pos": "RW",
           "team": "Edm",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 433.7
         },
@@ -2731,7 +2731,7 @@
           "name": "Carter Verhaeghe",
           "pos": "LW",
           "team": "Fla",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 369.4
         },
@@ -2771,7 +2771,7 @@
           "name": "Adam Klapka",
           "pos": "RW",
           "team": "Cgy",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2779,7 +2779,7 @@
           "name": "Danila Yurov",
           "pos": "C",
           "team": "Min",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2787,7 +2787,7 @@
           "name": "Josh Doan",
           "pos": "RW",
           "team": "Buf",
-          "slot": "LW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 286.7
         },
@@ -2795,7 +2795,7 @@
           "name": "Mason Marchment",
           "pos": "LW",
           "team": "SJ",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 335.1
         },
@@ -2803,7 +2803,7 @@
           "name": "Ben Chiarot",
           "pos": "D",
           "team": "Det",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2827,7 +2827,7 @@
           "name": "Marcus Johansson",
           "pos": "LW",
           "team": "Min",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -2851,9 +2851,17 @@
           "name": "Gabe Perreault",
           "pos": "RW",
           "team": "NYR",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 0
+        },
+        {
+          "name": "Alex Ovechkin",
+          "pos": "LW",
+          "team": "Wsh",
+          "slot": "F",
+          "status": "ACTIVE",
+          "proj": 471.6
         }
       ],
       "violence": {
@@ -2870,14 +2878,14 @@
       },
       "projStandard": {
         "rank": 16,
-        "pts": 4838.2
+        "pts": 5309.8
       },
       "record": {
         "wins": 14,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 2262.6,
-        "pointsAgainst": 1629.7499999999998,
+        "pointsFor": 2313.5499999999997,
+        "pointsAgainst": 1675.4499999999998,
         "streakType": "WIN",
         "streakLength": 4,
         "gamesBack": 1,
@@ -2886,18 +2894,18 @@
       "standingsRank": 3,
       "pointsSplit": {
         "season": {
-          "league": 2262.600000000001,
-          "standard": 680.5,
-          "bonus": 1582.1000000000008
+          "league": 2313.5500000000006,
+          "standard": 695.2,
+          "bonus": 1618.3500000000006
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 50.74999999999999,
+          "standard": 14.600000000000001,
+          "bonus": 36.14999999999999,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -2954,7 +2962,7 @@
           "pos": "LW",
           "team": "Car",
           "slot": "F",
-          "status": "DAY_TO_DAY",
+          "status": "OUT",
           "proj": 339.1
         },
         {
@@ -3026,7 +3034,7 @@
           "pos": "C",
           "team": "CBJ",
           "slot": "F",
-          "status": "OUT",
+          "status": "DAY_TO_DAY",
           "proj": 259.5
         },
         {
@@ -3114,8 +3122,8 @@
         "wins": 6,
         "losses": 10,
         "ties": 0,
-        "pointsFor": 1735.5,
-        "pointsAgainst": 1722.45,
+        "pointsFor": 1762.1,
+        "pointsAgainst": 1745.6000000000001,
         "streakType": "LOSS",
         "streakLength": 4,
         "gamesBack": 9,
@@ -3124,18 +3132,18 @@
       "standingsRank": 12,
       "pointsSplit": {
         "season": {
-          "league": 1735.5000000000005,
-          "standard": 680.2,
-          "bonus": 1055.3000000000004
+          "league": 1762.1000000000006,
+          "standard": 689.7,
+          "bonus": 1072.4000000000005
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 26.599999999999998,
+          "standard": 9.499999999999998,
+          "bonus": 17.1,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -3352,8 +3360,8 @@
         "wins": 1,
         "losses": 15,
         "ties": 0,
-        "pointsFor": 1502.15,
-        "pointsAgainst": 1724,
+        "pointsFor": 1523.4500000000003,
+        "pointsAgainst": 1758.55,
         "streakType": "LOSS",
         "streakLength": 9,
         "gamesBack": 14,
@@ -3362,18 +3370,18 @@
       "standingsRank": 19,
       "pointsSplit": {
         "season": {
-          "league": 1502.1499999999999,
-          "standard": 600.2,
-          "bonus": 901.9499999999998
+          "league": 1523.4499999999998,
+          "standard": 607.4000000000001,
+          "bonus": 916.0499999999997
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 20.900000000000002,
+          "standard": 7,
+          "bonus": 13.900000000000002,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -3414,7 +3422,7 @@
           "pos": "LW",
           "team": "TB",
           "slot": "F",
-          "status": "INJURY_RESERVE",
+          "status": "ACTIVE",
           "proj": 441.4
         },
         {
@@ -3590,8 +3598,8 @@
         "wins": 0,
         "losses": 16,
         "ties": 0,
-        "pointsFor": 1337.95,
-        "pointsAgainst": 2092.6,
+        "pointsFor": 1383.05,
+        "pointsAgainst": 2145.2999999999997,
         "streakType": "LOSS",
         "streakLength": 16,
         "gamesBack": 15,
@@ -3600,18 +3608,18 @@
       "standingsRank": 20,
       "pointsSplit": {
         "season": {
-          "league": 1337.9500000000003,
-          "standard": 467.1,
-          "bonus": 870.8500000000003
+          "league": 1383.0500000000002,
+          "standard": 480.70000000000005,
+          "bonus": 902.3500000000001
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 45.35,
+          "standard": 14.100000000000001,
+          "bonus": 31.25,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -3627,7 +3635,7 @@
           "name": "Alex DeBrincat",
           "pos": "LW",
           "team": "Det",
-          "slot": "F",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 442.5
         },
@@ -3635,7 +3643,7 @@
           "name": "Alex Tuch",
           "pos": "RW",
           "team": "Wsh",
-          "slot": "F",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 476.9
         },
@@ -3659,7 +3667,7 @@
           "name": "Jack McBain",
           "pos": "C",
           "team": "UTA",
-          "slot": "C",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 485.3
         },
@@ -3667,7 +3675,7 @@
           "name": "Lawson Crouse",
           "pos": "RW",
           "team": "UTA",
-          "slot": "RW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 449.7
         },
@@ -3683,7 +3691,7 @@
           "name": "Bobby McMann",
           "pos": "LW",
           "team": "Sea",
-          "slot": "LW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 422.4
         },
@@ -3707,7 +3715,7 @@
           "name": "Ivan Barbashev",
           "pos": "LW",
           "team": "VGK",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 378.3
         },
@@ -3715,7 +3723,7 @@
           "name": "Parker Kelly",
           "pos": "LW",
           "team": "Col",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 374.4
         },
@@ -3723,7 +3731,7 @@
           "name": "Martin Fehervary",
           "pos": "D",
           "team": "Wsh",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 286.9
         },
@@ -3747,7 +3755,7 @@
           "name": "Fraser Minten",
           "pos": "C",
           "team": "Bos",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 308.9
         },
@@ -3771,7 +3779,7 @@
           "name": "Tyler Bertuzzi",
           "pos": "LW",
           "team": "Chi",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 372.5
         },
@@ -3803,7 +3811,7 @@
           "name": "Oliver Ekman-Larsson",
           "pos": "D",
           "team": "Tor",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 294.5
         }
@@ -3828,8 +3836,8 @@
         "wins": 14,
         "losses": 2,
         "ties": 0,
-        "pointsFor": 2157.7999999999997,
-        "pointsAgainst": 1854.3000000000002,
+        "pointsFor": 2192.35,
+        "pointsAgainst": 1875.2000000000003,
         "streakType": "WIN",
         "streakLength": 2,
         "gamesBack": 1,
@@ -3838,18 +3846,18 @@
       "standingsRank": 4,
       "pointsSplit": {
         "season": {
-          "league": 2157.7999999999997,
-          "standard": 634.9999999999999,
-          "bonus": 1522.7999999999997
+          "league": 2192.35,
+          "standard": 645.1999999999999,
+          "bonus": 1547.15
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 34.55,
+          "standard": 10.2,
+          "bonus": 24.349999999999998,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -3873,15 +3881,15 @@
           "name": "Quinn Hughes",
           "pos": "D",
           "team": "Min",
-          "slot": "BE",
-          "status": "OUT",
+          "slot": "UTIL",
+          "status": "INJURY_RESERVE",
           "proj": 312.4
         },
         {
           "name": "Mikko Rantanen",
           "pos": "RW",
           "team": "Dal",
-          "slot": "BE",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 450.5
         },
@@ -3953,7 +3961,7 @@
           "name": "Gabriel Landeskog",
           "pos": "LW",
           "team": "Col",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 280.3
         },
@@ -3969,7 +3977,7 @@
           "name": "Easton Cowan",
           "pos": "RW",
           "team": "Tor",
-          "slot": "RW",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -3986,14 +3994,14 @@
           "pos": "D",
           "team": "StL",
           "slot": "D",
-          "status": "ACTIVE",
+          "status": "INJURY_RESERVE",
           "proj": 0
         },
         {
           "name": "Trent Frederic",
           "pos": "LW",
           "team": "Edm",
-          "slot": "LW",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -4001,7 +4009,7 @@
           "name": "Patrick Kane",
           "pos": "RW",
           "team": "Chi",
-          "slot": "UTIL",
+          "slot": "RW",
           "status": "ACTIVE",
           "proj": 335.6
         },
@@ -4025,7 +4033,7 @@
           "name": "Trevor Connelly",
           "pos": "LW",
           "team": "VGK",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -4074,8 +4082,8 @@
         "wins": 12,
         "losses": 4,
         "ties": 0,
-        "pointsFor": 2140.65,
-        "pointsAgainst": 1883.4,
+        "pointsFor": 2168.1500000000005,
+        "pointsAgainst": 1915.5,
         "streakType": "WIN",
         "streakLength": 8,
         "gamesBack": 3,
@@ -4084,18 +4092,18 @@
       "standingsRank": 6,
       "pointsSplit": {
         "season": {
-          "league": 2140.6499999999996,
-          "standard": 751.7000000000003,
-          "bonus": 1388.9499999999994
+          "league": 2168.15,
+          "standard": 759.5000000000002,
+          "bonus": 1408.6499999999999
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 26.3,
+          "standard": 7.199999999999999,
+          "bonus": 19.1,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -4119,7 +4127,7 @@
           "name": "Tim Stutzle",
           "pos": "C",
           "team": "Ott",
-          "slot": "F",
+          "slot": "C",
           "status": "ACTIVE",
           "proj": 492.5
         },
@@ -4127,7 +4135,7 @@
           "name": "Juraj Slafkovsky",
           "pos": "LW",
           "team": "Mon",
-          "slot": "BE",
+          "slot": "UTIL",
           "status": "ACTIVE",
           "proj": 488.5
         },
@@ -4143,7 +4151,7 @@
           "name": "J.T. Miller",
           "pos": "C",
           "team": "NYR",
-          "slot": "C",
+          "slot": "LW",
           "status": "ACTIVE",
           "proj": 474.5
         },
@@ -4167,7 +4175,7 @@
           "name": "Peyton Krebs",
           "pos": "C",
           "team": "Buf",
-          "slot": "LW",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 403.4
         },
@@ -4191,7 +4199,7 @@
           "name": "K'Andre Miller",
           "pos": "D",
           "team": "Car",
-          "slot": "D",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 315.2
         },
@@ -4199,7 +4207,7 @@
           "name": "Ridly Greig",
           "pos": "C",
           "team": "Ott",
-          "slot": "BE",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 348.2
         },
@@ -4215,7 +4223,7 @@
           "name": "Erik Haula",
           "pos": "C",
           "team": "LA",
-          "slot": "F",
+          "slot": "BE",
           "status": "ACTIVE",
           "proj": 347.9
         },
@@ -4223,7 +4231,7 @@
           "name": "Zack Bolduc",
           "pos": "LW",
           "team": "Mon",
-          "slot": "UTIL",
+          "slot": "F",
           "status": "ACTIVE",
           "proj": 317.7
         },
@@ -4231,7 +4239,7 @@
           "name": "Zayne Parekh",
           "pos": "D",
           "team": "Cgy",
-          "slot": "BE",
+          "slot": "D",
           "status": "ACTIVE",
           "proj": 0
         },
@@ -4263,8 +4271,8 @@
           "name": "Martin Pospisil",
           "pos": "LW",
           "team": "Cgy",
-          "slot": "F",
-          "status": "DAY_TO_DAY",
+          "slot": "BE",
+          "status": "OUT",
           "proj": 0
         },
         {
@@ -4320,8 +4328,8 @@
         "wins": 15,
         "losses": 1,
         "ties": 0,
-        "pointsFor": 2250.9999999999995,
-        "pointsAgainst": 1811.1499999999999,
+        "pointsFor": 2266.65,
+        "pointsAgainst": 1844.8999999999999,
         "streakType": "WIN",
         "streakLength": 11,
         "gamesBack": 0,
@@ -4330,18 +4338,18 @@
       "standingsRank": 2,
       "pointsSplit": {
         "season": {
-          "league": 2251.0000000000005,
-          "standard": 741.5999999999999,
-          "bonus": 1509.4000000000005
+          "league": 2266.6500000000005,
+          "standard": 746.0999999999999,
+          "bonus": 1520.5500000000006
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 15.049999999999999,
+          "standard": 4.2,
+          "bonus": 10.849999999999998,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -4422,7 +4430,7 @@
           "pos": "G",
           "team": "Min",
           "slot": "BE",
-          "status": "INJURY_RESERVE",
+          "status": "ACTIVE",
           "proj": 304.8
         },
         {
@@ -4558,8 +4566,8 @@
         "wins": 2,
         "losses": 14,
         "ties": 0,
-        "pointsFor": 1378.9,
-        "pointsAgainst": 1971.6,
+        "pointsFor": 1401.45,
+        "pointsAgainst": 2023.9499999999998,
         "streakType": "LOSS",
         "streakLength": 6,
         "gamesBack": 13,
@@ -4568,18 +4576,18 @@
       "standingsRank": 18,
       "pointsSplit": {
         "season": {
-          "league": 1378.9000000000005,
-          "standard": 481.90000000000003,
-          "bonus": 897.0000000000005
+          "league": 1401.4500000000007,
+          "standard": 491.1,
+          "bonus": 910.3500000000007
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 21.900000000000002,
+          "standard": 8.5,
+          "bonus": 13.400000000000002,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     },
@@ -4620,7 +4628,7 @@
           "pos": "D",
           "team": "SJ",
           "slot": "D",
-          "status": "ACTIVE",
+          "status": "OUT",
           "proj": 359.6
         },
         {
@@ -4676,7 +4684,7 @@
           "pos": "C",
           "team": "Edm",
           "slot": "F",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 285.6
         },
         {
@@ -4692,7 +4700,7 @@
           "pos": "LW",
           "team": "LA",
           "slot": "F",
-          "status": "DAY_TO_DAY",
+          "status": "ACTIVE",
           "proj": 279.5
         },
         {
@@ -4700,7 +4708,7 @@
           "pos": "RW",
           "team": "StL",
           "slot": "F",
-          "status": "ACTIVE",
+          "status": "DAY_TO_DAY",
           "proj": 291
         },
         {
@@ -4796,8 +4804,8 @@
         "wins": 6,
         "losses": 10,
         "ties": 0,
-        "pointsFor": 1632.3,
-        "pointsAgainst": 1938.8,
+        "pointsFor": 1678.25,
+        "pointsAgainst": 1990.1499999999999,
         "streakType": "LOSS",
         "streakLength": 2,
         "gamesBack": 9,
@@ -4806,18 +4814,18 @@
       "standingsRank": 13,
       "pointsSplit": {
         "season": {
-          "league": 1632.3000000000006,
-          "standard": 593.5999999999999,
-          "bonus": 1038.7000000000007
+          "league": 1678.2500000000007,
+          "standard": 611.1999999999999,
+          "bonus": 1067.0500000000006
         },
         "week": {
-          "league": 0,
-          "standard": 0,
-          "bonus": 0,
+          "league": 45.95,
+          "standard": 17.6,
+          "bonus": 28.35,
           "period": 9,
-          "days": 1
+          "days": 3
         },
-        "asOf": "2026-11-23T16:31:42.109Z",
+        "asOf": "2026-11-25T16:10:15.446Z",
         "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues"
       }
     }
@@ -4832,19 +4840,19 @@
         "manager": "Robert G.",
         "abbrev": "PP",
         "projected": 357.7,
-        "actual": 0,
-        "leagueProjected": 234.5700018884058,
-        "winProb": 0.015858440378033245
+        "actual": 20.9,
+        "leagueProjected": 217.05927981441528,
+        "winProb": 0.008072150963557123
       },
       "away": {
         "teamId": 19,
         "teamName": "Something's Bruin",
         "manager": "Matthew V.",
         "abbrev": "SIB",
-        "projected": 417.4,
-        "actual": 0,
-        "leagueProjected": 317.65681623215886,
-        "winProb": 0.9841415596219667
+        "projected": 416.7,
+        "actual": 34.55,
+        "leagueProjected": 302.7623785171686,
+        "winProb": 0.9919278490364429
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4859,9 +4867,9 @@
         "manager": "Jordan M.",
         "abbrev": "CHHC",
         "projected": 63.4,
-        "actual": 0,
-        "leagueProjected": 261.9356495149782,
-        "winProb": 0.8915477746825744
+        "actual": 23.15,
+        "leagueProjected": 250.5271758965954,
+        "winProb": 0.923866929830032
       },
       "away": {
         "teamId": 15,
@@ -4869,9 +4877,9 @@
         "manager": "Will M.",
         "abbrev": "WWT",
         "projected": 370.1,
-        "actual": 0,
-        "leagueProjected": 219.9451875072395,
-        "winProb": 0.1084522253174256
+        "actual": 26.6,
+        "leagueProjected": 205.6980335009606,
+        "winProb": 0.07613307016996795
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4885,10 +4893,10 @@
         "teamName": "Team Tenis",
         "manager": "Michael S.",
         "abbrev": "TEN",
-        "projected": 366.3,
-        "actual": 0,
-        "leagueProjected": 270.2608308916274,
-        "winProb": 0.0014083595582652375
+        "projected": 377.7,
+        "actual": 31.35,
+        "leagueProjected": 261.99923834616146,
+        "winProb": 0.00022754116512957445
       },
       "away": {
         "teamId": 1,
@@ -4896,9 +4904,9 @@
         "manager": "Tom O.",
         "abbrev": "SOS",
         "projected": 329.1,
-        "actual": 0,
-        "leagueProjected": 392.11031430017636,
-        "winProb": 0.9985916404417348
+        "actual": 81.3,
+        "leagueProjected": 391.98670625427746,
+        "winProb": 0.9997724588348704
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4912,20 +4920,20 @@
         "teamName": "Pancakes",
         "manager": "Benjamin H.",
         "abbrev": "PAn",
-        "projected": 307.2,
-        "actual": 0,
-        "leagueProjected": 215.15859990156343,
-        "winProb": 0.3228116759277733
+        "projected": 325.3,
+        "actual": 28.05,
+        "leagueProjected": 213.63094122027962,
+        "winProb": 0.11374158753239139
       },
       "away": {
         "teamId": 11,
         "teamName": "All Pro Toews Suckers",
         "manager": "Nic M.",
         "abbrev": "NNT",
-        "projected": 184.3,
-        "actual": 0,
-        "leagueProjected": 231.38151153908515,
-        "winProb": 0.6771883240722267
+        "projected": 263.3,
+        "actual": 43.9,
+        "leagueProjected": 253.87644445961476,
+        "winProb": 0.8862584124676086
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4940,9 +4948,9 @@
         "manager": "Tyler K.",
         "abbrev": "TTT",
         "projected": 348.4,
-        "actual": 0,
-        "leagueProjected": 240.79952521857135,
-        "winProb": 0.6817813346913468
+        "actual": 52.1,
+        "leagueProjected": 239.06529136646924,
+        "winProb": 0.7184836115402359
       },
       "away": {
         "teamId": 22,
@@ -4950,9 +4958,9 @@
         "manager": "Robert K.",
         "abbrev": "GG",
         "projected": 354.8,
-        "actual": 0,
-        "leagueProjected": 223.31982993680424,
-        "winProb": 0.31821866530865317
+        "actual": 21.9,
+        "leagueProjected": 219.4988693181647,
+        "winProb": 0.2815163884597641
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4967,19 +4975,19 @@
         "manager": "Brennan M.",
         "abbrev": "GOO",
         "projected": 393.6,
-        "actual": 0,
-        "leagueProjected": 221.83302860911778,
-        "winProb": 0.3407171996027343
+        "actual": 45.35,
+        "leagueProjected": 255.3124199768211,
+        "winProb": 0.5378440891418699
       },
       "away": {
         "teamId": 10,
         "teamName": "mentally bedarded",
         "manager": "Brenden Q.",
         "abbrev": "BBC",
-        "projected": 178.6,
-        "actual": 0,
-        "leagueProjected": 236.3878127774211,
-        "winProb": 0.6592828003972657
+        "projected": 214.9,
+        "actual": 52.5,
+        "leagueProjected": 252.1164282590444,
+        "winProb": 0.4621559108581301
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -4993,10 +5001,10 @@
         "teamName": "Chicago Bedards",
         "manager": "Michael G.",
         "abbrev": "TCB",
-        "projected": 151.6,
-        "actual": 0,
-        "leagueProjected": 216.9847677737119,
-        "winProb": 0.21830851370091486
+        "projected": 221.1,
+        "actual": 26.3,
+        "leagueProjected": 217.67716929861342,
+        "winProb": 0.2926722117062097
       },
       "away": {
         "teamId": 12,
@@ -5004,9 +5012,9 @@
         "manager": "Matt D.",
         "abbrev": "SJ",
         "projected": 391.7,
-        "actual": 0,
-        "leagueProjected": 245.3715269392199,
-        "winProb": 0.7816914862990851
+        "actual": 32.1,
+        "leagueProjected": 235.93491333917214,
+        "winProb": 0.7073277882937903
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -5020,10 +5028,10 @@
         "teamName": "Richard Bobby",
         "manager": "Richard J.",
         "abbrev": "BTA",
-        "projected": 322.5,
-        "actual": 0,
-        "leagueProjected": 281.8087623486733,
-        "winProb": 0.8663742653762392
+        "projected": 229.9,
+        "actual": 50.75,
+        "leagueProjected": 285.30685921555823,
+        "winProb": 0.9282352834696733
       },
       "away": {
         "teamId": 23,
@@ -5031,9 +5039,9 @@
         "manager": "Sean F.",
         "abbrev": "YSBS",
         "projected": 366.1,
-        "actual": 0,
-        "leagueProjected": 241.20722201623903,
-        "winProb": 0.13362573462376082
+        "actual": 45.95,
+        "leagueProjected": 235.8838619639282,
+        "winProb": 0.07176471653032668
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -5048,19 +5056,19 @@
         "manager": "Joe M.",
         "abbrev": "RIP",
         "projected": 245.9,
-        "actual": 0,
-        "leagueProjected": 262.0277405607089,
-        "winProb": 0.18660584740081643
+        "actual": 15.7,
+        "leagueProjected": 260.59314009948497,
+        "winProb": 0.2626998468316381
       },
       "away": {
         "teamId": 6,
         "teamName": "The Mobile Leprechauns",
         "manager": "Joe D.",
         "abbrev": "LEP",
-        "projected": 359.1,
-        "actual": 0,
-        "leagueProjected": 297.8973755407162,
-        "winProb": 0.8133941525991836
+        "projected": 338.7,
+        "actual": 53.85,
+        "leagueProjected": 284.3278861892103,
+        "winProb": 0.7373001531683618
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -5074,20 +5082,20 @@
         "teamName": "ICE Enforcers",
         "manager": "Jared S.",
         "abbrev": "ICE",
-        "projected": 380.8,
-        "actual": 0,
-        "leagueProjected": 312.353589169062,
-        "winProb": 0.9811625435124678
+        "projected": 392.3,
+        "actual": 15.05,
+        "leagueProjected": 270.1088496934806,
+        "winProb": 0.9414953359262872
       },
       "away": {
         "teamId": 4,
         "teamName": "Fridge Cigarettes",
         "manager": "Greg M.",
         "abbrev": "FGC",
-        "projected": 331.3,
-        "actual": 0,
-        "leagueProjected": 233.22904215731862,
-        "winProb": 0.01883745648753221
+        "projected": 348.3,
+        "actual": 33.75,
+        "leagueProjected": 216.48536639092373,
+        "winProb": 0.0585046640737128
       },
       "winner": "UNDECIDED",
       "projMethod": "season-pace",
@@ -5095,7 +5103,7 @@
     }
   ],
   "pointsSplitMeta": {
-    "asOf": "2026-11-23T16:31:42.109Z",
+    "asOf": "2026-11-25T16:10:15.446Z",
     "standardSource": "ESPN league defaults \"FHL H2H Points\" (fhl 2027 leaguedefaults/2, scoringItems read live); matches the ESPN Pro H2H Points leagues",
     "standardWeights": {
       "1": 4,
@@ -5137,10 +5145,10 @@
     },
     "scoringPeriods": [
       1,
-      56
+      58
     ],
     "currentMatchupPeriod": 9,
-    "teamDaysReconciled": 1120,
+    "teamDaysReconciled": 1160,
     "tolerance": 0.01,
     "statCorrectionTolerance": 1,
     "statCorrections": []
